@@ -1,0 +1,1204 @@
+1:"$Sreact.fragment"
+2:I[38735,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+3:I[19945,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+4:I[65337,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+5:I[96190,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"ClientProviders"]
+6:I[87555,[],""]
+7:I[51901,["8039","static/chunks/app/error-10ebab2e11865aaf.js"],"default"]
+8:I[31295,[],""]
+9:I[6874,["6874","static/chunks/6874-fbe9a08eb79b991c.js","4345","static/chunks/app/not-found-38b9d1a0bc95ac08.js"],""]
+a:I[94970,[],"ClientSegmentRoot"]
+b:I[44065,["206","static/chunks/206-4f4cbf4d7156f437.js","3092","static/chunks/app/documents/layout-5f4e66d848ce7829.js"],"default"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[59665,[],"OutletBoundary"]
+13:I[74911,[],"AsyncMetadataOutlet"]
+15:I[39460,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","5650","static/chunks/app/documents/loading-552c4cd17346a076.js"],"default"]
+16:I[88610,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","4209","static/chunks/app/loading-0c530d99d5132c05.js"],"default"]
+17:I[59665,[],"ViewportBoundary"]
+19:I[26614,[],""]
+:HL["/_next/static/css/de70bee13400563f.css","style"]
+:HL["/_next/static/css/38943437573ce53c.css","style"]
+:HL["/_next/static/css/5eacd01f773eed7f.css","style"]
+0:{"P":null,"b":"xMcHYm_FvwjrVB7JmFp9i","p":"","c":["","documents","en","dark","basic-knowledge","framer-motion-animate-presence",""],"i":false,"f":[[["",{"children":["documents",{"children":[["slug","en/dark/basic-knowledge/framer-motion-animate-presence","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/de70bee13400563f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/38943437573ce53c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 font-sans antialiased min-h-screen bg-background text-foreground","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"z-10 relative min-h-screen flex items-center justify-center bg-background p-8","children":["$","div",null,{"className":"text-center max-w-md","children":[["$","div",null,{"className":"text-8xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-bold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-foreground/70 mb-8","children":"The page you're looking for doesn't exist or has been moved to a different location."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L9",null,{"href":"/","className":"px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/works","className":"px-6 py-2 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors","children":"View Works"}]]}],["$","div",null,{"className":"absolute inset-0 overflow-hidden pointer-events-none -z-10","children":[["$","div",null,{"className":"absolute top-1/4 left-1/4 w-2 h-2 bg-primary/20 rounded-full animate-float"}],["$","div",null,{"className":"absolute top-3/4 right-1/4 w-3 h-3 bg-accent/20 rounded-full animate-float","style":{"animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-1/4 left-1/3 w-1 h-1 bg-secondary/20 rounded-full animate-float","style":{"animationDelay":"2s"}}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["documents",["$","$1","c",{"children":[null,["$","$La",null,{"Component":"$b","slots":{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@c"}]]}],{"children":[["slug","en/dark/basic-knowledge/framer-motion-animate-presence","c"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5eacd01f773eed7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},[["$","$L15","l",{}],[],[]],false]},[["$","$L16","l",{}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","UYE0bw3Dfcs8zkFqo-14C",{"children":[["$","$L17",null,{"children":"$L18"}],null]}],null]}],false]],"m":"$undefined","G":["$19","$undefined"],"s":false,"S":true}
+1a:"$Sreact.suspense"
+1b:I[74911,[],"AsyncMetadata"]
+c:{}
+f:["$","$1a",null,{"fallback":null,"children":["$","$L1b",null,{"promise":"$@1c"}]}]
+1d:I[57340,["5584","static/chunks/b498d07c-095637f0f10883c6.js","2415","static/chunks/2415-689c103fb3d2c28d.js","6874","static/chunks/6874-fbe9a08eb79b991c.js","9554","static/chunks/9554-b714f9de28e85d30.js","1873","static/chunks/app/documents/%5B...slug%5D/page-9ee3d086bd3810e0.js"],"DocumentPageClient"]
+1e:T227c4,<p class="text-base leading-7 mb-4 text-foreground"><code>AnimatePresence</code> is a core component provided by Framer Motion for handling component exit animations. It detects the removal of direct child components in the React component tree, allowing components to execute complete exit animations before unmounting.</p>
+<h3 id="basic-purpose" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-purpose" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Purpose">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Purpose</strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground"><code>AnimatePresence</code> is primarily used in the following scenarios:</p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Component exit animations</strong>: Execute animations before component unmounting</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Conditional rendering animations</strong>: Handle component show/hide based on state</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">List item animations</strong>: Transition effects when list items are added/removed</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Route transition animations</strong>: Animation effects for page or view switching</li>
+</ul>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20%7B%20AnimatePresence%2C%20motion%20%7D%20from%20%22framer-motion%22%3B%0Afunction%20App()%20%7B%0Aconst%20%5Bshow%2C%20setShow%5D%20%3D%20useState(true)%3B%0Areturn%20(%0AAnimatePresence%3E%0A%7Bshow%20%26%26%20(%0Amotion.div%0Akey%3D%22modal%22%0Ainitial%3D%7B%7B%20opacity%3A%200%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%20%7D%7D%0Aexit%3D%7B%7B%20opacity%3A%200%20%7D%7D%0A%3E%0AContent%0Amotion.div%3E%0A)%7D%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> { <span class="hljs-title class_ inline">AnimatePresence</span>, motion } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&quot;framer-motion&quot;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">App</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [show, setShow] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">true</span>);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      {show &amp;&amp; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+          <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">&quot;modal&quot;</span>
+          <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> }}
+          <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span> }}
+          <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> }}
+        &gt;</span>
+          Content
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+      )}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="basic-usage" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-usage" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Usage">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Usage</strong>
+        </h3>
+<h4 id="conditional-rendering-animation" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#conditional-rendering-animation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Conditional Rendering Animation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Conditional Rendering Animation</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20%7B%20AnimatePresence%2C%20motion%20%7D%20from%20%22framer-motion%22%3B%0Afunction%20Modal(%7B%20isOpen%2C%20onClose%20%7D)%20%7B%0Areturn%20(%0AAnimatePresence%3E%0A%7BisOpen%20%26%26%20(%0Amotion.div%0Akey%3D%22modal%22%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200.8%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%2C%20scale%3A%201%20%7D%7D%0Aexit%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200.8%20%7D%7D%0AclassName%3D%22modal-overlay%22%0A%3E%0Amotion.div%0Ainitial%3D%7B%7B%20y%3A%20-50%20%7D%7D%0Aanimate%3D%7B%7B%20y%3A%200%20%7D%7D%0Aexit%3D%7B%7B%20y%3A%20-50%20%7D%7D%0AclassName%3D%22modal-content%22%0A%3E%0Ah2%3EModal%20Titleh2%3E%0Ap%3EModal%20contentp%3E%0Abutton%20onClick%3D%7BonClose%7D%3EClosebutton%3E%0Amotion.div%3E%0Amotion.div%3E%0A)%7D%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> { <span class="hljs-title class_ inline">AnimatePresence</span>, motion } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&quot;framer-motion&quot;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Modal</span>(<span class="hljs-params inline">{ isOpen, onClose }</span>) {
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      {isOpen &amp;&amp; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+          <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">&quot;modal&quot;</span>
+          <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0.8</span> }}
+          <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">1</span> }}
+          <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0.8</span> }}
+          <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;modal-overlay&quot;</span>
+        &gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+            <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">-50</span> }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">0</span> }}
+            <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">-50</span> }}
+            <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;modal-content&quot;</span>
+          &gt;</span>
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">h2</span>&gt;</span>Modal Title<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">h2</span>&gt;</span>
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Modal content<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{onClose}</span>&gt;</span>Close<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+      )}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="list-animations" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#list-animations" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to List Animations">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">List Animations</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20TodoList()%20%7B%0Aconst%20%5Btodos%2C%20setTodos%5D%20%3D%20useState(%5B%0A%7B%20id%3A%201%2C%20text%3A%20%22Learn%20React%22%20%7D%2C%0A%7B%20id%3A%202%2C%20text%3A%20%22Learn%20Framer%20Motion%22%20%7D%0A%5D)%3B%0Aconst%20removeTodo%20%3D%20(id)%20%3D%3E%20%7B%0AsetTodos(prev%20%3D%3E%20prev.filter(todo%20%3D%3E%20todo.id%20!%3D%3D%20id))%3B%0A%7D%3B%0Areturn%20(%0Aul%3E%0AAnimatePresence%3E%0A%7Btodos.map(todo%20%3D%3E%20(%0Amotion.li%0Akey%3D%7Btodo.id%7D%20%2F%2F%20Critical%3A%20Each%20child%20element%20must%20have%20a%20unique%20key%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20x%3A%20-100%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%2C%20x%3A%200%20%7D%7D%0Aexit%3D%7B%7B%20opacity%3A%200%2C%20x%3A%20100%20%7D%7D%0Alayout%20%2F%2F%20Automatically%20handle%20layout%20animations%0A%3E%0A%7Btodo.text%7D%0Abutton%20onClick%3D%7B()%20%3D%3E%20removeTodo(todo.id)%7D%3EDeletebutton%3E%0Amotion.li%3E%0A))%7D%0AAnimatePresence%3E%0Aul%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">TodoList</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [todos, setTodos] = <span class="hljs-title function_ inline">useState</span>([
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">1</span>, <span class="hljs-attr inline">text</span>: <span class="hljs-string inline">&quot;Learn React&quot;</span> },
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">2</span>, <span class="hljs-attr inline">text</span>: <span class="hljs-string inline">&quot;Learn Framer Motion&quot;</span> }
+  ]);
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">removeTodo</span> = (<span class="hljs-params inline">id</span>) =&gt; {
+    <span class="hljs-title function_ inline">setTodos</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> prev.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">todo</span> =&gt;</span> todo.<span class="hljs-property inline">id</span> !== id));
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">ul</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+        {todos.map(todo =&gt; (
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.li</span>
+            <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{todo.id}</span> // <span class="hljs-attr inline">Critical:</span> <span class="hljs-attr inline">Each</span> <span class="hljs-attr inline">child</span> <span class="hljs-attr inline">element</span> <span class="hljs-attr inline">must</span> <span class="hljs-attr inline">have</span> <span class="hljs-attr inline">a</span> <span class="hljs-attr inline">unique</span> <span class="hljs-attr inline">key</span>
+            <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">-100</span> }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">0</span> }}
+            <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">100</span> }}
+            <span class="hljs-attr inline">layout</span> // <span class="hljs-attr inline">Automatically</span> <span class="hljs-attr inline">handle</span> <span class="hljs-attr inline">layout</span> <span class="hljs-attr inline">animations</span>
+          &gt;</span>
+            {todo.text}
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> removeTodo(todo.id)}&gt;Delete<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.li</span>&gt;</span>
+        ))}
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">ul</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="using-variants" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#using-variants" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Using Variants">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Using Variants</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="const%20modalVariants%20%3D%20%7B%0Ahidden%3A%20%7B%0Aopacity%3A%200%2C%0Ascale%3A%200.8%2C%0Atransition%3A%20%7B%0Awhen%3A%20%22afterChildren%22%20%2F%2F%20Execute%20child%20animations%20first%0A%7D%0A%7D%2C%0Avisible%3A%20%7B%0Aopacity%3A%201%2C%0Ascale%3A%201%2C%0Atransition%3A%20%7B%0Awhen%3A%20%22beforeChildren%22%2C%20%2F%2F%20Execute%20parent%20animation%20first%0AstaggerChildren%3A%200.1%20%2F%2F%20Stagger%20child%20animations%0A%7D%0A%7D%0A%7D%3B%0Aconst%20itemVariants%20%3D%20%7B%0Ahidden%3A%20%7B%20opacity%3A%200%2C%20y%3A%2020%20%7D%2C%0Avisible%3A%20%7B%20opacity%3A%201%2C%20y%3A%200%20%7D%0A%7D%3B%0Afunction%20AnimatedModal(%7B%20isOpen%20%7D)%20%7B%0Areturn%20(%0AAnimatePresence%3E%0A%7BisOpen%20%26%26%20(%0Amotion.div%0Avariants%3D%7BmodalVariants%7D%0Ainitial%3D%22hidden%22%0Aanimate%3D%22visible%22%0Aexit%3D%22hidden%22%0AclassName%3D%22modal%22%0A%3E%0Amotion.h2%20variants%3D%7BitemVariants%7D%3ETitlemotion.h2%3E%0Amotion.p%20variants%3D%7BitemVariants%7D%3EContentmotion.p%3E%0Amotion.button%20variants%3D%7BitemVariants%7D%3EButtonmotion.button%3E%0Amotion.div%3E%0A)%7D%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">const</span> modalVariants = {
+  <span class="hljs-attr inline">hidden</span>: { 
+    <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span>, 
+    <span class="hljs-attr inline">scale</span>: <span class="hljs-number inline">0.8</span>,
+    <span class="hljs-attr inline">transition</span>: { 
+      <span class="hljs-attr inline">when</span>: <span class="hljs-string inline">&quot;afterChildren&quot;</span> <span class="hljs-comment inline">// Execute child animations first</span>
+    }
+  },
+  <span class="hljs-attr inline">visible</span>: { 
+    <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">1</span>, 
+    <span class="hljs-attr inline">scale</span>: <span class="hljs-number inline">1</span>,
+    <span class="hljs-attr inline">transition</span>: { 
+      <span class="hljs-attr inline">when</span>: <span class="hljs-string inline">&quot;beforeChildren&quot;</span>, <span class="hljs-comment inline">// Execute parent animation first</span>
+      <span class="hljs-attr inline">staggerChildren</span>: <span class="hljs-number inline">0.1</span> <span class="hljs-comment inline">// Stagger child animations</span>
+    }
+  }
+};
+
+<span class="hljs-keyword inline">const</span> itemVariants = {
+  <span class="hljs-attr inline">hidden</span>: { <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span>, <span class="hljs-attr inline">y</span>: <span class="hljs-number inline">20</span> },
+  <span class="hljs-attr inline">visible</span>: { <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">1</span>, <span class="hljs-attr inline">y</span>: <span class="hljs-number inline">0</span> }
+};
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">AnimatedModal</span>(<span class="hljs-params inline">{ isOpen }</span>) {
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      {isOpen &amp;&amp; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+          <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{modalVariants}</span>
+          <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">&quot;hidden&quot;</span>
+          <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">&quot;visible&quot;</span>
+          <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">&quot;hidden&quot;</span>
+          <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;modal&quot;</span>
+        &gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.h2</span> <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{itemVariants}</span>&gt;</span>Title<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.h2</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.p</span> <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{itemVariants}</span>&gt;</span>Content<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.p</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.button</span> <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{itemVariants}</span>&gt;</span>Button<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.button</span>&gt;</span>
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+      )}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="importance-of-the-key-attribute" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#importance-of-the-key-attribute" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Importance of the key Attribute">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Importance of the key Attribute</strong>
+        </h3>
+<h4 id="triggering-animations-by-changing-key" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#triggering-animations-by-changing-key" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Triggering Animations by Changing key">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Triggering Animations by Changing key</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20Slideshow()%20%7B%0Aconst%20%5BcurrentIndex%2C%20setCurrentIndex%5D%20%3D%20useState(0)%3B%0Aconst%20images%20%3D%20%5B%0A%7B%20id%3A%201%2C%20src%3A%20%22image1.jpg%22%2C%20alt%3A%20%22Image%201%22%20%7D%2C%0A%7B%20id%3A%202%2C%20src%3A%20%22image2.jpg%22%2C%20alt%3A%20%22Image%202%22%20%7D%2C%0A%7B%20id%3A%203%2C%20src%3A%20%22image3.jpg%22%2C%20alt%3A%20%22Image%203%22%20%7D%0A%5D%3B%0Aconst%20currentImage%20%3D%20images%5BcurrentIndex%5D%3B%0Areturn%20(%0Adiv%20className%3D%22slideshow%22%3E%0AAnimatePresence%20mode%3D%22wait%22%3E%0Amotion.img%0Akey%3D%7BcurrentImage.id%7D%20%2F%2F%20Changing%20key%20triggers%20component%20remounting%0Asrc%3D%7BcurrentImage.src%7D%0Aalt%3D%7BcurrentImage.alt%7D%0Ainitial%3D%7B%7B%20x%3A%20300%2C%20opacity%3A%200%20%7D%7D%0Aanimate%3D%7B%7B%20x%3A%200%2C%20opacity%3A%201%20%7D%7D%0Aexit%3D%7B%7B%20x%3A%20-300%2C%20opacity%3A%200%20%7D%7D%0Atransition%3D%7B%7B%20duration%3A%200.5%20%7D%7D%0A%2F%3E%0AAnimatePresence%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCurrentIndex(prev%20%3D%3E%20(prev%20%2B%201)%20%25%20images.length)%7D%3E%0ANext%0Abutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Slideshow</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [currentIndex, setCurrentIndex] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+  <span class="hljs-keyword inline">const</span> images = [
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">1</span>, <span class="hljs-attr inline">src</span>: <span class="hljs-string inline">&quot;image1.jpg&quot;</span>, <span class="hljs-attr inline">alt</span>: <span class="hljs-string inline">&quot;Image 1&quot;</span> },
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">2</span>, <span class="hljs-attr inline">src</span>: <span class="hljs-string inline">&quot;image2.jpg&quot;</span>, <span class="hljs-attr inline">alt</span>: <span class="hljs-string inline">&quot;Image 2&quot;</span> },
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">3</span>, <span class="hljs-attr inline">src</span>: <span class="hljs-string inline">&quot;image3.jpg&quot;</span>, <span class="hljs-attr inline">alt</span>: <span class="hljs-string inline">&quot;Image 3&quot;</span> }
+  ];
+
+  <span class="hljs-keyword inline">const</span> currentImage = images[currentIndex];
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;slideshow&quot;</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span> <span class="hljs-attr inline">mode</span>=<span class="hljs-string inline">&quot;wait&quot;</span>&gt;</span>
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.img</span>
+          <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{currentImage.id}</span> // <span class="hljs-attr inline">Changing</span> <span class="hljs-attr inline">key</span> <span class="hljs-attr inline">triggers</span> <span class="hljs-attr inline">component</span> <span class="hljs-attr inline">remounting</span>
+          <span class="hljs-attr inline">src</span>=<span class="hljs-string inline">{currentImage.src}</span>
+          <span class="hljs-attr inline">alt</span>=<span class="hljs-string inline">{currentImage.alt}</span>
+          <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">300</span>, <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> }}
+          <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span> }}
+          <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">-300</span>, <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> }}
+          <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.5</span> }}
+        /&gt;</span>
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCurrentIndex(prev =&gt; (prev + 1) % images.length)}&gt;
+        Next
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="mode-attribute-explained" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#mode-attribute-explained" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to mode Attribute Explained">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">mode Attribute Explained</strong>
+        </h3>
+<h4 id="sync-mode-default" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#sync-mode-default" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to sync Mode (Default)">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">sync Mode (Default)</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Components%20enter%20and%20exit%20simultaneously%0AAnimatePresence%20mode%3D%22sync%22%3E%0A%7Bshow%20%26%26%20Component%20key%3D%22item%22%20%2F%3E%7D%0AAnimatePresence%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Components enter and exit simultaneously</span>
+&lt;<span class="hljs-title class_ inline">AnimatePresence</span> mode=<span class="hljs-string inline">&quot;sync&quot;</span>&gt;
+  {show &amp;&amp; <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">Component</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">&quot;item&quot;</span> /&gt;</span></span>}
+&lt;/<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+</code></pre>
+            </div>
+        
+<h4 id="wait-mode" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#wait-mode" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to wait Mode">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">wait Mode</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Wait%20for%20exit%20animation%20to%20complete%20before%20starting%20enter%20animation%0AAnimatePresence%20mode%3D%22wait%22%3E%0AComponent%20key%3D%7BactiveTab%7D%20%2F%3E%0AAnimatePresence%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Wait for exit animation to complete before starting enter animation</span>
+&lt;<span class="hljs-title class_ inline">AnimatePresence</span> mode=<span class="hljs-string inline">&quot;wait&quot;</span>&gt;
+  <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">Component</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{activeTab}</span> /&gt;</span></span>
+&lt;/<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+</code></pre>
+            </div>
+        
+<h4 id="poplayout-mode" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#poplayout-mode" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to popLayout Mode">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">popLayout Mode</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Exiting%20elements%20%22pop%20out%22%20of%20layout%2C%20other%20elements%20adjust%20position%20immediately%0AAnimatePresence%20mode%3D%22popLayout%22%3E%0A%7Bitems.map(item%20%3D%3E%20(%0Amotion.div%20key%3D%7Bitem.id%7D%20layout%3E%0A%7Bitem.content%7D%0Amotion.div%3E%0A))%7D%0AAnimatePresence%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Exiting elements &quot;pop out&quot; of layout, other elements adjust position immediately</span>
+&lt;<span class="hljs-title class_ inline">AnimatePresence</span> mode=<span class="hljs-string inline">&quot;popLayout&quot;</span>&gt;
+  {items.<span class="hljs-title function_ inline">map</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{item.id}</span> <span class="hljs-attr inline">layout</span>&gt;</span>
+      {item.content}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span></span>
+  ))}
+&lt;/<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+</code></pre>
+            </div>
+        
+<h3 id="advanced-features" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#advanced-features" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Advanced Features">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Advanced Features</strong>
+        </h3>
+<h4 id="accessing-component-presence-state" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#accessing-component-presence-state" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Accessing Component Presence State">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Accessing Component Presence State</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20%7B%20useIsPresent%20%7D%20from%20%22framer-motion%22%3B%0Afunction%20Component()%20%7B%0Aconst%20isPresent%20%3D%20useIsPresent()%3B%0Areturn%20(%0Amotion.div%0Astyle%3D%7B%7B%0AbackgroundColor%3A%20isPresent%20%3F%20%22green%22%20%3A%20%22red%22%0A%7D%7D%0A%3E%0A%7BisPresent%20%3F%20%22Component%20exists%22%20%3A%20%22Component%20exiting%22%7D%0Amotion.div%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> { useIsPresent } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&quot;framer-motion&quot;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Component</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> isPresent = <span class="hljs-title function_ inline">useIsPresent</span>();
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+      <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span> 
+        <span class="hljs-attr inline">backgroundColor:</span> <span class="hljs-attr inline">isPresent</span> ? &quot;<span class="hljs-attr inline">green</span>&quot; <span class="hljs-attr inline">:</span> &quot;<span class="hljs-attr inline">red</span>&quot; 
+      }}
+    &gt;</span>
+      {isPresent ? &quot;Component exists&quot; : &quot;Component exiting&quot;}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="passing-custom-data" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#passing-custom-data" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Passing Custom Data">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Passing Custom Data</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20Slideshow()%20%7B%0Aconst%20%5Bdirection%2C%20setDirection%5D%20%3D%20useState(1)%3B%20%2F%2F%201%3A%20forward%2C%20-1%3A%20backward%0Aconst%20slideVariants%20%3D%20%7B%0Aenter%3A%20(direction)%20%3D%3E%20(%7B%0Ax%3A%20direction%20%3E%200%20%3F%201000%20%3A%20-1000%2C%0Aopacity%3A%200%0A%7D)%2C%0Acenter%3A%20%7B%0AzIndex%3A%201%2C%0Ax%3A%200%2C%0Aopacity%3A%201%0A%7D%2C%0Aexit%3A%20(direction)%20%3D%3E%20(%7B%0AzIndex%3A%200%2C%0Ax%3A%20direction%200%20%3F%201000%20%3A%20-1000%2C%0Aopacity%3A%200%0A%7D)%0A%7D%3B%0Areturn%20(%0AAnimatePresence%20custom%3D%7Bdirection%7D%3E%0Amotion.div%0Akey%3D%7BcurrentSlide%7D%0Acustom%3D%7Bdirection%7D%0Avariants%3D%7BslideVariants%7D%0Ainitial%3D%22enter%22%0Aanimate%3D%22center%22%0Aexit%3D%22exit%22%0Atransition%3D%7B%7B%20duration%3A%200.5%20%7D%7D%0A%3E%0ASlide%20content%0Amotion.div%3E%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Slideshow</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [direction, setDirection] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">1</span>); <span class="hljs-comment inline">// 1: forward, -1: backward</span>
+
+  <span class="hljs-keyword inline">const</span> slideVariants = {
+    <span class="hljs-attr inline">enter</span>: <span class="hljs-function inline">(<span class="hljs-params inline">direction</span>) =&gt;</span> ({
+      <span class="hljs-attr inline">x</span>: direction &gt; <span class="hljs-number inline">0</span> ? <span class="hljs-number inline">1000</span> : -<span class="hljs-number inline">1000</span>,
+      <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span>
+    }),
+    <span class="hljs-attr inline">center</span>: {
+      <span class="hljs-attr inline">zIndex</span>: <span class="hljs-number inline">1</span>,
+      <span class="hljs-attr inline">x</span>: <span class="hljs-number inline">0</span>,
+      <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">1</span>
+    },
+    <span class="hljs-attr inline">exit</span>: <span class="hljs-function inline">(<span class="hljs-params inline">direction</span>) =&gt;</span> ({
+      <span class="hljs-attr inline">zIndex</span>: <span class="hljs-number inline">0</span>,
+      <span class="hljs-attr inline">x</span>: direction &lt; <span class="hljs-number inline">0</span> ? <span class="hljs-number inline">1000</span> : -<span class="hljs-number inline">1000</span>,
+      <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span>
+    })
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span> <span class="hljs-attr inline">custom</span>=<span class="hljs-string inline">{direction}</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+        <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{currentSlide}</span>
+        <span class="hljs-attr inline">custom</span>=<span class="hljs-string inline">{direction}</span>
+        <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{slideVariants}</span>
+        <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">&quot;enter&quot;</span>
+        <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">&quot;center&quot;</span>
+        <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">&quot;exit&quot;</span>
+        <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.5</span> }}
+      &gt;</span>
+        Slide content
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="manual-removal-control" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#manual-removal-control" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Manual Removal Control">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Manual Removal Control</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20%7B%20usePresence%20%7D%20from%20%22framer-motion%22%3B%0Afunction%20Component()%20%7B%0Aconst%20%5BisPresent%2C%20safeToRemove%5D%20%3D%20usePresence()%3B%0AuseEffect(()%20%3D%3E%20%7B%0Aif%20(!isPresent)%20%7B%0A%2F%2F%20Execute%20custom%20cleanup%20logic%0AsetTimeout(()%20%3D%3E%20%7B%0Aconsole.log(%22Executing%20cleanup%22)%3B%0AsafeToRemove()%3B%20%2F%2F%20Tell%20AnimatePresence%20it's%20safe%20to%20remove%20component%0A%7D%2C%201000)%3B%0A%7D%0A%7D%2C%20%5BisPresent%2C%20safeToRemove%5D)%3B%0Areturn%20div%3EComponent%20with%20custom%20exit%20logicdiv%3E%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> { usePresence } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&quot;framer-motion&quot;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Component</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [isPresent, safeToRemove] = <span class="hljs-title function_ inline">usePresence</span>();
+
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (!isPresent) {
+      <span class="hljs-comment inline">// Execute custom cleanup logic</span>
+      <span class="hljs-built_in inline">setTimeout</span>(<span class="hljs-function inline">() =&gt;</span> {
+        <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&quot;Executing cleanup&quot;</span>);
+        <span class="hljs-title function_ inline">safeToRemove</span>(); <span class="hljs-comment inline">// Tell AnimatePresence it&#x27;s safe to remove component</span>
+      }, <span class="hljs-number inline">1000</span>);
+    }
+  }, [isPresent, safeToRemove]);
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>Component with custom exit logic<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>;
+}
+</code></pre>
+            </div>
+        
+<h3 id="real-world-application-scenarios" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#real-world-application-scenarios" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Real-World Application Scenarios">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Real-World Application Scenarios</strong>
+        </h3>
+<h4 id="route-transition-animation" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#route-transition-animation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Route Transition Animation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Route Transition Animation</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20%7B%20useLocation%20%7D%20from%20%22react-router-dom%22%3B%0Afunction%20AnimatedRoutes()%20%7B%0Aconst%20location%20%3D%20useLocation()%3B%0Areturn%20(%0AAnimatePresence%20mode%3D%22wait%22%3E%0Amotion.div%0Akey%3D%7Blocation.pathname%7D%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20x%3A%20100%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%2C%20x%3A%200%20%7D%7D%0Aexit%3D%7B%7B%20opacity%3A%200%2C%20x%3A%20-100%20%7D%7D%0Atransition%3D%7B%7B%20duration%3A%200.3%20%7D%7D%0A%3E%0ARoutes%20location%3D%7Blocation%7D%3E%0ARoute%20path%3D%22%2F%22%20component%3D%7BHome%7D%20%2F%3E%0ARoute%20path%3D%22%2Fabout%22%20component%3D%7BAbout%7D%20%2F%3E%0ARoute%20path%3D%22%2Fcontact%22%20component%3D%7BContact%7D%20%2F%3E%0ARoutes%3E%0Amotion.div%3E%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> { useLocation } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&quot;react-router-dom&quot;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">AnimatedRoutes</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> location = <span class="hljs-title function_ inline">useLocation</span>();
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span> <span class="hljs-attr inline">mode</span>=<span class="hljs-string inline">&quot;wait&quot;</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+        <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{location.pathname}</span>
+        <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">100</span> }}
+        <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">0</span> }}
+        <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">x:</span> <span class="hljs-attr inline">-100</span> }}
+        <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.3</span> }}
+      &gt;</span>
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">Routes</span> <span class="hljs-attr inline">location</span>=<span class="hljs-string inline">{location}</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">Route</span> <span class="hljs-attr inline">path</span>=<span class="hljs-string inline">&quot;/&quot;</span> <span class="hljs-attr inline">component</span>=<span class="hljs-string inline">{Home}</span> /&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">Route</span> <span class="hljs-attr inline">path</span>=<span class="hljs-string inline">&quot;/about&quot;</span> <span class="hljs-attr inline">component</span>=<span class="hljs-string inline">{About}</span> /&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">Route</span> <span class="hljs-attr inline">path</span>=<span class="hljs-string inline">&quot;/contact&quot;</span> <span class="hljs-attr inline">component</span>=<span class="hljs-string inline">{Contact}</span> /&gt;</span>
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">Routes</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="notification-system" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#notification-system" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Notification System">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Notification System</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20NotificationCenter()%20%7B%0Aconst%20%5Bnotifications%2C%20setNotifications%5D%20%3D%20useState(%5B%5D)%3B%0Aconst%20removeNotification%20%3D%20(id)%20%3D%3E%20%7B%0AsetNotifications(prev%20%3D%3E%20prev.filter(n%20%3D%3E%20n.id%20!%3D%3D%20id))%3B%0A%7D%3B%0Areturn%20(%0Adiv%20className%3D%22notification-center%22%3E%0AAnimatePresence%3E%0A%7Bnotifications.map(notification%20%3D%3E%20(%0Amotion.div%0Akey%3D%7Bnotification.id%7D%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20y%3A%20-50%2C%20scale%3A%200.3%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%2C%20y%3A%200%2C%20scale%3A%201%20%7D%7D%0Aexit%3D%7B%7B%0Aopacity%3A%200%2C%0Ascale%3A%200.5%2C%0Atransition%3A%20%7B%20duration%3A%200.2%20%7D%0A%7D%7D%0Alayout%0AclassName%3D%22notification%22%0A%3E%0Ap%3E%7Bnotification.message%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20removeNotification(notification.id)%7D%3E%0A%C3%97%0Abutton%3E%0Amotion.div%3E%0A))%7D%0AAnimatePresence%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">NotificationCenter</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [notifications, setNotifications] = <span class="hljs-title function_ inline">useState</span>([]);
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">removeNotification</span> = (<span class="hljs-params inline">id</span>) =&gt; {
+    <span class="hljs-title function_ inline">setNotifications</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> prev.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">n</span> =&gt;</span> n.<span class="hljs-property inline">id</span> !== id));
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;notification-center&quot;</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+        {notifications.map(notification =&gt; (
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+            <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{notification.id}</span>
+            <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">-50</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0.3</span> }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">1</span> }}
+            <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> 
+              <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, 
+              <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0.5</span>, 
+              <span class="hljs-attr inline">transition:</span> { <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.2</span> } 
+            }}
+            <span class="hljs-attr inline">layout</span>
+            <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;notification&quot;</span>
+          &gt;</span>
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>{notification.message}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> removeNotification(notification.id)}&gt;
+              ×
+            <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+        ))}
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="search-results-animation" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#search-results-animation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Search Results Animation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Search Results Animation</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20SearchResults(%7B%20results%2C%20query%20%7D)%20%7B%0Areturn%20(%0Adiv%20className%3D%22search-results%22%3E%0AAnimatePresence%3E%0A%7Bresults.map((result%2C%20index)%20%3D%3E%20(%0Amotion.div%0Akey%3D%7Bresult.id%7D%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20y%3A%2020%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%2C%20y%3A%200%20%7D%7D%0Aexit%3D%7B%7B%20opacity%3A%200%2C%20y%3A%20-20%20%7D%7D%0Atransition%3D%7B%7B%20delay%3A%20index%20*%200.05%20%7D%7D%0Alayout%0AclassName%3D%22search-result-item%22%0A%3E%0Ah3%3E%7Bresult.title%7Dh3%3E%0Ap%3E%7Bresult.description%7Dp%3E%0Amotion.div%3E%0A))%7D%0AAnimatePresence%3E%0A%7Bresults.length%20%3D%3D%3D%200%20%26%26%20query%20%26%26%20(%0Amotion.div%0Ainitial%3D%7B%7B%20opacity%3A%200%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%20%7D%7D%0AclassName%3D%22no-results%22%0A%3E%0ANo%20relevant%20results%20found%0Amotion.div%3E%0A)%7D%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">SearchResults</span>(<span class="hljs-params inline">{ results, query }</span>) {
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;search-results&quot;</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+        {results.map((result, index) =&gt; (
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+            <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{result.id}</span>
+            <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">20</span> }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">0</span> }}
+            <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">-20</span> }}
+            <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">delay:</span> <span class="hljs-attr inline">index</span> * <span class="hljs-attr inline">0.05</span> }}
+            <span class="hljs-attr inline">layout</span>
+            <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;search-result-item&quot;</span>
+          &gt;</span>
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">h3</span>&gt;</span>{result.title}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">h3</span>&gt;</span>
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>{result.description}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+        ))}
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      
+      {results.length === 0 &amp;&amp; query &amp;&amp; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+          <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> }}
+          <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span> }}
+          <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;no-results&quot;</span>
+        &gt;</span>
+          No relevant results found
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+      )}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="performance-optimization" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#performance-optimization" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Performance Optimization">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Performance Optimization</strong>
+        </h3>
+<h4 id="avoiding-unnecessary-re-renders" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#avoiding-unnecessary-re-renders" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Avoiding Unnecessary Re-renders">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Avoiding Unnecessary Re-renders</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Problem%3A%20Creating%20new%20variants%20object%20on%20every%20render%0Afunction%20BadComponent()%20%7B%0Areturn%20(%0AAnimatePresence%3E%0Amotion.div%0Avariants%3D%7B%7B%0Ainitial%3A%20%7B%20opacity%3A%200%20%7D%2C%0Aanimate%3A%20%7B%20opacity%3A%201%20%7D%2C%0Aexit%3A%20%7B%20opacity%3A%200%20%7D%0A%7D%7D%0A%2F%3E%0AAnimatePresence%3E%0A)%3B%0A%7D%0A%2F%2F%20Solution%3A%20Extract%20variants%20outside%20the%20component%0Aconst%20variants%20%3D%20%7B%0Ainitial%3A%20%7B%20opacity%3A%200%20%7D%2C%0Aanimate%3A%20%7B%20opacity%3A%201%20%7D%2C%0Aexit%3A%20%7B%20opacity%3A%200%20%7D%0A%7D%3B%0Afunction%20GoodComponent()%20%7B%0Areturn%20(%0AAnimatePresence%3E%0Amotion.div%20variants%3D%7Bvariants%7D%20%2F%3E%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Problem: Creating new variants object on every render</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">BadComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+        <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{{</span>
+          <span class="hljs-attr inline">initial:</span> { <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> },
+          <span class="hljs-attr inline">animate:</span> { <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span> },
+          <span class="hljs-attr inline">exit:</span> { <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> }
+        }}
+      /&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-comment inline">// Solution: Extract variants outside the component</span>
+<span class="hljs-keyword inline">const</span> variants = {
+  <span class="hljs-attr inline">initial</span>: { <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span> },
+  <span class="hljs-attr inline">animate</span>: { <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">1</span> },
+  <span class="hljs-attr inline">exit</span>: { <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span> }
+};
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">GoodComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span> <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{variants}</span> /&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="optimizing-list-animations-with-layout-attribute" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#optimizing-list-animations-with-layout-attribute" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Optimizing List Animations with layout Attribute">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Optimizing List Animations with layout Attribute</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20OptimizedList(%7B%20items%20%7D)%20%7B%0Areturn%20(%0AAnimatePresence%3E%0A%7Bitems.map(item%20%3D%3E%20(%0Amotion.div%0Akey%3D%7Bitem.id%7D%0Alayout%20%2F%2F%20Automatically%20handle%20position%20change%20animations%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200.8%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%2C%20scale%3A%201%20%7D%7D%0Aexit%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200.8%20%7D%7D%0Atransition%3D%7B%7B%0Alayout%3A%20%7B%20duration%3A%200.3%20%7D%2C%20%2F%2F%20Layout%20animation%20configuration%0Aopacity%3A%20%7B%20duration%3A%200.2%20%7D%20%20%2F%2F%20Opacity%20animation%20configuration%0A%7D%7D%0A%3E%0A%7Bitem.content%7D%0Amotion.div%3E%0A))%7D%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">OptimizedList</span>(<span class="hljs-params inline">{ items }</span>) {
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      {items.map(item =&gt; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+          <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{item.id}</span>
+          <span class="hljs-attr inline">layout</span> // <span class="hljs-attr inline">Automatically</span> <span class="hljs-attr inline">handle</span> <span class="hljs-attr inline">position</span> <span class="hljs-attr inline">change</span> <span class="hljs-attr inline">animations</span>
+          <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0.8</span> }}
+          <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">1</span> }}
+          <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0.8</span> }}
+          <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> 
+            <span class="hljs-attr inline">layout:</span> { <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.3</span> }, // <span class="hljs-attr inline">Layout</span> <span class="hljs-attr inline">animation</span> <span class="hljs-attr inline">configuration</span>
+            <span class="hljs-attr inline">opacity:</span> { <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.2</span> }  // <span class="hljs-attr inline">Opacity</span> <span class="hljs-attr inline">animation</span> <span class="hljs-attr inline">configuration</span>
+          }}
+        &gt;</span>
+          {item.content}
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+      ))}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="best-practices" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#best-practices" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Best Practices">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Best Practices</strong>
+        </h3>
+<ol class="list-decimal list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><p class="text-base leading-7 mb-4 text-foreground"><strong class="font-bold text-foreground">Always provide unique keys for direct child components</strong></p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20%E2%9C%85%20Correct%0AAnimatePresence%3E%0A%7Bitems.map(item%20%3D%3E%20(%0Amotion.div%20key%3D%7Bitem.id%7D%3E%0A%7Bitem.content%7D%0Amotion.div%3E%0A))%7D%0AAnimatePresence%3E%0A%2F%2F%20%E2%9D%8C%20Wrong%3A%20Using%20index%20as%20key%0AAnimatePresence%3E%0A%7Bitems.map((item%2C%20index)%20%3D%3E%20(%0Amotion.div%20key%3D%7Bindex%7D%3E%0A%7Bitem.content%7D%0Amotion.div%3E%0A))%7D%0AAnimatePresence%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// ✅ Correct</span>
+&lt;<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+  {items.<span class="hljs-title function_ inline">map</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{item.id}</span>&gt;</span>
+      {item.content}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span></span>
+  ))}
+&lt;/<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+
+<span class="hljs-comment inline">// ❌ Wrong: Using index as key</span>
+<span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+  {items.map((item, index) =&gt; (
+    <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{index}</span>&gt;</span>
+      {item.content}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+  ))}
+<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+</code></pre>
+            </div>
+        </li>
+<li class="text-foreground leading-relaxed"><p class="text-base leading-7 mb-4 text-foreground"><strong class="font-bold text-foreground">Ensure AnimatePresence is outside conditional rendering</strong></p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20%E2%9C%85%20Correct%0AAnimatePresence%3E%0A%7BisVisible%20%26%26%20Component%20%2F%3E%7D%0AAnimatePresence%3E%0A%2F%2F%20%E2%9D%8C%20Wrong%3A%20AnimatePresence%20is%20conditionally%20rendered%0A%7BisVisible%20%26%26%20(%0AAnimatePresence%3E%0AComponent%20%2F%3E%0AAnimatePresence%3E%0A)%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// ✅ Correct</span>
+&lt;<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+  {isVisible &amp;&amp; <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">Component</span> /&gt;</span></span>}
+&lt;/<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+
+<span class="hljs-comment inline">// ❌ Wrong: AnimatePresence is conditionally rendered</span>
+{isVisible &amp;&amp; (
+  <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;<span class="hljs-name inline">Component</span> /&gt;</span>
+  <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+)}
+</code></pre>
+            </div>
+        </li>
+<li class="text-foreground leading-relaxed"><p class="text-base leading-7 mb-4 text-foreground"><strong class="font-bold text-foreground">Use mode attribute appropriately</strong></p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><code>sync</code>: Suitable for most scenarios</li>
+<li class="text-foreground leading-relaxed"><code>wait</code>: Suitable for page transitions, single element replacement</li>
+<li class="text-foreground leading-relaxed"><code>popLayout</code>: Suitable for layout adjustments when list items are deleted</li>
+</ul></li>
+<li class="text-foreground leading-relaxed"><p class="text-base leading-7 mb-4 text-foreground"><strong class="font-bold text-foreground">Performance considerations</strong></p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed">Extract variants objects outside components</li>
+<li class="text-foreground leading-relaxed">Use <code>layout</code> attribute to handle position changes</li>
+<li class="text-foreground leading-relaxed">Avoid complex calculations during animations</li>
+</ul></li>
+</ol>
+<h3 id="common-issues-and-solutions" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#common-issues-and-solutions" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Common Issues and Solutions">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Common Issues and Solutions</strong>
+        </h3>
+<h4 id="exit-animations-not-working" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#exit-animations-not-working" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Exit animations not working">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Exit animations not working</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Problem%3A%20Non-unique%20key%20or%20missing%20key%0AAnimatePresence%3E%0A%7Bshow%20%26%26%20motion.div%3EContentmotion.div%3E%7D%20%7B%2F*%20Missing%20key%20*%2F%7D%0AAnimatePresence%3E%0A%2F%2F%20Solution%3A%20Add%20unique%20key%0AAnimatePresence%3E%0A%7Bshow%20%26%26%20motion.div%20key%3D%22unique-id%22%3EContentmotion.div%3E%7D%0AAnimatePresence%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Problem: Non-unique key or missing key</span>
+&lt;<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+  {show &amp;&amp; <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>&gt;</span>Content<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span></span>} {<span class="hljs-comment inline">/* Missing key */</span>}
+&lt;/<span class="hljs-title class_ inline">AnimatePresence</span>&gt;
+
+<span class="hljs-comment inline">// Solution: Add unique key</span>
+<span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+  {show &amp;&amp; <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">&quot;unique-id&quot;</span>&gt;</span>Content<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>}
+<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+</code></pre>
+            </div>
+        
+<h4 id="layout-animation-conflicts-with-poplayout" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#layout-animation-conflicts-with-poplayout" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Layout animation conflicts with popLayout">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Layout animation conflicts with popLayout</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Solution%3A%20Set%20relative%20positioning%20for%20parent%20container%0Aul%20style%3D%7B%7B%20position%3A%20%22relative%22%20%7D%7D%20layout%3E%0AAnimatePresence%20mode%3D%22popLayout%22%3E%0A%7Bitems.map(item%20%3D%3E%20(%0Amotion.li%20key%3D%7Bitem.id%7D%20layout%20%2F%3E%0A))%7D%0AAnimatePresence%3E%0Aul%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Solution: Set relative positioning for parent container</span>
+&lt;motion.<span class="hljs-property inline">ul</span> style={{ <span class="hljs-attr inline">position</span>: <span class="hljs-string inline">&quot;relative&quot;</span> }} layout&gt;
+  <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span> <span class="hljs-attr inline">mode</span>=<span class="hljs-string inline">&quot;popLayout&quot;</span>&gt;</span>
+    {items.map(item =&gt; (
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.li</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{item.id}</span> <span class="hljs-attr inline">layout</span> /&gt;</span>
+    ))}
+  <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+&lt;/motion.<span class="hljs-property inline">ul</span>&gt;
+</code></pre>
+            </div>
+        
+<h4 id="using-with-layoutgroup" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#using-with-layoutgroup" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Using with LayoutGroup">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Using with LayoutGroup</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20%7B%20LayoutGroup%20%7D%20from%20%22framer-motion%22%3B%0ALayoutGroup%3E%0Amotion.ul%20layout%3E%0AAnimatePresence%3E%0A%7Bitems.map(item%20%3D%3E%20(%0Amotion.li%20key%3D%7Bitem.id%7D%20layout%20%2F%3E%0A))%7D%0AAnimatePresence%3E%0Amotion.ul%3E%0ALayoutGroup%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> { <span class="hljs-title class_ inline">LayoutGroup</span> } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&quot;framer-motion&quot;</span>;
+
+<span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">LayoutGroup</span>&gt;</span>
+  <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.ul</span> <span class="hljs-attr inline">layout</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      {items.map(item =&gt; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.li</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{item.id}</span> <span class="hljs-attr inline">layout</span> /&gt;</span>
+      ))}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+  <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.ul</span>&gt;</span>
+<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">LayoutGroup</span>&gt;</span></span>
+</code></pre>
+            </div>
+        
+<h3 id="complete-example" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#complete-example" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Complete Example">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Complete Example</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20React%2C%20%7B%20useState%20%7D%20from%20'react'%3B%0Aimport%20%7B%20AnimatePresence%2C%20motion%20%7D%20from%20'framer-motion'%3B%0Aconst%20cardVariants%20%3D%20%7B%0Ainitial%3A%20%7B%0Aopacity%3A%200%2C%0Ascale%3A%200.8%2C%0Arotate%3A%20-10%0A%7D%2C%0Aanimate%3A%20%7B%0Aopacity%3A%201%2C%0Ascale%3A%201%2C%0Arotate%3A%200%2C%0Atransition%3A%20%7B%0Aduration%3A%200.3%2C%0Aease%3A%20%22easeOut%22%0A%7D%0A%7D%2C%0Aexit%3A%20%7B%0Aopacity%3A%200%2C%0Ascale%3A%200.8%2C%0Arotate%3A%2010%2C%0Atransition%3A%20%7B%0Aduration%3A%200.2%2C%0Aease%3A%20%22easeIn%22%0A%7D%0A%7D%0A%7D%3B%0Afunction%20CardManager()%20%7B%0Aconst%20%5Bcards%2C%20setCards%5D%20%3D%20useState(%5B%0A%7B%20id%3A%201%2C%20title%3A%20%22Card%201%22%2C%20content%3A%20%22This%20is%20the%20first%20card%22%20%7D%2C%0A%7B%20id%3A%202%2C%20title%3A%20%22Card%202%22%2C%20content%3A%20%22This%20is%20the%20second%20card%22%20%7D%2C%0A%7B%20id%3A%203%2C%20title%3A%20%22Card%203%22%2C%20content%3A%20%22This%20is%20the%20third%20card%22%20%7D%0A%5D)%3B%0Aconst%20addCard%20%3D%20()%20%3D%3E%20%7B%0Aconst%20newCard%20%3D%20%7B%0Aid%3A%20Date.now()%2C%0Atitle%3A%20%60Card%20%24%7Bcards.length%20%2B%201%7D%60%2C%0Acontent%3A%20%60This%20is%20the%20%24%7Bcards.length%20%2B%201%7Dth%20card%60%0A%7D%3B%0AsetCards(prev%20%3D%3E%20%5B...prev%2C%20newCard%5D)%3B%0A%7D%3B%0Aconst%20removeCard%20%3D%20(id)%20%3D%3E%20%7B%0AsetCards(prev%20%3D%3E%20prev.filter(card%20%3D%3E%20card.id%20!%3D%3D%20id))%3B%0A%7D%3B%0Areturn%20(%0Adiv%20className%3D%22card-manager%22%3E%0Abutton%20onClick%3D%7BaddCard%7D%20className%3D%22add-button%22%3E%0AAdd%20Card%0Abutton%3E%0Adiv%20className%3D%22cards-container%22%3E%0AAnimatePresence%3E%0A%7Bcards.map(card%20%3D%3E%20(%0Amotion.div%0Akey%3D%7Bcard.id%7D%0Avariants%3D%7BcardVariants%7D%0Ainitial%3D%22initial%22%0Aanimate%3D%22animate%22%0Aexit%3D%22exit%22%0Alayout%0AclassName%3D%22card%22%0A%3E%0Ah3%3E%7Bcard.title%7Dh3%3E%0Ap%3E%7Bcard.content%7Dp%3E%0Abutton%0AonClick%3D%7B()%20%3D%3E%20removeCard(card.id)%7D%0AclassName%3D%22remove-button%22%0A%3E%0ADelete%0Abutton%3E%0Amotion.div%3E%0A))%7D%0AAnimatePresence%3E%0Adiv%3E%0Adiv%3E%0A)%3B%0A%7D%0Aexport%20default%20CardManager%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { useState } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+<span class="hljs-keyword inline">import</span> { <span class="hljs-title class_ inline">AnimatePresence</span>, motion } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;framer-motion&#x27;</span>;
+
+<span class="hljs-keyword inline">const</span> cardVariants = {
+  <span class="hljs-attr inline">initial</span>: { 
+    <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span>, 
+    <span class="hljs-attr inline">scale</span>: <span class="hljs-number inline">0.8</span>, 
+    <span class="hljs-attr inline">rotate</span>: -<span class="hljs-number inline">10</span> 
+  },
+  <span class="hljs-attr inline">animate</span>: { 
+    <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">1</span>, 
+    <span class="hljs-attr inline">scale</span>: <span class="hljs-number inline">1</span>, 
+    <span class="hljs-attr inline">rotate</span>: <span class="hljs-number inline">0</span>,
+    <span class="hljs-attr inline">transition</span>: {
+      <span class="hljs-attr inline">duration</span>: <span class="hljs-number inline">0.3</span>,
+      <span class="hljs-attr inline">ease</span>: <span class="hljs-string inline">&quot;easeOut&quot;</span>
+    }
+  },
+  <span class="hljs-attr inline">exit</span>: { 
+    <span class="hljs-attr inline">opacity</span>: <span class="hljs-number inline">0</span>, 
+    <span class="hljs-attr inline">scale</span>: <span class="hljs-number inline">0.8</span>, 
+    <span class="hljs-attr inline">rotate</span>: <span class="hljs-number inline">10</span>,
+    <span class="hljs-attr inline">transition</span>: {
+      <span class="hljs-attr inline">duration</span>: <span class="hljs-number inline">0.2</span>,
+      <span class="hljs-attr inline">ease</span>: <span class="hljs-string inline">&quot;easeIn&quot;</span>
+    }
+  }
+};
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">CardManager</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [cards, setCards] = <span class="hljs-title function_ inline">useState</span>([
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">1</span>, <span class="hljs-attr inline">title</span>: <span class="hljs-string inline">&quot;Card 1&quot;</span>, <span class="hljs-attr inline">content</span>: <span class="hljs-string inline">&quot;This is the first card&quot;</span> },
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">2</span>, <span class="hljs-attr inline">title</span>: <span class="hljs-string inline">&quot;Card 2&quot;</span>, <span class="hljs-attr inline">content</span>: <span class="hljs-string inline">&quot;This is the second card&quot;</span> },
+    { <span class="hljs-attr inline">id</span>: <span class="hljs-number inline">3</span>, <span class="hljs-attr inline">title</span>: <span class="hljs-string inline">&quot;Card 3&quot;</span>, <span class="hljs-attr inline">content</span>: <span class="hljs-string inline">&quot;This is the third card&quot;</span> }
+  ]);
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">addCard</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-keyword inline">const</span> newCard = {
+      <span class="hljs-attr inline">id</span>: <span class="hljs-title class_ inline">Date</span>.<span class="hljs-title function_ inline">now</span>(),
+      <span class="hljs-attr inline">title</span>: <span class="hljs-string inline">`Card <span class="hljs-subst inline">${cards.length + <span class="hljs-number inline">1</span>}</span>`</span>,
+      <span class="hljs-attr inline">content</span>: <span class="hljs-string inline">`This is the <span class="hljs-subst inline">${cards.length + <span class="hljs-number inline">1</span>}</span>th card`</span>
+    };
+    <span class="hljs-title function_ inline">setCards</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> [...prev, newCard]);
+  };
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">removeCard</span> = (<span class="hljs-params inline">id</span>) =&gt; {
+    <span class="hljs-title function_ inline">setCards</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> prev.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">card</span> =&gt;</span> card.<span class="hljs-property inline">id</span> !== id));
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;card-manager&quot;</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{addCard}</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;add-button&quot;</span>&gt;</span>
+        Add Card
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+      
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;cards-container&quot;</span>&gt;</span>
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+          {cards.map(card =&gt; (
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+              <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{card.id}</span>
+              <span class="hljs-attr inline">variants</span>=<span class="hljs-string inline">{cardVariants}</span>
+              <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">&quot;initial&quot;</span>
+              <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">&quot;animate&quot;</span>
+              <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">&quot;exit&quot;</span>
+              <span class="hljs-attr inline">layout</span>
+              <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;card&quot;</span>
+            &gt;</span>
+              <span class="hljs-tag inline">&lt;<span class="hljs-name inline">h3</span>&gt;</span>{card.title}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">h3</span>&gt;</span>
+              <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>{card.content}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+              <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> 
+                <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> removeCard(card.id)}
+                className=&quot;remove-button&quot;
+              &gt;
+                Delete
+              <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+            <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+          ))}
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">export</span> <span class="hljs-keyword inline">default</span> <span class="hljs-title class_ inline">CardManager</span>;
+</code></pre>
+            </div>
+        
+<h3 id="important-notes" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#important-notes" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Important Notes">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Important Notes</strong>
+        </h3>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Importance of keys</strong>: Direct child components must have unique and stable keys</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Component hierarchy</strong>: AnimatePresence only detects changes in direct child components</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Performance impact</strong>: Complex exit animations may affect performance, especially on mobile devices</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Browser compatibility</strong>: Requires modern browser support, older browsers may need polyfills</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Memory management</strong>: Ensure proper cleanup of components and event listeners after animations complete</li>
+</ul>
+<p class="text-base leading-7 mb-4 text-foreground"><code>AnimatePresence</code> is a powerful tool for creating smooth user interfaces. When used properly, it can greatly enhance the interactive experience and visual effects of applications.</p>
+d:["$","$L1d",null,{"htmlContent":"$1e","frontMatter":{"title":"Framer Motion AnimatePresence","description":"React Fundamentals - Framer Motion AnimatePresence","date":"2025-06-22","author":"MilkWind","tags":["React","Fundamentals","Framer Motion","Animation","AnimatePresence"],"references":{}},"readingTime":"9 min read","category":"basic-knowledge","tocItems":[{"id":"basic-purpose","text":"Basic Purpose","level":3},{"id":"basic-usage","text":"Basic Usage","level":3},{"id":"conditional-rendering-animation","text":"Conditional Rendering Animation","level":4},{"id":"list-animations","text":"List Animations","level":4},{"id":"using-variants","text":"Using Variants","level":3},{"id":"importance-of-the-key-attribute","text":"Importance of the key Attribute","level":3},{"id":"triggering-animations-by-changing-key","text":"Triggering Animations by Changing key","level":4},{"id":"mode-attribute-explained","text":"mode Attribute Explained","level":3},{"id":"sync-mode-default","text":"sync Mode (Default)","level":4},{"id":"wait-mode","text":"wait Mode","level":4},{"id":"poplayout-mode","text":"popLayout Mode","level":4},{"id":"advanced-features","text":"Advanced Features","level":3},{"id":"accessing-component-presence-state","text":"Accessing Component Presence State","level":4},{"id":"passing-custom-data","text":"Passing Custom Data","level":4},{"id":"manual-removal-control","text":"Manual Removal Control","level":4},{"id":"real-world-application-scenarios","text":"Real-World Application Scenarios","level":3},{"id":"route-transition-animation","text":"Route Transition Animation","level":4},{"id":"notification-system","text":"Notification System","level":4},{"id":"search-results-animation","text":"Search Results Animation","level":4},{"id":"performance-optimization","text":"Performance Optimization","level":3},{"id":"avoiding-unnecessary-re-renders","text":"Avoiding Unnecessary Re-renders","level":4},{"id":"optimizing-list-animations-with-layout-attribute","text":"Optimizing List Animations with layout Attribute","level":4},{"id":"best-practices","text":"Best Practices","level":3},{"id":"common-issues-and-solutions","text":"Common Issues and Solutions","level":3},{"id":"exit-animations-not-working","text":"Exit animations not working","level":4},{"id":"layout-animation-conflicts-with-poplayout","text":"Layout animation conflicts with popLayout","level":4},{"id":"using-with-layoutgroup","text":"Using with LayoutGroup","level":4},{"id":"complete-example","text":"Complete Example","level":3},{"id":"important-notes","text":"Important Notes","level":3}],"translations":{"common":{"welcome":"Welcome","loading":"Loading...","error":"Something went wrong","retry":"Try again","theme":"Theme","language":"Language","light":"Light","dark":"Dark"},"navigation":{"home":"Home","personal":"Personal","works":"Works","contributions":"Contributions","documents":"Documents","about":"About","contact":"Contact"},"personal":{"technicalSkills":"Technical Skills","email":"Email","github":"GitHub","resume":"Resume","codeRepository":"Code Repository","loadingPersonalInfo":"Loading personal information...","loadingResume":"Loading resume...","closeResume":"Close Resume","emailCopied":"Email copied to clipboard!","galaxyDefaultDescription":"Expert in full-stack development, cross-platform architecture, AI technology integration, and high-performance system optimization","skillGalaxy":"Skill Galaxy","stirGalaxy":"Stir Galaxy","stirring":"Stirring...","fullStackEngineer":"MilkWind - Full Stack Engineer","professionalProfile":"About Me"},"documents":{"technicalDocuments":"Technical Documents","description":"Basic principles, code splitting, and some random thoughts.","articles":"Articles","categories":"Categories","allCategories":"All Categories","noArticlesFound":"No articles found","noArticlesAvailable":"No articles available in English.","noArticlesInCategory":"No articles found in the category.","readMore":"Read more","loadingDocuments":"Loading documents...","backToDocuments":"← Back to Documents","documentNotFound":"Document Not Found","documentNotFoundDescription":"The requested document could not be found.","technicalInsights":"Insights","untitledDocument":"Untitled Document","byAuthor":"By","search":"Search articles...","searchByTags":"Filter by tags","searching":"Searching...","noSearchResults":"No articles match your search criteria","clearSearch":"Clear search","selectedTags":"Selected tags","allTags":"All tags","searchInTitle":"Search in titles, descriptions, and content","enterImmersiveMode":"Immersive Reading","exitImmersiveMode":"Exit Immersive Mode","immersiveReading":"Immersive Reading Mode","exploreContent":"Explore content by category","browseBy":"Browse by","exploreAll":"All content in one place","categoryDescription":"Articles in this category","totalArticles":"Articles","totalCategories":"Categories","foundArticles":"Found articles","categoriesWithResults":"Categories with results"},"works":{"workCases":"Work Cases","projects":"Portfolio","loadingProjects":"Loading projects...","grid":"Grid","stack":"Stack","of":"of","workCasesPageTitle":"Work Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contributions":{"contributionCases":"Open Source","contributions":"Contributions","loadingContributions":"Loading contributions...","grid":"Grid","stack":"Stack","of":"of","contributionCasesPageTitle":"Contribution Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contribution":{"contributionPreview":"Contribution Preview","accessible":"Accessible","code":"Code","maintenance":"Maintenance","enhancement":"Enhancement","documentation":"Documentation","community":"Community","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","contributionDetail":"Contribution Detail","description":"Description:","seeDetails":"See Details","github":"GitHub","viewContribution":"View Contribution","viewCode":"View Code"},"project":{"projectPreview":"Project Preview","accessible":"Accessible","tool":"Tool","plugin":"Plugin","toy":"Toy","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","description":"Description:","seeDetails":"See Details","github":"GitHub","gitee":"Gitee","viewLiveDemo":"View Live Demo","viewCode":"View Code","access":"Access","videos":"Videos","watchVideo":"Watch Video","hasVideo":"Has Video"},"codeblock":{"copy":"Copy","copySuccess":"Code copied to clipboard!","copyError":"Failed to copy code","copyTooltip":"Copy code"},"toc":{"contents":"Contents","autoScroll":"Auto-scroll to section","collapse":"Collapse","expand":"Expand"},"loading":{"loading":"LOADING","preparingExperience":"Preparing experience"}},"lang":"en","theme":"dark"}]
+12:null
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:{"metadata":[["$","title","0",{"children":"Framer Motion AnimatePresence | Interactive Portfolio"}],["$","meta","1",{"name":"description","content":"React Fundamentals - Framer Motion AnimatePresence"}],["$","meta","2",{"name":"author","content":"Developer"}],["$","meta","3",{"name":"keywords","content":"portfolio,3D,interactive,web development,Three.js,Next.js"}],["$","meta","4",{"property":"og:title","content":"Framer Motion AnimatePresence | Interactive Portfolio"}],["$","meta","5",{"property":"og:description","content":"React Fundamentals - Framer Motion AnimatePresence"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-06-22"}],["$","meta","8",{"property":"article:tag","content":"React"}],["$","meta","9",{"property":"article:tag","content":"Fundamentals"}],["$","meta","10",{"property":"article:tag","content":"Framer Motion"}],["$","meta","11",{"property":"article:tag","content":"Animation"}],["$","meta","12",{"property":"article:tag","content":"AnimatePresence"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Framer Motion AnimatePresence | Interactive Portfolio"}],["$","meta","15",{"name":"twitter:description","content":"React Fundamentals - Framer Motion AnimatePresence"}],["$","link","16",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1c:metadata","error":null,"digest":"$undefined"}

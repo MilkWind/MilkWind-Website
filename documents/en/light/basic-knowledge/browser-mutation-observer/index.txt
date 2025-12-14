@@ -1,0 +1,450 @@
+1:"$Sreact.fragment"
+2:I[38735,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+3:I[19945,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+4:I[65337,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+5:I[96190,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"ClientProviders"]
+6:I[87555,[],""]
+7:I[51901,["8039","static/chunks/app/error-10ebab2e11865aaf.js"],"default"]
+8:I[31295,[],""]
+9:I[6874,["6874","static/chunks/6874-fbe9a08eb79b991c.js","4345","static/chunks/app/not-found-38b9d1a0bc95ac08.js"],""]
+a:I[94970,[],"ClientSegmentRoot"]
+b:I[44065,["206","static/chunks/206-4f4cbf4d7156f437.js","3092","static/chunks/app/documents/layout-5f4e66d848ce7829.js"],"default"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[59665,[],"OutletBoundary"]
+13:I[74911,[],"AsyncMetadataOutlet"]
+15:I[39460,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","5650","static/chunks/app/documents/loading-552c4cd17346a076.js"],"default"]
+16:I[88610,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","4209","static/chunks/app/loading-0c530d99d5132c05.js"],"default"]
+17:I[59665,[],"ViewportBoundary"]
+19:I[26614,[],""]
+:HL["/_next/static/css/de70bee13400563f.css","style"]
+:HL["/_next/static/css/38943437573ce53c.css","style"]
+:HL["/_next/static/css/5eacd01f773eed7f.css","style"]
+0:{"P":null,"b":"xMcHYm_FvwjrVB7JmFp9i","p":"","c":["","documents","en","light","basic-knowledge","browser-mutation-observer",""],"i":false,"f":[[["",{"children":["documents",{"children":[["slug","en/light/basic-knowledge/browser-mutation-observer","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/de70bee13400563f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/38943437573ce53c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 font-sans antialiased min-h-screen bg-background text-foreground","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"z-10 relative min-h-screen flex items-center justify-center bg-background p-8","children":["$","div",null,{"className":"text-center max-w-md","children":[["$","div",null,{"className":"text-8xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-bold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-foreground/70 mb-8","children":"The page you're looking for doesn't exist or has been moved to a different location."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L9",null,{"href":"/","className":"px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/works","className":"px-6 py-2 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors","children":"View Works"}]]}],["$","div",null,{"className":"absolute inset-0 overflow-hidden pointer-events-none -z-10","children":[["$","div",null,{"className":"absolute top-1/4 left-1/4 w-2 h-2 bg-primary/20 rounded-full animate-float"}],["$","div",null,{"className":"absolute top-3/4 right-1/4 w-3 h-3 bg-accent/20 rounded-full animate-float","style":{"animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-1/4 left-1/3 w-1 h-1 bg-secondary/20 rounded-full animate-float","style":{"animationDelay":"2s"}}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["documents",["$","$1","c",{"children":[null,["$","$La",null,{"Component":"$b","slots":{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@c"}]]}],{"children":[["slug","en/light/basic-knowledge/browser-mutation-observer","c"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5eacd01f773eed7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},[["$","$L15","l",{}],[],[]],false]},[["$","$L16","l",{}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","m4jLPjXQ0qW5wQQy2wKzn",{"children":[["$","$L17",null,{"children":"$L18"}],null]}],null]}],false]],"m":"$undefined","G":["$19","$undefined"],"s":false,"S":true}
+1a:"$Sreact.suspense"
+1b:I[74911,[],"AsyncMetadata"]
+c:{}
+f:["$","$1a",null,{"fallback":null,"children":["$","$L1b",null,{"promise":"$@1c"}]}]
+1d:I[57340,["5584","static/chunks/b498d07c-095637f0f10883c6.js","2415","static/chunks/2415-689c103fb3d2c28d.js","6874","static/chunks/6874-fbe9a08eb79b991c.js","9554","static/chunks/9554-b714f9de28e85d30.js","1873","static/chunks/app/documents/%5B...slug%5D/page-9ee3d086bd3810e0.js"],"DocumentPageClient"]
+1e:Tc829,<p class="text-base leading-7 mb-4 text-foreground"><code>MutationObserver</code> is a native browser API for monitoring changes to the DOM tree. It can asynchronously observe changes to specified elements and their children, making it the recommended approach for handling DOM changes in modern web development.</p>
+<h3 id="basic-purpose" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-purpose" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Purpose">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Purpose</strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground"><code>MutationObserver</code> is used to monitor the following types of DOM changes:</p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed">Addition or removal of child nodes</li>
+<li class="text-foreground leading-relaxed">Attribute changes on elements</li>
+<li class="text-foreground leading-relaxed">Text content changes</li>
+<li class="text-foreground leading-relaxed">Changes to element subtrees</li>
+</ul>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="const%20observer%20%3D%20new%20MutationObserver((mutations)%20%3D%3E%20%7B%0Amutations.forEach((mutation)%20%3D%3E%20%7B%0Aconsole.log('DOM%20changed%3A'%2C%20mutation)%3B%0A%7D)%3B%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">const</span> observer = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">MutationObserver</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutations</span>) =&gt;</span> {
+  mutations.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutation</span>) =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;DOM changed:&#x27;</span>, mutation);
+  });
+});
+</code></pre>
+            </div>
+        
+<h3 id="basic-usage" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-usage" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Usage">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Usage</strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Creating a MutationObserver requires three steps:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%201.%20Create%20observer%20instance%0Aconst%20observer%20%3D%20new%20MutationObserver((mutations%2C%20observer)%20%3D%3E%20%7B%0A%2F%2F%20Handle%20changes%0Amutations.forEach((mutation)%20%3D%3E%20%7B%0Aconsole.log('Change%20type%3A'%2C%20mutation.type)%3B%0Aconsole.log('Target%20element%3A'%2C%20mutation.target)%3B%0A%7D)%3B%0A%7D)%3B%0A%2F%2F%202.%20Configure%20observation%20options%0Aconst%20config%20%3D%20%7B%0AchildList%3A%20true%2C%20%20%20%20%20%20%20%20%2F%2F%20Observe%20child%20node%20changes%0Aattributes%3A%20true%2C%20%20%20%20%20%20%20%2F%2F%20Observe%20attribute%20changes%0AattributeOldValue%3A%20true%2C%2F%2F%20Record%20old%20attribute%20values%0AcharacterData%3A%20true%2C%20%20%20%20%2F%2F%20Observe%20text%20content%20changes%0Asubtree%3A%20true%20%20%20%20%20%20%20%20%20%20%2F%2F%20Observe%20entire%20subtree%0A%7D%3B%0A%2F%2F%203.%20Start%20observing%0Aconst%20targetNode%20%3D%20document.getElementById('myDiv')%3B%0Aobserver.observe(targetNode%2C%20config)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// 1. Create observer instance</span>
+<span class="hljs-keyword inline">const</span> observer = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">MutationObserver</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutations, observer</span>) =&gt;</span> {
+  <span class="hljs-comment inline">// Handle changes</span>
+  mutations.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutation</span>) =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Change type:&#x27;</span>, mutation.<span class="hljs-property inline">type</span>);
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Target element:&#x27;</span>, mutation.<span class="hljs-property inline">target</span>);
+  });
+});
+
+<span class="hljs-comment inline">// 2. Configure observation options</span>
+<span class="hljs-keyword inline">const</span> config = {
+  <span class="hljs-attr inline">childList</span>: <span class="hljs-literal inline">true</span>,        <span class="hljs-comment inline">// Observe child node changes</span>
+  <span class="hljs-attr inline">attributes</span>: <span class="hljs-literal inline">true</span>,       <span class="hljs-comment inline">// Observe attribute changes</span>
+  <span class="hljs-attr inline">attributeOldValue</span>: <span class="hljs-literal inline">true</span>,<span class="hljs-comment inline">// Record old attribute values</span>
+  <span class="hljs-attr inline">characterData</span>: <span class="hljs-literal inline">true</span>,    <span class="hljs-comment inline">// Observe text content changes</span>
+  <span class="hljs-attr inline">subtree</span>: <span class="hljs-literal inline">true</span>          <span class="hljs-comment inline">// Observe entire subtree</span>
+};
+
+<span class="hljs-comment inline">// 3. Start observing</span>
+<span class="hljs-keyword inline">const</span> targetNode = <span class="hljs-variable language_ inline">document</span>.<span class="hljs-title function_ inline">getElementById</span>(<span class="hljs-string inline">&#x27;myDiv&#x27;</span>);
+observer.<span class="hljs-title function_ inline">observe</span>(targetNode, config);
+</code></pre>
+            </div>
+        
+<h3 id="configuration-options-explained" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#configuration-options-explained" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Configuration Options Explained">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Configuration Options Explained</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="const%20config%20%3D%20%7B%0AchildList%3A%20true%2C%20%20%20%20%20%20%20%20%20%20%2F%2F%20Monitor%20addition%2Fremoval%20of%20child%20nodes%0Aattributes%3A%20true%2C%20%20%20%20%20%20%20%20%20%2F%2F%20Monitor%20attribute%20changes%0AattributeOldValue%3A%20true%2C%20%20%2F%2F%20Record%20attribute%20values%20before%20changes%0AattributeFilter%3A%20%5B'class'%2C%20'style'%5D%2C%20%2F%2F%20Only%20monitor%20specified%20attributes%0AcharacterData%3A%20true%2C%20%20%20%20%20%20%2F%2F%20Monitor%20text%20node%20content%20changes%0AcharacterDataOldValue%3A%20true%2C%20%2F%2F%20Record%20text%20values%20before%20changes%0Asubtree%3A%20true%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%20Monitor%20changes%20in%20entire%20subtree%0A%7D%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">const</span> config = {
+  <span class="hljs-attr inline">childList</span>: <span class="hljs-literal inline">true</span>,          <span class="hljs-comment inline">// Monitor addition/removal of child nodes</span>
+  <span class="hljs-attr inline">attributes</span>: <span class="hljs-literal inline">true</span>,         <span class="hljs-comment inline">// Monitor attribute changes</span>
+  <span class="hljs-attr inline">attributeOldValue</span>: <span class="hljs-literal inline">true</span>,  <span class="hljs-comment inline">// Record attribute values before changes</span>
+  <span class="hljs-attr inline">attributeFilter</span>: [<span class="hljs-string inline">&#x27;class&#x27;</span>, <span class="hljs-string inline">&#x27;style&#x27;</span>], <span class="hljs-comment inline">// Only monitor specified attributes</span>
+  <span class="hljs-attr inline">characterData</span>: <span class="hljs-literal inline">true</span>,      <span class="hljs-comment inline">// Monitor text node content changes</span>
+  <span class="hljs-attr inline">characterDataOldValue</span>: <span class="hljs-literal inline">true</span>, <span class="hljs-comment inline">// Record text values before changes</span>
+  <span class="hljs-attr inline">subtree</span>: <span class="hljs-literal inline">true</span>            <span class="hljs-comment inline">// Monitor changes in entire subtree</span>
+};
+</code></pre>
+            </div>
+        
+<h3 id="practical-examples" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#practical-examples" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Practical Examples">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Practical Examples</strong>
+        </h3>
+<h4 id="monitoring-class-name-changes" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#monitoring-class-name-changes" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Monitoring Class Name Changes">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Monitoring Class Name Changes</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="const%20observer%20%3D%20new%20MutationObserver((mutations)%20%3D%3E%20%7B%0Amutations.forEach((mutation)%20%3D%3E%20%7B%0Aif%20(mutation.type%20%3D%3D%3D%20'attributes'%20%26%26%20mutation.attributeName%20%3D%3D%3D%20'class')%20%7B%0Aconsole.log('Class%20changed%20from'%2C%20mutation.oldValue%2C%20'to'%2C%20mutation.target.className)%3B%0A%7D%0A%7D)%3B%0A%7D)%3B%0Aobserver.observe(document.body%2C%20%7B%0Aattributes%3A%20true%2C%0AattributeOldValue%3A%20true%2C%0AattributeFilter%3A%20%5B'class'%5D%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">const</span> observer = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">MutationObserver</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutations</span>) =&gt;</span> {
+  mutations.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutation</span>) =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (mutation.<span class="hljs-property inline">type</span> === <span class="hljs-string inline">&#x27;attributes&#x27;</span> &amp;&amp; mutation.<span class="hljs-property inline">attributeName</span> === <span class="hljs-string inline">&#x27;class&#x27;</span>) {
+      <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Class changed from&#x27;</span>, mutation.<span class="hljs-property inline">oldValue</span>, <span class="hljs-string inline">&#x27;to&#x27;</span>, mutation.<span class="hljs-property inline">target</span>.<span class="hljs-property inline">className</span>);
+    }
+  });
+});
+
+observer.<span class="hljs-title function_ inline">observe</span>(<span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">body</span>, {
+  <span class="hljs-attr inline">attributes</span>: <span class="hljs-literal inline">true</span>,
+  <span class="hljs-attr inline">attributeOldValue</span>: <span class="hljs-literal inline">true</span>,
+  <span class="hljs-attr inline">attributeFilter</span>: [<span class="hljs-string inline">&#x27;class&#x27;</span>]
+});
+</code></pre>
+            </div>
+        
+<h4 id="monitoring-child-element-addition" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#monitoring-child-element-addition" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Monitoring Child Element Addition">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Monitoring Child Element Addition</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="const%20listObserver%20%3D%20new%20MutationObserver((mutations)%20%3D%3E%20%7B%0Amutations.forEach((mutation)%20%3D%3E%20%7B%0Aif%20(mutation.type%20%3D%3D%3D%20'childList')%20%7B%0Amutation.addedNodes.forEach((node)%20%3D%3E%20%7B%0Aif%20(node.nodeType%20%3D%3D%3D%20Node.ELEMENT_NODE)%20%7B%0Aconsole.log('New%20element%20added%3A'%2C%20node)%3B%0A%7D%0A%7D)%3B%0A%7D%0A%7D)%3B%0A%7D)%3B%0Aconst%20todoList%20%3D%20document.getElementById('todoList')%3B%0AlistObserver.observe(todoList%2C%20%7B%20childList%3A%20true%20%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">const</span> listObserver = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">MutationObserver</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutations</span>) =&gt;</span> {
+  mutations.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutation</span>) =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (mutation.<span class="hljs-property inline">type</span> === <span class="hljs-string inline">&#x27;childList&#x27;</span>) {
+      mutation.<span class="hljs-property inline">addedNodes</span>.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline">(<span class="hljs-params inline">node</span>) =&gt;</span> {
+        <span class="hljs-keyword inline">if</span> (node.<span class="hljs-property inline">nodeType</span> === <span class="hljs-title class_ inline">Node</span>.<span class="hljs-property inline">ELEMENT_NODE</span>) {
+          <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;New element added:&#x27;</span>, node);
+        }
+      });
+    }
+  });
+});
+
+<span class="hljs-keyword inline">const</span> todoList = <span class="hljs-variable language_ inline">document</span>.<span class="hljs-title function_ inline">getElementById</span>(<span class="hljs-string inline">&#x27;todoList&#x27;</span>);
+listObserver.<span class="hljs-title function_ inline">observe</span>(todoList, { <span class="hljs-attr inline">childList</span>: <span class="hljs-literal inline">true</span> });
+</code></pre>
+            </div>
+        
+<h3 id="comparison-with-traditional-event-listening" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#comparison-with-traditional-event-listening" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Comparison with Traditional Event Listening">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Comparison with Traditional Event Listening</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20Traditional%20approach%3A%20Using%20DOMNodeInserted%20(deprecated)%0Aelement.addEventListener('DOMNodeInserted'%2C%20handler%2C%20false)%3B%0A%2F%2F%20Modern%20approach%3A%20Using%20MutationObserver%0Aconst%20observer%20%3D%20new%20MutationObserver(handler)%3B%0Aobserver.observe(element%2C%20%7B%20childList%3A%20true%2C%20subtree%3A%20true%20%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// Traditional approach: Using DOMNodeInserted (deprecated)</span>
+element.<span class="hljs-title function_ inline">addEventListener</span>(<span class="hljs-string inline">&#x27;DOMNodeInserted&#x27;</span>, handler, <span class="hljs-literal inline">false</span>);
+
+<span class="hljs-comment inline">// Modern approach: Using MutationObserver</span>
+<span class="hljs-keyword inline">const</span> observer = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">MutationObserver</span>(handler);
+observer.<span class="hljs-title function_ inline">observe</span>(element, { <span class="hljs-attr inline">childList</span>: <span class="hljs-literal inline">true</span>, <span class="hljs-attr inline">subtree</span>: <span class="hljs-literal inline">true</span> });
+</code></pre>
+            </div>
+        
+<h3 id="performance-advantages" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#performance-advantages" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Performance Advantages">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Performance Advantages</strong>
+        </h3>
+<ol class="list-decimal list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Asynchronous execution</strong>: Won’t block the main thread</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Batch processing</strong>: Multiple changes are combined into a single callback</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Precise control</strong>: Can selectively monitor specific types of changes</li>
+</ol>
+<h3 id="real-world-application-scenarios" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#real-world-application-scenarios" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Real-world Application Scenarios">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Real-world Application Scenarios</strong>
+        </h3>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Infinite scroll lists</strong>: Monitor container height changes</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Dynamic content loading</strong>: Monitor insertion of new content</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Theme switching</strong>: Monitor class or data attribute changes</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Form validation</strong>: Monitor input content changes</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Component library development</strong>: Monitor DOM structure changes</li>
+</ul>
+<h3 id="usage-in-react" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#usage-in-react" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Usage in React">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Usage in React</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20React%2C%20%7B%20useEffect%2C%20useRef%20%7D%20from%20'react'%3B%0Afunction%20MyComponent()%20%7B%0Aconst%20containerRef%20%3D%20useRef(null)%3B%0AuseEffect(()%20%3D%3E%20%7B%0Aconst%20observer%20%3D%20new%20MutationObserver((mutations)%20%3D%3E%20%7B%0Amutations.forEach((mutation)%20%3D%3E%20%7B%0Aif%20(mutation.type%20%3D%3D%3D%20'childList')%20%7B%0Aconsole.log('Child%20elements%20changed')%3B%0A%7D%0A%7D)%3B%0A%7D)%3B%0Aif%20(containerRef.current)%20%7B%0Aobserver.observe(containerRef.current%2C%20%7B%0AchildList%3A%20true%2C%0Asubtree%3A%20true%0A%7D)%3B%0A%7D%0A%2F%2F%20Cleanup%20function%0Areturn%20()%20%3D%3E%20%7B%0Aobserver.disconnect()%3B%0A%7D%3B%0A%7D%2C%20%5B%5D)%3B%0Areturn%20div%20ref%3D%7BcontainerRef%7D%3EMonitored%20containerdiv%3E%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { useEffect, useRef } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">MyComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> containerRef = <span class="hljs-title function_ inline">useRef</span>(<span class="hljs-literal inline">null</span>);
+
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">const</span> observer = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">MutationObserver</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutations</span>) =&gt;</span> {
+      mutations.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutation</span>) =&gt;</span> {
+        <span class="hljs-keyword inline">if</span> (mutation.<span class="hljs-property inline">type</span> === <span class="hljs-string inline">&#x27;childList&#x27;</span>) {
+          <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Child elements changed&#x27;</span>);
+        }
+      });
+    });
+
+    <span class="hljs-keyword inline">if</span> (containerRef.<span class="hljs-property inline">current</span>) {
+      observer.<span class="hljs-title function_ inline">observe</span>(containerRef.<span class="hljs-property inline">current</span>, {
+        <span class="hljs-attr inline">childList</span>: <span class="hljs-literal inline">true</span>,
+        <span class="hljs-attr inline">subtree</span>: <span class="hljs-literal inline">true</span>
+      });
+    }
+
+    <span class="hljs-comment inline">// Cleanup function</span>
+    <span class="hljs-keyword inline">return</span> <span class="hljs-function inline">() =&gt;</span> {
+      observer.<span class="hljs-title function_ inline">disconnect</span>();
+    };
+  }, []);
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">ref</span>=<span class="hljs-string inline">{containerRef}</span>&gt;</span>Monitored container<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>;
+}
+</code></pre>
+            </div>
+        
+<h3 id="important-considerations" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#important-considerations" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Important Considerations">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Important Considerations</strong>
+        </h3>
+<ol class="list-decimal list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Proper disconnection</strong>: Use <code>observer.disconnect()</code> to avoid memory leaks</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Avoid infinite loops</strong>: Modifying DOM in callbacks may trigger new changes</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Performance considerations</strong>: Avoid monitoring overly large DOM trees</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Browser compatibility</strong>: Supported in all modern browsers, IE11+</li>
+</ol>
+<h3 id="complete-example" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#complete-example" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Complete Example">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Complete Example</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="class%20DOMWatcher%20%7B%0Aconstructor(target%2C%20options%20%3D%20%7B%7D)%20%7B%0Athis.target%20%3D%20target%3B%0Athis.options%20%3D%20%7B%0AchildList%3A%20true%2C%0Aattributes%3A%20true%2C%0Asubtree%3A%20true%2C%0A...options%0A%7D%3B%0Athis.observer%20%3D%20new%20MutationObserver(this.handleMutations.bind(this))%3B%0A%7D%0AhandleMutations(mutations)%20%7B%0Amutations.forEach((mutation)%20%3D%3E%20%7B%0Aswitch%20(mutation.type)%20%7B%0Acase%20'childList'%3A%0Athis.handleChildListChange(mutation)%3B%0Abreak%3B%0Acase%20'attributes'%3A%0Athis.handleAttributeChange(mutation)%3B%0Abreak%3B%0Acase%20'characterData'%3A%0Athis.handleTextChange(mutation)%3B%0Abreak%3B%0A%7D%0A%7D)%3B%0A%7D%0AhandleChildListChange(mutation)%20%7B%0Aconsole.log('Child%20elements%20changed%3A'%2C%20mutation.addedNodes%2C%20mutation.removedNodes)%3B%0A%7D%0AhandleAttributeChange(mutation)%20%7B%0Aconsole.log('Attribute%20changed%3A'%2C%20mutation.attributeName%2C%20mutation.oldValue)%3B%0A%7D%0AhandleTextChange(mutation)%20%7B%0Aconsole.log('Text%20changed%3A'%2C%20mutation.oldValue%2C%20mutation.target.textContent)%3B%0A%7D%0Astart()%20%7B%0Athis.observer.observe(this.target%2C%20this.options)%3B%0A%7D%0Astop()%20%7B%0Athis.observer.disconnect()%3B%0A%7D%0A%7D%0A%2F%2F%20Usage%20example%0Aconst%20watcher%20%3D%20new%20DOMWatcher(document.body)%3B%0Awatcher.start()%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">class</span> <span class="hljs-title class_ inline">DOMWatcher</span> {
+  <span class="hljs-title function_ inline">constructor</span>(<span class="hljs-params inline">target, options = {}</span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">target</span> = target;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">options</span> = {
+      <span class="hljs-attr inline">childList</span>: <span class="hljs-literal inline">true</span>,
+      <span class="hljs-attr inline">attributes</span>: <span class="hljs-literal inline">true</span>,
+      <span class="hljs-attr inline">subtree</span>: <span class="hljs-literal inline">true</span>,
+      ...options
+    };
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">observer</span> = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">MutationObserver</span>(<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">handleMutations</span>.<span class="hljs-title function_ inline">bind</span>(<span class="hljs-variable language_ inline">this</span>));
+  }
+
+  <span class="hljs-title function_ inline">handleMutations</span>(<span class="hljs-params inline">mutations</span>) {
+    mutations.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline">(<span class="hljs-params inline">mutation</span>) =&gt;</span> {
+      <span class="hljs-keyword inline">switch</span> (mutation.<span class="hljs-property inline">type</span>) {
+        <span class="hljs-keyword inline">case</span> <span class="hljs-string inline">&#x27;childList&#x27;</span>:
+          <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">handleChildListChange</span>(mutation);
+          <span class="hljs-keyword inline">break</span>;
+        <span class="hljs-keyword inline">case</span> <span class="hljs-string inline">&#x27;attributes&#x27;</span>:
+          <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">handleAttributeChange</span>(mutation);
+          <span class="hljs-keyword inline">break</span>;
+        <span class="hljs-keyword inline">case</span> <span class="hljs-string inline">&#x27;characterData&#x27;</span>:
+          <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">handleTextChange</span>(mutation);
+          <span class="hljs-keyword inline">break</span>;
+      }
+    });
+  }
+
+  <span class="hljs-title function_ inline">handleChildListChange</span>(<span class="hljs-params inline">mutation</span>) {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Child elements changed:&#x27;</span>, mutation.<span class="hljs-property inline">addedNodes</span>, mutation.<span class="hljs-property inline">removedNodes</span>);
+  }
+
+  <span class="hljs-title function_ inline">handleAttributeChange</span>(<span class="hljs-params inline">mutation</span>) {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Attribute changed:&#x27;</span>, mutation.<span class="hljs-property inline">attributeName</span>, mutation.<span class="hljs-property inline">oldValue</span>);
+  }
+
+  <span class="hljs-title function_ inline">handleTextChange</span>(<span class="hljs-params inline">mutation</span>) {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Text changed:&#x27;</span>, mutation.<span class="hljs-property inline">oldValue</span>, mutation.<span class="hljs-property inline">target</span>.<span class="hljs-property inline">textContent</span>);
+  }
+
+  <span class="hljs-title function_ inline">start</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">observer</span>.<span class="hljs-title function_ inline">observe</span>(<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">target</span>, <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">options</span>);
+  }
+
+  <span class="hljs-title function_ inline">stop</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">observer</span>.<span class="hljs-title function_ inline">disconnect</span>();
+  }
+}
+
+<span class="hljs-comment inline">// Usage example</span>
+<span class="hljs-keyword inline">const</span> watcher = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">DOMWatcher</span>(<span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">body</span>);
+watcher.<span class="hljs-title function_ inline">start</span>();
+</code></pre>
+            </div>
+        
+<p class="text-base leading-7 mb-4 text-foreground">MutationObserver is the standard solution for monitoring DOM changes in modern web development, providing powerful functionality and excellent performance.</p>
+d:["$","$L1d",null,{"htmlContent":"$1e","frontMatter":{"title":"MutationObserver","description":"Browser Fundamentals - MutationObserver","date":"2025-06-22","author":"MilkWind","tags":["Browser","Fundamentals","MutationObserver","DOM"],"references":{}},"readingTime":"4 min read","category":"basic-knowledge","tocItems":[{"id":"basic-purpose","text":"Basic Purpose","level":3},{"id":"basic-usage","text":"Basic Usage","level":3},{"id":"configuration-options-explained","text":"Configuration Options Explained","level":3},{"id":"practical-examples","text":"Practical Examples","level":3},{"id":"monitoring-class-name-changes","text":"Monitoring Class Name Changes","level":4},{"id":"monitoring-child-element-addition","text":"Monitoring Child Element Addition","level":4},{"id":"comparison-with-traditional-event-listening","text":"Comparison with Traditional Event Listening","level":3},{"id":"performance-advantages","text":"Performance Advantages","level":3},{"id":"real-world-application-scenarios","text":"Real-world Application Scenarios","level":3},{"id":"usage-in-react","text":"Usage in React","level":3},{"id":"important-considerations","text":"Important Considerations","level":3},{"id":"complete-example","text":"Complete Example","level":3}],"translations":{"common":{"welcome":"Welcome","loading":"Loading...","error":"Something went wrong","retry":"Try again","theme":"Theme","language":"Language","light":"Light","dark":"Dark"},"navigation":{"home":"Home","personal":"Personal","works":"Works","contributions":"Contributions","documents":"Documents","about":"About","contact":"Contact"},"personal":{"technicalSkills":"Technical Skills","email":"Email","github":"GitHub","resume":"Resume","codeRepository":"Code Repository","loadingPersonalInfo":"Loading personal information...","loadingResume":"Loading resume...","closeResume":"Close Resume","emailCopied":"Email copied to clipboard!","galaxyDefaultDescription":"Expert in full-stack development, cross-platform architecture, AI technology integration, and high-performance system optimization","skillGalaxy":"Skill Galaxy","stirGalaxy":"Stir Galaxy","stirring":"Stirring...","fullStackEngineer":"MilkWind - Full Stack Engineer","professionalProfile":"About Me"},"documents":{"technicalDocuments":"Technical Documents","description":"Basic principles, code splitting, and some random thoughts.","articles":"Articles","categories":"Categories","allCategories":"All Categories","noArticlesFound":"No articles found","noArticlesAvailable":"No articles available in English.","noArticlesInCategory":"No articles found in the category.","readMore":"Read more","loadingDocuments":"Loading documents...","backToDocuments":"← Back to Documents","documentNotFound":"Document Not Found","documentNotFoundDescription":"The requested document could not be found.","technicalInsights":"Insights","untitledDocument":"Untitled Document","byAuthor":"By","search":"Search articles...","searchByTags":"Filter by tags","searching":"Searching...","noSearchResults":"No articles match your search criteria","clearSearch":"Clear search","selectedTags":"Selected tags","allTags":"All tags","searchInTitle":"Search in titles, descriptions, and content","enterImmersiveMode":"Immersive Reading","exitImmersiveMode":"Exit Immersive Mode","immersiveReading":"Immersive Reading Mode","exploreContent":"Explore content by category","browseBy":"Browse by","exploreAll":"All content in one place","categoryDescription":"Articles in this category","totalArticles":"Articles","totalCategories":"Categories","foundArticles":"Found articles","categoriesWithResults":"Categories with results"},"works":{"workCases":"Work Cases","projects":"Portfolio","loadingProjects":"Loading projects...","grid":"Grid","stack":"Stack","of":"of","workCasesPageTitle":"Work Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contributions":{"contributionCases":"Open Source","contributions":"Contributions","loadingContributions":"Loading contributions...","grid":"Grid","stack":"Stack","of":"of","contributionCasesPageTitle":"Contribution Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contribution":{"contributionPreview":"Contribution Preview","accessible":"Accessible","code":"Code","maintenance":"Maintenance","enhancement":"Enhancement","documentation":"Documentation","community":"Community","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","contributionDetail":"Contribution Detail","description":"Description:","seeDetails":"See Details","github":"GitHub","viewContribution":"View Contribution","viewCode":"View Code"},"project":{"projectPreview":"Project Preview","accessible":"Accessible","tool":"Tool","plugin":"Plugin","toy":"Toy","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","description":"Description:","seeDetails":"See Details","github":"GitHub","gitee":"Gitee","viewLiveDemo":"View Live Demo","viewCode":"View Code","access":"Access","videos":"Videos","watchVideo":"Watch Video","hasVideo":"Has Video"},"codeblock":{"copy":"Copy","copySuccess":"Code copied to clipboard!","copyError":"Failed to copy code","copyTooltip":"Copy code"},"toc":{"contents":"Contents","autoScroll":"Auto-scroll to section","collapse":"Collapse","expand":"Expand"},"loading":{"loading":"LOADING","preparingExperience":"Preparing experience"}},"lang":"en","theme":"light"}]
+12:null
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:{"metadata":[["$","title","0",{"children":"MutationObserver | Interactive Portfolio"}],["$","meta","1",{"name":"description","content":"Browser Fundamentals - MutationObserver"}],["$","meta","2",{"name":"author","content":"Developer"}],["$","meta","3",{"name":"keywords","content":"portfolio,3D,interactive,web development,Three.js,Next.js"}],["$","meta","4",{"property":"og:title","content":"MutationObserver | Interactive Portfolio"}],["$","meta","5",{"property":"og:description","content":"Browser Fundamentals - MutationObserver"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-06-22"}],["$","meta","8",{"property":"article:tag","content":"Browser"}],["$","meta","9",{"property":"article:tag","content":"Fundamentals"}],["$","meta","10",{"property":"article:tag","content":"MutationObserver"}],["$","meta","11",{"property":"article:tag","content":"DOM"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"MutationObserver | Interactive Portfolio"}],["$","meta","14",{"name":"twitter:description","content":"Browser Fundamentals - MutationObserver"}],["$","link","15",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1c:metadata","error":null,"digest":"$undefined"}

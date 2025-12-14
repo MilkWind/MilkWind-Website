@@ -1,0 +1,729 @@
+1:"$Sreact.fragment"
+2:I[38735,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+3:I[19945,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+4:I[65337,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+5:I[96190,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"ClientProviders"]
+6:I[87555,[],""]
+7:I[51901,["8039","static/chunks/app/error-10ebab2e11865aaf.js"],"default"]
+8:I[31295,[],""]
+9:I[6874,["6874","static/chunks/6874-fbe9a08eb79b991c.js","4345","static/chunks/app/not-found-38b9d1a0bc95ac08.js"],""]
+a:I[94970,[],"ClientSegmentRoot"]
+b:I[44065,["206","static/chunks/206-4f4cbf4d7156f437.js","3092","static/chunks/app/documents/layout-5f4e66d848ce7829.js"],"default"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[59665,[],"OutletBoundary"]
+13:I[74911,[],"AsyncMetadataOutlet"]
+15:I[39460,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","5650","static/chunks/app/documents/loading-552c4cd17346a076.js"],"default"]
+16:I[88610,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","4209","static/chunks/app/loading-0c530d99d5132c05.js"],"default"]
+17:I[59665,[],"ViewportBoundary"]
+19:I[26614,[],""]
+:HL["/_next/static/css/de70bee13400563f.css","style"]
+:HL["/_next/static/css/38943437573ce53c.css","style"]
+:HL["/_next/static/css/5eacd01f773eed7f.css","style"]
+0:{"P":null,"b":"xMcHYm_FvwjrVB7JmFp9i","p":"","c":["","documents","en","light","basic-knowledge","browser-request-animation-frame",""],"i":false,"f":[[["",{"children":["documents",{"children":[["slug","en/light/basic-knowledge/browser-request-animation-frame","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/de70bee13400563f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/38943437573ce53c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 font-sans antialiased min-h-screen bg-background text-foreground","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"z-10 relative min-h-screen flex items-center justify-center bg-background p-8","children":["$","div",null,{"className":"text-center max-w-md","children":[["$","div",null,{"className":"text-8xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-bold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-foreground/70 mb-8","children":"The page you're looking for doesn't exist or has been moved to a different location."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L9",null,{"href":"/","className":"px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/works","className":"px-6 py-2 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors","children":"View Works"}]]}],["$","div",null,{"className":"absolute inset-0 overflow-hidden pointer-events-none -z-10","children":[["$","div",null,{"className":"absolute top-1/4 left-1/4 w-2 h-2 bg-primary/20 rounded-full animate-float"}],["$","div",null,{"className":"absolute top-3/4 right-1/4 w-3 h-3 bg-accent/20 rounded-full animate-float","style":{"animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-1/4 left-1/3 w-1 h-1 bg-secondary/20 rounded-full animate-float","style":{"animationDelay":"2s"}}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["documents",["$","$1","c",{"children":[null,["$","$La",null,{"Component":"$b","slots":{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@c"}]]}],{"children":[["slug","en/light/basic-knowledge/browser-request-animation-frame","c"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5eacd01f773eed7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},[["$","$L15","l",{}],[],[]],false]},[["$","$L16","l",{}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","PJj_-B6gvRGdhf4L2yOGl",{"children":[["$","$L17",null,{"children":"$L18"}],null]}],null]}],false]],"m":"$undefined","G":["$19","$undefined"],"s":false,"S":true}
+1a:"$Sreact.suspense"
+1b:I[74911,[],"AsyncMetadata"]
+c:{}
+f:["$","$1a",null,{"fallback":null,"children":["$","$L1b",null,{"promise":"$@1c"}]}]
+1d:I[57340,["5584","static/chunks/b498d07c-095637f0f10883c6.js","2415","static/chunks/2415-689c103fb3d2c28d.js","6874","static/chunks/6874-fbe9a08eb79b991c.js","9554","static/chunks/9554-b714f9de28e85d30.js","1873","static/chunks/app/documents/%5B...slug%5D/page-9ee3d086bd3810e0.js"],"DocumentPageClient"]
+1e:T14623,<p class="text-base leading-7 mb-4 text-foreground"><code>requestAnimationFrame</code> is a native browser API for creating smooth animation effects. It calls a specified callback function before the next repaint, ensuring animations stay synchronized with the browser’s refresh rate.</p>
+<h3 id="basic-purpose" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-purpose" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Purpose">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Purpose</strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">The main purposes of <code>requestAnimationFrame</code> are:</p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed">Execute animation functions before the browser’s next repaint</li>
+<li class="text-foreground leading-relaxed">Synchronize with display refresh rate (typically 60fps)</li>
+<li class="text-foreground leading-relaxed">Automatically pause when page is not visible, saving performance</li>
+<li class="text-foreground leading-relaxed">Provide smoother animation experience</li>
+</ul>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="function%20animate()%20%7B%0A%2F%2F%20Animation%20logic%0Aconsole.log('Executing%20animation%20frame')%3B%0A%2F%2F%20Request%20next%20frame%0ArequestAnimationFrame(animate)%3B%0A%7D%0A%2F%2F%20Start%20animation%0ArequestAnimationFrame(animate)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">animate</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-comment inline">// Animation logic</span>
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Executing animation frame&#x27;</span>);
+  
+  <span class="hljs-comment inline">// Request next frame</span>
+  <span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+}
+
+<span class="hljs-comment inline">// Start animation</span>
+<span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+</code></pre>
+            </div>
+        
+<h3 id="basic-usage" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-usage" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Usage">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Usage</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="function%20animate(timestamp)%20%7B%0A%2F%2F%20timestamp%3A%20current%20timestamp%20(in%20milliseconds)%0Aconsole.log('Current%20time%3A'%2C%20timestamp)%3B%0A%2F%2F%20Execute%20animation%20logic%0Aelement.style.left%20%3D%20Math.sin(timestamp%20%2F%201000)%20*%20100%20%2B%20'px'%3B%0A%2F%2F%20Request%20next%20frame%0ArequestAnimationFrame(animate)%3B%0A%7D%0A%2F%2F%20Start%20animation%0Aconst%20animationId%20%3D%20requestAnimationFrame(animate)%3B%0A%2F%2F%20Cancel%20animation%0AcancelAnimationFrame(animationId)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">animate</span>(<span class="hljs-params inline">timestamp</span>) {
+  <span class="hljs-comment inline">// timestamp: current timestamp (in milliseconds)</span>
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Current time:&#x27;</span>, timestamp);
+  
+  <span class="hljs-comment inline">// Execute animation logic</span>
+  element.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">sin</span>(timestamp / <span class="hljs-number inline">1000</span>) * <span class="hljs-number inline">100</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>;
+  
+  <span class="hljs-comment inline">// Request next frame</span>
+  <span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+}
+
+<span class="hljs-comment inline">// Start animation</span>
+<span class="hljs-keyword inline">const</span> animationId = <span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+
+<span class="hljs-comment inline">// Cancel animation</span>
+<span class="hljs-title function_ inline">cancelAnimationFrame</span>(animationId);
+</code></pre>
+            </div>
+        
+<h3 id="working-principle-and-common-issues" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#working-principle-and-common-issues" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Working Principle and Common Issues">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Working Principle and Common Issues
+        </h3>
+<h4 id="why-is-requestanimationframe-typically-called-recursively" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#why-is-requestanimationframe-typically-called-recursively" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Why is requestAnimationFrame typically called recursively?">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Why is requestAnimationFrame typically called recursively?
+        </h4>
+<p class="text-base leading-7 mb-4 text-foreground"><code>requestAnimationFrame</code> uses recursive calls because it is fundamentally one-time: each call executes the callback function only once before the next repaint. To create continuous animation effects, you need to request the next frame at the end of each callback, forming a recursive calling pattern. This ensures animation frames are precisely synchronized with the browser’s repaint rhythm.</p>
+<h4 id="won’t-continuous-recursive-calls-to-requestanimationframe-cause-stack-overflow" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#won’t-continuous-recursive-calls-to-requestanimationframe-cause-stack-overflow" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Won’t continuous recursive calls to requestAnimationFrame cause stack overflow?">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Won’t continuous recursive calls to requestAnimationFrame cause stack overflow?
+        </h4>
+<p class="text-base leading-7 mb-4 text-foreground">No, it won’t cause stack overflow. Because the callback function of <code>requestAnimationFrame</code> is scheduled by the browser’s event loop mechanism when the current execution stack is empty, following an asynchronous execution model. After each call, the callback function is triggered before the browser’s next repaint, and by that time, the previous function call stack has already completed execution and been released, so the call stack won’t grow indefinitely.</p>
+<h4 id="what-is-the-browser’s-repaint-task-queue" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#what-is-the-browser’s-repaint-task-queue" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to What is the browser’s repaint task queue?">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            What is the browser’s repaint task queue?
+        </h4>
+<p class="text-base leading-7 mb-4 text-foreground">The browser’s repaint task queue is a task queue for managing visual update operations. When DOM or CSS changes require screen updates, these update operations are added to the repaint queue. The browser periodically (usually synchronized with the display refresh rate) takes tasks from the queue for execution to ensure smooth visual updates.</p>
+<h4 id="how-does-requestanimationframe-ensure-synchronization-with-the-browser-refresh-rate" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#how-does-requestanimationframe-ensure-synchronization-with-the-browser-refresh-rate" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to How does requestAnimationFrame ensure synchronization with the browser refresh rate?">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            How does requestAnimationFrame ensure synchronization with the browser refresh rate?
+        </h4>
+<p class="text-base leading-7 mb-4 text-foreground">Browsers regularly trigger repaints at their own refresh rate (typically 60Hz, i.e., 60 times per second) to update the page display. The callback function of <code>requestAnimationFrame</code> is added to the browser’s <strong class="font-bold text-foreground">repaint task queue</strong> and executed before the next repaint, thus naturally aligning with the repaint frequency.</p>
+<p class="text-base leading-7 mb-4 text-foreground">Additionally, browsers may adjust the refresh rate based on device performance or page status (e.g., when switching to the background, it may drop to 30Hz). <code>requestAnimationFrame</code> automatically adapts to these changes, and the callback trigger frequency synchronizes with the browser’s actual repaint frequency without manual intervention.</p>
+<h3 id="comparison-with-traditional-solutions" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#comparison-with-traditional-solutions" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Comparison with Traditional Solutions">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Comparison with Traditional Solutions</strong>
+        </h3>
+<h4 id="problems-with-settimeoutsetinterval" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#problems-with-settimeoutsetinterval" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Problems with setTimeout/setInterval">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Problems with setTimeout/setInterval</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20Traditional%20approach%3A%20Using%20setTimeout%20(not%20recommended)%0Afunction%20animateWithTimeout()%20%7B%0Aelement.style.left%20%3D%20parseInt(element.style.left%20%7C%7C%200)%20%2B%201%20%2B%20'px'%3B%0AsetTimeout(animateWithTimeout%2C%2016)%3B%20%2F%2F%20~60fps%0A%7D%0A%2F%2F%20Problems%3A%0A%2F%2F%201.%20Not%20synchronized%20with%20browser%20refresh%20rate%0A%2F%2F%202.%20Still%20executes%20when%20page%20is%20not%20visible%0A%2F%2F%203.%20May%20cause%20frame%20drops%20or%20stuttering">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// Traditional approach: Using setTimeout (not recommended)</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">animateWithTimeout</span>(<span class="hljs-params inline"></span>) {
+  element.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = <span class="hljs-built_in inline">parseInt</span>(element.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> || <span class="hljs-number inline">0</span>) + <span class="hljs-number inline">1</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>;
+  <span class="hljs-built_in inline">setTimeout</span>(animateWithTimeout, <span class="hljs-number inline">16</span>); <span class="hljs-comment inline">// ~60fps</span>
+}
+
+<span class="hljs-comment inline">// Problems:</span>
+<span class="hljs-comment inline">// 1. Not synchronized with browser refresh rate</span>
+<span class="hljs-comment inline">// 2. Still executes when page is not visible</span>
+<span class="hljs-comment inline">// 3. May cause frame drops or stuttering</span>
+</code></pre>
+            </div>
+        
+<h4 id="advantages-of-requestanimationframe" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#advantages-of-requestanimationframe" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Advantages of requestAnimationFrame">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Advantages of requestAnimationFrame</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20Modern%20approach%3A%20Using%20requestAnimationFrame%20(recommended)%0Afunction%20animateWithRAF(timestamp)%20%7B%0Aelement.style.left%20%3D%20parseInt(element.style.left%20%7C%7C%200)%20%2B%201%20%2B%20'px'%3B%0ArequestAnimationFrame(animateWithRAF)%3B%0A%7D%0A%2F%2F%20Advantages%3A%0A%2F%2F%201.%20Synchronized%20with%20browser%20refresh%20rate%0A%2F%2F%202.%20Automatically%20pauses%20when%20page%20is%20not%20visible%0A%2F%2F%203.%20Better%20performance%20and%20battery%20life">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// Modern approach: Using requestAnimationFrame (recommended)</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">animateWithRAF</span>(<span class="hljs-params inline">timestamp</span>) {
+  element.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = <span class="hljs-built_in inline">parseInt</span>(element.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> || <span class="hljs-number inline">0</span>) + <span class="hljs-number inline">1</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>;
+  <span class="hljs-title function_ inline">requestAnimationFrame</span>(animateWithRAF);
+}
+
+<span class="hljs-comment inline">// Advantages:</span>
+<span class="hljs-comment inline">// 1. Synchronized with browser refresh rate</span>
+<span class="hljs-comment inline">// 2. Automatically pauses when page is not visible</span>
+<span class="hljs-comment inline">// 3. Better performance and battery life</span>
+</code></pre>
+            </div>
+        
+<h3 id="practical-examples" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#practical-examples" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Practical Examples">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Practical Examples</strong>
+        </h3>
+<h4 id="simple-movement-animation" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#simple-movement-animation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Simple Movement Animation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Simple Movement Animation</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="class%20Animator%20%7B%0Aconstructor(element)%20%7B%0Athis.element%20%3D%20element%3B%0Athis.isRunning%20%3D%20false%3B%0Athis.animationId%20%3D%20null%3B%0A%7D%0Astart()%20%7B%0Aif%20(this.isRunning)%20return%3B%0Athis.isRunning%20%3D%20true%3B%0Athis.animate()%3B%0A%7D%0Astop()%20%7B%0Athis.isRunning%20%3D%20false%3B%0Aif%20(this.animationId)%20%7B%0AcancelAnimationFrame(this.animationId)%3B%0A%7D%0A%7D%0Aanimate%20%3D%20(timestamp)%20%3D%3E%20%7B%0Aif%20(!this.isRunning)%20return%3B%0A%2F%2F%20Animation%20logic%0Aconst%20x%20%3D%20Math.sin(timestamp%20%2F%201000)%20*%20200%3B%0Athis.element.style.transform%20%3D%20%60translateX(%24%7Bx%7Dpx)%60%3B%0A%2F%2F%20Request%20next%20frame%0Athis.animationId%20%3D%20requestAnimationFrame(this.animate)%3B%0A%7D%0A%7D%0A%2F%2F%20Usage%20example%0Aconst%20element%20%3D%20document.getElementById('myElement')%3B%0Aconst%20animator%20%3D%20new%20Animator(element)%3B%0Aanimator.start()%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">class</span> <span class="hljs-title class_ inline">Animator</span> {
+  <span class="hljs-title function_ inline">constructor</span>(<span class="hljs-params inline">element</span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">element</span> = element;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span> = <span class="hljs-literal inline">false</span>;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span> = <span class="hljs-literal inline">null</span>;
+  }
+
+  <span class="hljs-title function_ inline">start</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-keyword inline">if</span> (<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span>) <span class="hljs-keyword inline">return</span>;
+    
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span> = <span class="hljs-literal inline">true</span>;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">animate</span>();
+  }
+
+  <span class="hljs-title function_ inline">stop</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span> = <span class="hljs-literal inline">false</span>;
+    <span class="hljs-keyword inline">if</span> (<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span>) {
+      <span class="hljs-title function_ inline">cancelAnimationFrame</span>(<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span>);
+    }
+  }
+
+  animate = <span class="hljs-function inline">(<span class="hljs-params inline">timestamp</span>) =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (!<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span>) <span class="hljs-keyword inline">return</span>;
+
+    <span class="hljs-comment inline">// Animation logic</span>
+    <span class="hljs-keyword inline">const</span> x = <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">sin</span>(timestamp / <span class="hljs-number inline">1000</span>) * <span class="hljs-number inline">200</span>;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">element</span>.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">transform</span> = <span class="hljs-string inline">`translateX(<span class="hljs-subst inline">${x}</span>px)`</span>;
+
+    <span class="hljs-comment inline">// Request next frame</span>
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span> = <span class="hljs-title function_ inline">requestAnimationFrame</span>(<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animate</span>);
+  }
+}
+
+<span class="hljs-comment inline">// Usage example</span>
+<span class="hljs-keyword inline">const</span> element = <span class="hljs-variable language_ inline">document</span>.<span class="hljs-title function_ inline">getElementById</span>(<span class="hljs-string inline">&#x27;myElement&#x27;</span>);
+<span class="hljs-keyword inline">const</span> animator = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">Animator</span>(element);
+animator.<span class="hljs-title function_ inline">start</span>();
+</code></pre>
+            </div>
+        
+<h4 id="time-controlled-animation" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#time-controlled-animation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Time-Controlled Animation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Time-Controlled Animation</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="class%20TimedAnimation%20%7B%0Aconstructor(element%2C%20duration%20%3D%202000)%20%7B%0Athis.element%20%3D%20element%3B%0Athis.duration%20%3D%20duration%3B%0Athis.startTime%20%3D%20null%3B%0A%7D%0Astart()%20%7B%0Athis.startTime%20%3D%20null%3B%0Athis.animate()%3B%0A%7D%0Aanimate%20%3D%20(timestamp)%20%3D%3E%20%7B%0Aif%20(!this.startTime)%20%7B%0Athis.startTime%20%3D%20timestamp%3B%0A%7D%0Aconst%20elapsed%20%3D%20timestamp%20-%20this.startTime%3B%0Aconst%20progress%20%3D%20Math.min(elapsed%20%2F%20this.duration%2C%201)%3B%0A%2F%2F%20Use%20easing%20function%0Aconst%20easeProgress%20%3D%20this.easeInOutQuad(progress)%3B%0A%2F%2F%20Apply%20animation%0Athis.element.style.transform%20%3D%20%60translateX(%24%7BeaseProgress%20*%20300%7Dpx)%60%3B%0A%2F%2F%20Continue%20animation%20or%20end%0Aif%20(progress%201)%20%7B%0ArequestAnimationFrame(this.animate)%3B%0A%7D%20else%20%7B%0Aconsole.log('Animation%20completed')%3B%0A%7D%0A%7D%0AeaseInOutQuad(t)%20%7B%0Areturn%20t%200.5%20%3F%202%20*%20t%20*%20t%20%3A%20-1%20%2B%20(4%20-%202%20*%20t)%20*%20t%3B%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">class</span> <span class="hljs-title class_ inline">TimedAnimation</span> {
+  <span class="hljs-title function_ inline">constructor</span>(<span class="hljs-params inline">element, duration = <span class="hljs-number inline">2000</span></span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">element</span> = element;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">duration</span> = duration;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">startTime</span> = <span class="hljs-literal inline">null</span>;
+  }
+
+  <span class="hljs-title function_ inline">start</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">startTime</span> = <span class="hljs-literal inline">null</span>;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">animate</span>();
+  }
+
+  animate = <span class="hljs-function inline">(<span class="hljs-params inline">timestamp</span>) =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (!<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">startTime</span>) {
+      <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">startTime</span> = timestamp;
+    }
+
+    <span class="hljs-keyword inline">const</span> elapsed = timestamp - <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">startTime</span>;
+    <span class="hljs-keyword inline">const</span> progress = <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">min</span>(elapsed / <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">duration</span>, <span class="hljs-number inline">1</span>);
+
+    <span class="hljs-comment inline">// Use easing function</span>
+    <span class="hljs-keyword inline">const</span> easeProgress = <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">easeInOutQuad</span>(progress);
+    
+    <span class="hljs-comment inline">// Apply animation</span>
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">element</span>.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">transform</span> = <span class="hljs-string inline">`translateX(<span class="hljs-subst inline">${easeProgress * <span class="hljs-number inline">300</span>}</span>px)`</span>;
+
+    <span class="hljs-comment inline">// Continue animation or end</span>
+    <span class="hljs-keyword inline">if</span> (progress &lt; <span class="hljs-number inline">1</span>) {
+      <span class="hljs-title function_ inline">requestAnimationFrame</span>(<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animate</span>);
+    } <span class="hljs-keyword inline">else</span> {
+      <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Animation completed&#x27;</span>);
+    }
+  }
+
+  <span class="hljs-title function_ inline">easeInOutQuad</span>(<span class="hljs-params inline">t</span>) {
+    <span class="hljs-keyword inline">return</span> t &lt; <span class="hljs-number inline">0.5</span> ? <span class="hljs-number inline">2</span> * t * t : -<span class="hljs-number inline">1</span> + (<span class="hljs-number inline">4</span> - <span class="hljs-number inline">2</span> * t) * t;
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="performance-optimization-tips" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#performance-optimization-tips" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Performance Optimization Tips">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Performance Optimization Tips</strong>
+        </h3>
+<h4 id="avoid-forced-reflow" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#avoid-forced-reflow" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Avoid Forced Reflow">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Avoid Forced Reflow</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20Bad%20practice%3A%20Multiple%20read%2Fwrite%20operations%20causing%20reflow%0Afunction%20badAnimate()%20%7B%0Aelement1.style.left%20%3D%20element1.offsetLeft%20%2B%201%20%2B%20'px'%3B%20%2F%2F%20Read%20triggers%20reflow%0Aelement2.style.left%20%3D%20element2.offsetLeft%20%2B%201%20%2B%20'px'%3B%20%2F%2F%20Another%20reflow%0A%7D%0A%2F%2F%20Good%20practice%3A%20Batch%20style%20operations%0Afunction%20goodAnimate()%20%7B%0A%2F%2F%20Read%20all%20needed%20values%20first%0Aconst%20left1%20%3D%20element1.offsetLeft%3B%0Aconst%20left2%20%3D%20element2.offsetLeft%3B%0A%2F%2F%20Then%20batch%20write%20operations%0Aelement1.style.left%20%3D%20left1%20%2B%201%20%2B%20'px'%3B%0Aelement2.style.left%20%3D%20left2%20%2B%201%20%2B%20'px'%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// Bad practice: Multiple read/write operations causing reflow</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">badAnimate</span>(<span class="hljs-params inline"></span>) {
+  element1.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = element1.<span class="hljs-property inline">offsetLeft</span> + <span class="hljs-number inline">1</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>; <span class="hljs-comment inline">// Read triggers reflow</span>
+  element2.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = element2.<span class="hljs-property inline">offsetLeft</span> + <span class="hljs-number inline">1</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>; <span class="hljs-comment inline">// Another reflow</span>
+}
+
+<span class="hljs-comment inline">// Good practice: Batch style operations</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">goodAnimate</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-comment inline">// Read all needed values first</span>
+  <span class="hljs-keyword inline">const</span> left1 = element1.<span class="hljs-property inline">offsetLeft</span>;
+  <span class="hljs-keyword inline">const</span> left2 = element2.<span class="hljs-property inline">offsetLeft</span>;
+  
+  <span class="hljs-comment inline">// Then batch write operations</span>
+  element1.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = left1 + <span class="hljs-number inline">1</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>;
+  element2.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = left2 + <span class="hljs-number inline">1</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>;
+}
+</code></pre>
+            </div>
+        
+<h4 id="use-css-transforms-instead-of-position-changes" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#use-css-transforms-instead-of-position-changes" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Use CSS Transforms Instead of Position Changes">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Use CSS Transforms Instead of Position Changes</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20Poor%20performance%3A%20Changing%20left%2Ftop%0Afunction%20slowAnimate(timestamp)%20%7B%0Aelement.style.left%20%3D%20Math.sin(timestamp%20%2F%201000)%20*%20100%20%2B%20'px'%3B%0A%7D%0A%2F%2F%20Better%20performance%3A%20Using%20transform%0Afunction%20fastAnimate(timestamp)%20%7B%0Aconst%20x%20%3D%20Math.sin(timestamp%20%2F%201000)%20*%20100%3B%0Aelement.style.transform%20%3D%20%60translateX(%24%7Bx%7Dpx)%60%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// Poor performance: Changing left/top</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">slowAnimate</span>(<span class="hljs-params inline">timestamp</span>) {
+  element.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">left</span> = <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">sin</span>(timestamp / <span class="hljs-number inline">1000</span>) * <span class="hljs-number inline">100</span> + <span class="hljs-string inline">&#x27;px&#x27;</span>;
+}
+
+<span class="hljs-comment inline">// Better performance: Using transform</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">fastAnimate</span>(<span class="hljs-params inline">timestamp</span>) {
+  <span class="hljs-keyword inline">const</span> x = <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">sin</span>(timestamp / <span class="hljs-number inline">1000</span>) * <span class="hljs-number inline">100</span>;
+  element.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">transform</span> = <span class="hljs-string inline">`translateX(<span class="hljs-subst inline">${x}</span>px)`</span>;
+}
+</code></pre>
+            </div>
+        
+<h3 id="usage-in-react" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#usage-in-react" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Usage in React">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Usage in React</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20React%2C%20%7B%20useEffect%2C%20useRef%2C%20useState%20%7D%20from%20'react'%3B%0Afunction%20AnimatedComponent()%20%7B%0Aconst%20elementRef%20%3D%20useRef(null)%3B%0Aconst%20animationRef%20%3D%20useRef(null)%3B%0Aconst%20%5BisAnimating%2C%20setIsAnimating%5D%20%3D%20useState(false)%3B%0Aconst%20animate%20%3D%20(timestamp)%20%3D%3E%20%7B%0Aif%20(!elementRef.current%20%7C%7C%20!isAnimating)%20return%3B%0Aconst%20x%20%3D%20Math.sin(timestamp%20%2F%201000)%20*%20100%3B%0AelementRef.current.style.transform%20%3D%20%60translateX(%24%7Bx%7Dpx)%60%3B%0AanimationRef.current%20%3D%20requestAnimationFrame(animate)%3B%0A%7D%3B%0Aconst%20startAnimation%20%3D%20()%20%3D%3E%20%7B%0AsetIsAnimating(true)%3B%0A%7D%3B%0Aconst%20stopAnimation%20%3D%20()%20%3D%3E%20%7B%0AsetIsAnimating(false)%3B%0Aif%20(animationRef.current)%20%7B%0AcancelAnimationFrame(animationRef.current)%3B%0A%7D%0A%7D%3B%0AuseEffect(()%20%3D%3E%20%7B%0Aif%20(isAnimating)%20%7B%0AanimationRef.current%20%3D%20requestAnimationFrame(animate)%3B%0A%7D%0Areturn%20()%20%3D%3E%20%7B%0Aif%20(animationRef.current)%20%7B%0AcancelAnimationFrame(animationRef.current)%3B%0A%7D%0A%7D%3B%0A%7D%2C%20%5BisAnimating%5D)%3B%0Areturn%20(%0Adiv%3E%0Adiv%20ref%3D%7BelementRef%7D%20style%3D%7B%7B%20width%3A%2050%2C%20height%3A%2050%2C%20backgroundColor%3A%20'blue'%20%7D%7D%3E%0AAnimated%20Element%0Adiv%3E%0Abutton%20onClick%3D%7BisAnimating%20%3F%20stopAnimation%20%3A%20startAnimation%7D%3E%0A%7BisAnimating%20%3F%20'Stop'%20%3A%20'Start'%7D%20Animation%0Abutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { useEffect, useRef, useState } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">AnimatedComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> elementRef = <span class="hljs-title function_ inline">useRef</span>(<span class="hljs-literal inline">null</span>);
+  <span class="hljs-keyword inline">const</span> animationRef = <span class="hljs-title function_ inline">useRef</span>(<span class="hljs-literal inline">null</span>);
+  <span class="hljs-keyword inline">const</span> [isAnimating, setIsAnimating] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">false</span>);
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">animate</span> = (<span class="hljs-params inline">timestamp</span>) =&gt; {
+    <span class="hljs-keyword inline">if</span> (!elementRef.<span class="hljs-property inline">current</span> || !isAnimating) <span class="hljs-keyword inline">return</span>;
+
+    <span class="hljs-keyword inline">const</span> x = <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">sin</span>(timestamp / <span class="hljs-number inline">1000</span>) * <span class="hljs-number inline">100</span>;
+    elementRef.<span class="hljs-property inline">current</span>.<span class="hljs-property inline">style</span>.<span class="hljs-property inline">transform</span> = <span class="hljs-string inline">`translateX(<span class="hljs-subst inline">${x}</span>px)`</span>;
+
+    animationRef.<span class="hljs-property inline">current</span> = <span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+  };
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">startAnimation</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-title function_ inline">setIsAnimating</span>(<span class="hljs-literal inline">true</span>);
+  };
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">stopAnimation</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-title function_ inline">setIsAnimating</span>(<span class="hljs-literal inline">false</span>);
+    <span class="hljs-keyword inline">if</span> (animationRef.<span class="hljs-property inline">current</span>) {
+      <span class="hljs-title function_ inline">cancelAnimationFrame</span>(animationRef.<span class="hljs-property inline">current</span>);
+    }
+  };
+
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (isAnimating) {
+      animationRef.<span class="hljs-property inline">current</span> = <span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+    }
+
+    <span class="hljs-keyword inline">return</span> <span class="hljs-function inline">() =&gt;</span> {
+      <span class="hljs-keyword inline">if</span> (animationRef.<span class="hljs-property inline">current</span>) {
+        <span class="hljs-title function_ inline">cancelAnimationFrame</span>(animationRef.<span class="hljs-property inline">current</span>);
+      }
+    };
+  }, [isAnimating]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">ref</span>=<span class="hljs-string inline">{elementRef}</span> <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">width:</span> <span class="hljs-attr inline">50</span>, <span class="hljs-attr inline">height:</span> <span class="hljs-attr inline">50</span>, <span class="hljs-attr inline">backgroundColor:</span> &#x27;<span class="hljs-attr inline">blue</span>&#x27; }}&gt;</span>
+        Animated Element
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{isAnimating</span> ? <span class="hljs-attr inline">stopAnimation</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">startAnimation</span>}&gt;</span>
+        {isAnimating ? &#x27;Stop&#x27; : &#x27;Start&#x27;} Animation
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="custom-animation-hook" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#custom-animation-hook" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Custom Animation Hook">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Custom Animation Hook</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20%7B%20useEffect%2C%20useRef%2C%20useCallback%20%7D%20from%20'react'%3B%0Afunction%20useAnimationFrame(callback%2C%20isRunning%20%3D%20true)%20%7B%0Aconst%20requestRef%20%3D%20useRef()%3B%0Aconst%20animate%20%3D%20useCallback((timestamp)%20%3D%3E%20%7B%0Acallback(timestamp)%3B%0Aif%20(isRunning)%20%7B%0ArequestRef.current%20%3D%20requestAnimationFrame(animate)%3B%0A%7D%0A%7D%2C%20%5Bcallback%2C%20isRunning%5D)%3B%0AuseEffect(()%20%3D%3E%20%7B%0Aif%20(isRunning)%20%7B%0ArequestRef.current%20%3D%20requestAnimationFrame(animate)%3B%0A%7D%20else%20%7B%0Aif%20(requestRef.current)%20%7B%0AcancelAnimationFrame(requestRef.current)%3B%0A%7D%0A%7D%0Areturn%20()%20%3D%3E%20%7B%0Aif%20(requestRef.current)%20%7B%0AcancelAnimationFrame(requestRef.current)%3B%0A%7D%0A%7D%3B%0A%7D%2C%20%5Banimate%2C%20isRunning%5D)%3B%0A%7D%0A%2F%2F%20Usage%20example%0Afunction%20MyAnimatedComponent()%20%7B%0Aconst%20%5Bposition%2C%20setPosition%5D%20%3D%20useState(0)%3B%0AuseAnimationFrame((timestamp)%20%3D%3E%20%7B%0AsetPosition(Math.sin(timestamp%20%2F%201000)%20*%20100)%3B%0A%7D)%3B%0Areturn%20(%0Adiv%20style%3D%7B%7B%20transform%3A%20%60translateX(%24%7Bposition%7Dpx)%60%20%7D%7D%3E%0AAnimated%20Content%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> { useEffect, useRef, useCallback } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">useAnimationFrame</span>(<span class="hljs-params inline">callback, isRunning = <span class="hljs-literal inline">true</span></span>) {
+  <span class="hljs-keyword inline">const</span> requestRef = <span class="hljs-title function_ inline">useRef</span>();
+
+  <span class="hljs-keyword inline">const</span> animate = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">(<span class="hljs-params inline">timestamp</span>) =&gt;</span> {
+    <span class="hljs-title function_ inline">callback</span>(timestamp);
+    <span class="hljs-keyword inline">if</span> (isRunning) {
+      requestRef.<span class="hljs-property inline">current</span> = <span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+    }
+  }, [callback, isRunning]);
+
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (isRunning) {
+      requestRef.<span class="hljs-property inline">current</span> = <span class="hljs-title function_ inline">requestAnimationFrame</span>(animate);
+    } <span class="hljs-keyword inline">else</span> {
+      <span class="hljs-keyword inline">if</span> (requestRef.<span class="hljs-property inline">current</span>) {
+        <span class="hljs-title function_ inline">cancelAnimationFrame</span>(requestRef.<span class="hljs-property inline">current</span>);
+      }
+    }
+
+    <span class="hljs-keyword inline">return</span> <span class="hljs-function inline">() =&gt;</span> {
+      <span class="hljs-keyword inline">if</span> (requestRef.<span class="hljs-property inline">current</span>) {
+        <span class="hljs-title function_ inline">cancelAnimationFrame</span>(requestRef.<span class="hljs-property inline">current</span>);
+      }
+    };
+  }, [animate, isRunning]);
+}
+
+<span class="hljs-comment inline">// Usage example</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">MyAnimatedComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [position, setPosition] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-title function_ inline">useAnimationFrame</span>(<span class="hljs-function inline">(<span class="hljs-params inline">timestamp</span>) =&gt;</span> {
+    <span class="hljs-title function_ inline">setPosition</span>(<span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">sin</span>(timestamp / <span class="hljs-number inline">1000</span>) * <span class="hljs-number inline">100</span>);
+  });
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">transform:</span> `<span class="hljs-attr inline">translateX</span>(${<span class="hljs-attr inline">position</span>}<span class="hljs-attr inline">px</span>)` }}&gt;</span>
+      Animated Content
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="real-world-application-scenarios" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#real-world-application-scenarios" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Real-world Application Scenarios">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Real-world Application Scenarios</strong>
+        </h3>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Smooth scrolling</strong>: Scroll to specific positions on pages</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Particle systems</strong>: Create particle animation effects</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Data visualization</strong>: Chart animations and transitions</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Game development</strong>: Game loops and character animations</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">UI animations</strong>: Button clicks, page transition animations</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Performance monitoring</strong>: FPS calculation and performance analysis</li>
+</ul>
+<h3 id="important-considerations" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#important-considerations" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Important Considerations">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Important Considerations</strong>
+        </h3>
+<ol class="list-decimal list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Memory management</strong>: Always use <code>cancelAnimationFrame</code> to clean up animations</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Conditional checks</strong>: Check if animation should continue in callbacks</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Performance considerations</strong>: Avoid complex calculations in animations</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Browser compatibility</strong>: Supported in all modern browsers, polyfill available if needed</li>
+</ol>
+<h3 id="complete-animation-manager-example" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#complete-animation-manager-example" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Complete Animation Manager Example">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Complete Animation Manager Example</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="class%20AnimationManager%20%7B%0Aconstructor()%20%7B%0Athis.animations%20%3D%20new%20Map()%3B%0Athis.isRunning%20%3D%20false%3B%0Athis.animationId%20%3D%20null%3B%0A%7D%0Aadd(key%2C%20animationFn)%20%7B%0Athis.animations.set(key%2C%20%7B%0Afn%3A%20animationFn%2C%0Aactive%3A%20true%0A%7D)%3B%0Aif%20(!this.isRunning)%20%7B%0Athis.start()%3B%0A%7D%0A%7D%0Aremove(key)%20%7B%0Athis.animations.delete(key)%3B%0Aif%20(this.animations.size%20%3D%3D%3D%200)%20%7B%0Athis.stop()%3B%0A%7D%0A%7D%0Astart()%20%7B%0Aif%20(this.isRunning)%20return%3B%0Athis.isRunning%20%3D%20true%3B%0Athis.tick()%3B%0A%7D%0Astop()%20%7B%0Athis.isRunning%20%3D%20false%3B%0Aif%20(this.animationId)%20%7B%0AcancelAnimationFrame(this.animationId)%3B%0A%7D%0A%7D%0Atick%20%3D%20(timestamp)%20%3D%3E%20%7B%0Aif%20(!this.isRunning)%20return%3B%0A%2F%2F%20Execute%20all%20active%20animations%0Afor%20(const%20%5Bkey%2C%20animation%5D%20of%20this.animations)%20%7B%0Aif%20(animation.active)%20%7B%0Aanimation.fn(timestamp)%3B%0A%7D%0A%7D%0A%2F%2F%20Request%20next%20frame%0Athis.animationId%20%3D%20requestAnimationFrame(this.tick)%3B%0A%7D%0A%7D%0A%2F%2F%20Global%20animation%20manager%0Aconst%20animationManager%20%3D%20new%20AnimationManager()%3B%0A%2F%2F%20Usage%20example%0AanimationManager.add('myAnimation'%2C%20(timestamp)%20%3D%3E%20%7B%0A%2F%2F%20Animation%20logic%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-keyword inline">class</span> <span class="hljs-title class_ inline">AnimationManager</span> {
+  <span class="hljs-title function_ inline">constructor</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animations</span> = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">Map</span>();
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span> = <span class="hljs-literal inline">false</span>;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span> = <span class="hljs-literal inline">null</span>;
+  }
+
+  <span class="hljs-title function_ inline">add</span>(<span class="hljs-params inline">key, animationFn</span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animations</span>.<span class="hljs-title function_ inline">set</span>(key, {
+      <span class="hljs-attr inline">fn</span>: animationFn,
+      <span class="hljs-attr inline">active</span>: <span class="hljs-literal inline">true</span>
+    });
+    
+    <span class="hljs-keyword inline">if</span> (!<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span>) {
+      <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">start</span>();
+    }
+  }
+
+  <span class="hljs-title function_ inline">remove</span>(<span class="hljs-params inline">key</span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animations</span>.<span class="hljs-title function_ inline">delete</span>(key);
+    
+    <span class="hljs-keyword inline">if</span> (<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animations</span>.<span class="hljs-property inline">size</span> === <span class="hljs-number inline">0</span>) {
+      <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">stop</span>();
+    }
+  }
+
+  <span class="hljs-title function_ inline">start</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-keyword inline">if</span> (<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span>) <span class="hljs-keyword inline">return</span>;
+    
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span> = <span class="hljs-literal inline">true</span>;
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-title function_ inline">tick</span>();
+  }
+
+  <span class="hljs-title function_ inline">stop</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span> = <span class="hljs-literal inline">false</span>;
+    <span class="hljs-keyword inline">if</span> (<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span>) {
+      <span class="hljs-title function_ inline">cancelAnimationFrame</span>(<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span>);
+    }
+  }
+
+  tick = <span class="hljs-function inline">(<span class="hljs-params inline">timestamp</span>) =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (!<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">isRunning</span>) <span class="hljs-keyword inline">return</span>;
+
+    <span class="hljs-comment inline">// Execute all active animations</span>
+    <span class="hljs-keyword inline">for</span> (<span class="hljs-keyword inline">const</span> [key, animation] <span class="hljs-keyword inline">of</span> <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animations</span>) {
+      <span class="hljs-keyword inline">if</span> (animation.<span class="hljs-property inline">active</span>) {
+        animation.<span class="hljs-title function_ inline">fn</span>(timestamp);
+      }
+    }
+
+    <span class="hljs-comment inline">// Request next frame</span>
+    <span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">animationId</span> = <span class="hljs-title function_ inline">requestAnimationFrame</span>(<span class="hljs-variable language_ inline">this</span>.<span class="hljs-property inline">tick</span>);
+  }
+}
+
+<span class="hljs-comment inline">// Global animation manager</span>
+<span class="hljs-keyword inline">const</span> animationManager = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">AnimationManager</span>();
+
+<span class="hljs-comment inline">// Usage example</span>
+animationManager.<span class="hljs-title function_ inline">add</span>(<span class="hljs-string inline">&#x27;myAnimation&#x27;</span>, <span class="hljs-function inline">(<span class="hljs-params inline">timestamp</span>) =&gt;</span> {
+  <span class="hljs-comment inline">// Animation logic</span>
+});
+</code></pre>
+            </div>
+        
+<p class="text-base leading-7 mb-4 text-foreground"><code>requestAnimationFrame</code> is the core API for modern web animations, providing smooth and efficient animation solutions.</p>
+d:["$","$L1d",null,{"htmlContent":"$1e","frontMatter":{"title":"requestAnimationFrame","description":"Browser Fundamentals - requestAnimationFrame","date":"2025-06-22","author":"MilkWind","tags":["Browser","Fundamentals","requestAnimationFrame","Animation"],"references":{}},"readingTime":"7 min read","category":"basic-knowledge","tocItems":[{"id":"basic-purpose","text":"Basic Purpose","level":3},{"id":"basic-usage","text":"Basic Usage","level":3},{"id":"working-principle-and-common-issues","text":"Working Principle and Common Issues","level":3},{"id":"why-is-requestanimationframe-typically-called-recursively","text":"Why is requestAnimationFrame typically called recursively?","level":4},{"id":"won’t-continuous-recursive-calls-to-requestanimationframe-cause-stack-overflow","text":"Won’t continuous recursive calls to requestAnimationFrame cause stack overflow?","level":4},{"id":"what-is-the-browser’s-repaint-task-queue","text":"What is the browser’s repaint task queue?","level":4},{"id":"how-does-requestanimationframe-ensure-synchronization-with-the-browser-refresh-rate","text":"How does requestAnimationFrame ensure synchronization with the browser refresh rate?","level":4},{"id":"comparison-with-traditional-solutions","text":"Comparison with Traditional Solutions","level":3},{"id":"problems-with-settimeoutsetinterval","text":"Problems with setTimeout/setInterval","level":4},{"id":"advantages-of-requestanimationframe","text":"Advantages of requestAnimationFrame","level":4},{"id":"practical-examples","text":"Practical Examples","level":3},{"id":"simple-movement-animation","text":"Simple Movement Animation","level":4},{"id":"time-controlled-animation","text":"Time-Controlled Animation","level":4},{"id":"performance-optimization-tips","text":"Performance Optimization Tips","level":3},{"id":"avoid-forced-reflow","text":"Avoid Forced Reflow","level":4},{"id":"use-css-transforms-instead-of-position-changes","text":"Use CSS Transforms Instead of Position Changes","level":4},{"id":"usage-in-react","text":"Usage in React","level":3},{"id":"custom-animation-hook","text":"Custom Animation Hook","level":3},{"id":"real-world-application-scenarios","text":"Real-world Application Scenarios","level":3},{"id":"important-considerations","text":"Important Considerations","level":3},{"id":"complete-animation-manager-example","text":"Complete Animation Manager Example","level":3}],"translations":{"common":{"welcome":"Welcome","loading":"Loading...","error":"Something went wrong","retry":"Try again","theme":"Theme","language":"Language","light":"Light","dark":"Dark"},"navigation":{"home":"Home","personal":"Personal","works":"Works","contributions":"Contributions","documents":"Documents","about":"About","contact":"Contact"},"personal":{"technicalSkills":"Technical Skills","email":"Email","github":"GitHub","resume":"Resume","codeRepository":"Code Repository","loadingPersonalInfo":"Loading personal information...","loadingResume":"Loading resume...","closeResume":"Close Resume","emailCopied":"Email copied to clipboard!","galaxyDefaultDescription":"Expert in full-stack development, cross-platform architecture, AI technology integration, and high-performance system optimization","skillGalaxy":"Skill Galaxy","stirGalaxy":"Stir Galaxy","stirring":"Stirring...","fullStackEngineer":"MilkWind - Full Stack Engineer","professionalProfile":"About Me"},"documents":{"technicalDocuments":"Technical Documents","description":"Basic principles, code splitting, and some random thoughts.","articles":"Articles","categories":"Categories","allCategories":"All Categories","noArticlesFound":"No articles found","noArticlesAvailable":"No articles available in English.","noArticlesInCategory":"No articles found in the category.","readMore":"Read more","loadingDocuments":"Loading documents...","backToDocuments":"← Back to Documents","documentNotFound":"Document Not Found","documentNotFoundDescription":"The requested document could not be found.","technicalInsights":"Insights","untitledDocument":"Untitled Document","byAuthor":"By","search":"Search articles...","searchByTags":"Filter by tags","searching":"Searching...","noSearchResults":"No articles match your search criteria","clearSearch":"Clear search","selectedTags":"Selected tags","allTags":"All tags","searchInTitle":"Search in titles, descriptions, and content","enterImmersiveMode":"Immersive Reading","exitImmersiveMode":"Exit Immersive Mode","immersiveReading":"Immersive Reading Mode","exploreContent":"Explore content by category","browseBy":"Browse by","exploreAll":"All content in one place","categoryDescription":"Articles in this category","totalArticles":"Articles","totalCategories":"Categories","foundArticles":"Found articles","categoriesWithResults":"Categories with results"},"works":{"workCases":"Work Cases","projects":"Portfolio","loadingProjects":"Loading projects...","grid":"Grid","stack":"Stack","of":"of","workCasesPageTitle":"Work Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contributions":{"contributionCases":"Open Source","contributions":"Contributions","loadingContributions":"Loading contributions...","grid":"Grid","stack":"Stack","of":"of","contributionCasesPageTitle":"Contribution Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contribution":{"contributionPreview":"Contribution Preview","accessible":"Accessible","code":"Code","maintenance":"Maintenance","enhancement":"Enhancement","documentation":"Documentation","community":"Community","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","contributionDetail":"Contribution Detail","description":"Description:","seeDetails":"See Details","github":"GitHub","viewContribution":"View Contribution","viewCode":"View Code"},"project":{"projectPreview":"Project Preview","accessible":"Accessible","tool":"Tool","plugin":"Plugin","toy":"Toy","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","description":"Description:","seeDetails":"See Details","github":"GitHub","gitee":"Gitee","viewLiveDemo":"View Live Demo","viewCode":"View Code","access":"Access","videos":"Videos","watchVideo":"Watch Video","hasVideo":"Has Video"},"codeblock":{"copy":"Copy","copySuccess":"Code copied to clipboard!","copyError":"Failed to copy code","copyTooltip":"Copy code"},"toc":{"contents":"Contents","autoScroll":"Auto-scroll to section","collapse":"Collapse","expand":"Expand"},"loading":{"loading":"LOADING","preparingExperience":"Preparing experience"}},"lang":"en","theme":"light"}]
+12:null
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:{"metadata":[["$","title","0",{"children":"requestAnimationFrame | Interactive Portfolio"}],["$","meta","1",{"name":"description","content":"Browser Fundamentals - requestAnimationFrame"}],["$","meta","2",{"name":"author","content":"Developer"}],["$","meta","3",{"name":"keywords","content":"portfolio,3D,interactive,web development,Three.js,Next.js"}],["$","meta","4",{"property":"og:title","content":"requestAnimationFrame | Interactive Portfolio"}],["$","meta","5",{"property":"og:description","content":"Browser Fundamentals - requestAnimationFrame"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-06-22"}],["$","meta","8",{"property":"article:tag","content":"Browser"}],["$","meta","9",{"property":"article:tag","content":"Fundamentals"}],["$","meta","10",{"property":"article:tag","content":"requestAnimationFrame"}],["$","meta","11",{"property":"article:tag","content":"Animation"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"requestAnimationFrame | Interactive Portfolio"}],["$","meta","14",{"name":"twitter:description","content":"Browser Fundamentals - requestAnimationFrame"}],["$","link","15",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1c:metadata","error":null,"digest":"$undefined"}

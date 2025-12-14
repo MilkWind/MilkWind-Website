@@ -1,0 +1,824 @@
+1:"$Sreact.fragment"
+2:I[38735,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+3:I[19945,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+4:I[65337,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+5:I[96190,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"ClientProviders"]
+6:I[87555,[],""]
+7:I[51901,["8039","static/chunks/app/error-10ebab2e11865aaf.js"],"default"]
+8:I[31295,[],""]
+9:I[6874,["6874","static/chunks/6874-fbe9a08eb79b991c.js","4345","static/chunks/app/not-found-38b9d1a0bc95ac08.js"],""]
+a:I[94970,[],"ClientSegmentRoot"]
+b:I[44065,["206","static/chunks/206-4f4cbf4d7156f437.js","3092","static/chunks/app/documents/layout-5f4e66d848ce7829.js"],"default"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[59665,[],"OutletBoundary"]
+13:I[74911,[],"AsyncMetadataOutlet"]
+15:I[39460,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","5650","static/chunks/app/documents/loading-552c4cd17346a076.js"],"default"]
+16:I[88610,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","4209","static/chunks/app/loading-0c530d99d5132c05.js"],"default"]
+17:I[59665,[],"ViewportBoundary"]
+19:I[26614,[],""]
+:HL["/_next/static/css/de70bee13400563f.css","style"]
+:HL["/_next/static/css/38943437573ce53c.css","style"]
+:HL["/_next/static/css/5eacd01f773eed7f.css","style"]
+0:{"P":null,"b":"xMcHYm_FvwjrVB7JmFp9i","p":"","c":["","documents","en","light","basic-knowledge","react-use-callback",""],"i":false,"f":[[["",{"children":["documents",{"children":[["slug","en/light/basic-knowledge/react-use-callback","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/de70bee13400563f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/38943437573ce53c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 font-sans antialiased min-h-screen bg-background text-foreground","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"z-10 relative min-h-screen flex items-center justify-center bg-background p-8","children":["$","div",null,{"className":"text-center max-w-md","children":[["$","div",null,{"className":"text-8xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-bold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-foreground/70 mb-8","children":"The page you're looking for doesn't exist or has been moved to a different location."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L9",null,{"href":"/","className":"px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/works","className":"px-6 py-2 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors","children":"View Works"}]]}],["$","div",null,{"className":"absolute inset-0 overflow-hidden pointer-events-none -z-10","children":[["$","div",null,{"className":"absolute top-1/4 left-1/4 w-2 h-2 bg-primary/20 rounded-full animate-float"}],["$","div",null,{"className":"absolute top-3/4 right-1/4 w-3 h-3 bg-accent/20 rounded-full animate-float","style":{"animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-1/4 left-1/3 w-1 h-1 bg-secondary/20 rounded-full animate-float","style":{"animationDelay":"2s"}}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["documents",["$","$1","c",{"children":[null,["$","$La",null,{"Component":"$b","slots":{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@c"}]]}],{"children":[["slug","en/light/basic-knowledge/react-use-callback","c"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5eacd01f773eed7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},[["$","$L15","l",{}],[],[]],false]},[["$","$L16","l",{}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","KNyRarpxMiBPHA-OcTIFl",{"children":[["$","$L17",null,{"children":"$L18"}],null]}],null]}],false]],"m":"$undefined","G":["$19","$undefined"],"s":false,"S":true}
+1a:"$Sreact.suspense"
+1b:I[74911,[],"AsyncMetadata"]
+c:{}
+f:["$","$1a",null,{"fallback":null,"children":["$","$L1b",null,{"promise":"$@1c"}]}]
+1d:I[57340,["5584","static/chunks/b498d07c-095637f0f10883c6.js","2415","static/chunks/2415-689c103fb3d2c28d.js","6874","static/chunks/6874-fbe9a08eb79b991c.js","9554","static/chunks/9554-b714f9de28e85d30.js","1873","static/chunks/app/documents/%5B...slug%5D/page-9ee3d086bd3810e0.js"],"DocumentPageClient"]
+1e:T176dd,<p class="text-base leading-7 mb-4 text-foreground"><code>useCallback</code> is a performance optimization Hook provided by React, used to cache function definitions and prevent unnecessary re-renders of child components due to function reference changes. It returns a memoized callback function that only updates when dependencies change.</p>
+<h3 id="basic-purpose" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-purpose" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Purpose">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Purpose</strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">The main purposes of <code>useCallback</code> are:</p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed">Cache function definitions to avoid creating new function instances on every render</li>
+<li class="text-foreground leading-relaxed">Work with <code>React.memo</code> to optimize child component performance</li>
+<li class="text-foreground leading-relaxed">Return the same function reference when dependencies don’t change</li>
+</ul>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20React%2C%20%7B%20useCallback%2C%20useState%20%7D%20from%20'react'%3B%0Afunction%20MyComponent()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0A%2F%2F%20Use%20useCallback%20to%20cache%20function%0Aconst%20handleClick%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log('Button%20clicked')%3B%0A%7D%2C%20%5B%5D)%3B%20%2F%2F%20Empty%20dependency%20array%2C%20function%20never%20updates%0Areturn%20(%0Adiv%3E%0Ap%3ECount%3A%20%7Bcount%7Dp%3E%0Abutton%20onClick%3D%7BhandleClick%7D%3EClickbutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { useCallback, useState } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">MyComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+  
+  <span class="hljs-comment inline">// Use useCallback to cache function</span>
+  <span class="hljs-keyword inline">const</span> handleClick = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Button clicked&#x27;</span>);
+  }, []); <span class="hljs-comment inline">// Empty dependency array, function never updates</span>
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Count: {count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handleClick}</span>&gt;</span>Click<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="basic-syntax" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-syntax" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Syntax">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Syntax</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="const%20memoizedCallback%20%3D%20useCallback(%0A()%20%3D%3E%20%7B%0A%2F%2F%20Function%20body%0AdoSomething(a%2C%20b)%3B%0A%7D%2C%0A%5Ba%2C%20b%5D%20%2F%2F%20Dependency%20array%0A)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">const</span> memoizedCallback = <span class="hljs-title function_ inline">useCallback</span>(
+  <span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-comment inline">// Function body</span>
+    <span class="hljs-title function_ inline">doSomething</span>(a, b);
+  },
+  [a, b] <span class="hljs-comment inline">// Dependency array</span>
+);
+</code></pre>
+            </div>
+        
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">First parameter</strong>: The function to cache</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Second parameter</strong>: Dependency array, function will be recreated when values in array change</li>
+</ul>
+<h3 id="comparison-with-regular-functions" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#comparison-with-regular-functions" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Comparison with Regular Functions">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Comparison with Regular Functions</strong>
+        </h3>
+<h4 id="without-usecallback-problem-example" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#without-usecallback-problem-example" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Without useCallback (Problem Example)">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Without useCallback (Problem Example)</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20Parent()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0Aconst%20%5Bname%2C%20setName%5D%20%3D%20useState('John')%3B%0A%2F%2F%20New%20function%20created%20on%20every%20render%0Aconst%20handleNameChange%20%3D%20(newName)%20%3D%3E%20%7B%0AsetName(newName)%3B%0A%7D%3B%0Areturn%20(%0Adiv%3E%0Ap%3ECount%3A%20%7Bcount%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCount(count%20%2B%201)%7D%3EIncrementbutton%3E%0A%7B%2F*%20Even%20if%20name%20doesn't%20change%2C%20Child%20will%20re-render%20*%2F%7D%0AChild%20onNameChange%3D%7BhandleNameChange%7D%20%2F%3E%0Adiv%3E%0A)%3B%0A%7D%0Aconst%20Child%20%3D%20React.memo((%7B%20onNameChange%20%7D)%20%3D%3E%20%7B%0Aconsole.log('Child%20component%20re-rendered')%3B%0Areturn%20button%20onClick%3D%7B()%20%3D%3E%20onNameChange('Jane')%7D%3EChange%20Namebutton%3E%3B%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Parent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+  <span class="hljs-keyword inline">const</span> [name, setName] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;John&#x27;</span>);
+
+  <span class="hljs-comment inline">// New function created on every render</span>
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">handleNameChange</span> = (<span class="hljs-params inline">newName</span>) =&gt; {
+    <span class="hljs-title function_ inline">setName</span>(newName);
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Count: {count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCount(count + 1)}&gt;Increment<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+      {/* Even if name doesn&#x27;t change, Child will re-render */}
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">Child</span> <span class="hljs-attr inline">onNameChange</span>=<span class="hljs-string inline">{handleNameChange}</span> /&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">Child</span> = <span class="hljs-title class_ inline">React</span>.<span class="hljs-title function_ inline">memo</span>(<span class="hljs-function inline">(<span class="hljs-params inline">{ onNameChange }</span>) =&gt;</span> {
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Child component re-rendered&#x27;</span>);
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> onNameChange(&#x27;Jane&#x27;)}&gt;Change Name<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>;
+});
+</code></pre>
+            </div>
+        
+<h4 id="with-usecallback-optimized" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#with-usecallback-optimized" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to With useCallback (Optimized)">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">With useCallback (Optimized)</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20Parent()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0Aconst%20%5Bname%2C%20setName%5D%20%3D%20useState('John')%3B%0A%2F%2F%20Use%20useCallback%20to%20cache%20function%0Aconst%20handleNameChange%20%3D%20useCallback((newName)%20%3D%3E%20%7B%0AsetName(newName)%3B%0A%7D%2C%20%5B%5D)%3B%20%2F%2F%20name%20update%20passed%20through%20parameter%2C%20no%20dependency%20needed%0Areturn%20(%0Adiv%3E%0Ap%3ECount%3A%20%7Bcount%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCount(count%20%2B%201)%7D%3EIncrementbutton%3E%0A%7B%2F*%20When%20count%20changes%2C%20Child%20won't%20re-render%20*%2F%7D%0AChild%20onNameChange%3D%7BhandleNameChange%7D%20%2F%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Parent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+  <span class="hljs-keyword inline">const</span> [name, setName] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;John&#x27;</span>);
+
+  <span class="hljs-comment inline">// Use useCallback to cache function</span>
+  <span class="hljs-keyword inline">const</span> handleNameChange = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">(<span class="hljs-params inline">newName</span>) =&gt;</span> {
+    <span class="hljs-title function_ inline">setName</span>(newName);
+  }, []); <span class="hljs-comment inline">// name update passed through parameter, no dependency needed</span>
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Count: {count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCount(count + 1)}&gt;Increment<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+      {/* When count changes, Child won&#x27;t re-render */}
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">Child</span> <span class="hljs-attr inline">onNameChange</span>=<span class="hljs-string inline">{handleNameChange}</span> /&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="using-dependency-arrays" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#using-dependency-arrays" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Using Dependency Arrays">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Using Dependency Arrays</strong>
+        </h3>
+<h4 id="empty-dependency-array" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#empty-dependency-array" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Empty Dependency Array">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Empty Dependency Array</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Function%20never%20gets%20recreated%0Aconst%20handleClick%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log('This%20function%20never%20changes')%3B%0A%7D%2C%20%5B%5D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Function never gets recreated</span>
+<span class="hljs-keyword inline">const</span> handleClick = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;This function never changes&#x27;</span>);
+}, []);
+</code></pre>
+            </div>
+        
+<h4 id="with-dependencies" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#with-dependencies" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to With Dependencies">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">With Dependencies</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20SearchComponent()%20%7B%0Aconst%20%5Bquery%2C%20setQuery%5D%20%3D%20useState('')%3B%0Aconst%20%5Bfilter%2C%20setFilter%5D%20%3D%20useState('all')%3B%0A%2F%2F%20Function%20recreated%20when%20query%20or%20filter%20changes%0Aconst%20handleSearch%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log(%60Search%3A%20%24%7Bquery%7D%2C%20Filter%3A%20%24%7Bfilter%7D%60)%3B%0A%7D%2C%20%5Bquery%2C%20filter%5D)%3B%0Areturn%20(%0Adiv%3E%0Ainput%20value%3D%7Bquery%7D%20onChange%3D%7B(e)%20%3D%3E%20setQuery(e.target.value)%7D%20%2F%3E%0ASearchButton%20onSearch%3D%7BhandleSearch%7D%20%2F%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">SearchComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [query, setQuery] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;&#x27;</span>);
+  <span class="hljs-keyword inline">const</span> [filter, setFilter] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;all&#x27;</span>);
+
+  <span class="hljs-comment inline">// Function recreated when query or filter changes</span>
+  <span class="hljs-keyword inline">const</span> handleSearch = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">`Search: <span class="hljs-subst inline">${query}</span>, Filter: <span class="hljs-subst inline">${filter}</span>`</span>);
+  }, [query, filter]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">input</span> <span class="hljs-attr inline">value</span>=<span class="hljs-string inline">{query}</span> <span class="hljs-attr inline">onChange</span>=<span class="hljs-string inline">{(e)</span> =&gt;</span> setQuery(e.target.value)} /&gt;
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">SearchButton</span> <span class="hljs-attr inline">onSearch</span>=<span class="hljs-string inline">{handleSearch}</span> /&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="real-world-application-scenarios" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#real-world-application-scenarios" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Real-world Application Scenarios">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Real-world Application Scenarios</strong>
+        </h3>
+<h4 id="optimizing-list-rendering" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#optimizing-list-rendering" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Optimizing List Rendering">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Optimizing List Rendering</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20TodoList()%20%7B%0Aconst%20%5Btodos%2C%20setTodos%5D%20%3D%20useState(%5B%5D)%3B%0A%2F%2F%20Delete%20item%20function%0Aconst%20handleDelete%20%3D%20useCallback((id)%20%3D%3E%20%7B%0AsetTodos(prev%20%3D%3E%20prev.filter(todo%20%3D%3E%20todo.id%20!%3D%3D%20id))%3B%0A%7D%2C%20%5B%5D)%3B%20%2F%2F%20Using%20functional%20update%2C%20no%20need%20to%20depend%20on%20todos%0A%2F%2F%20Toggle%20completion%20status%0Aconst%20handleToggle%20%3D%20useCallback((id)%20%3D%3E%20%7B%0AsetTodos(prev%20%3D%3E%0Aprev.map(todo%20%3D%3E%0Atodo.id%20%3D%3D%3D%20id%20%3F%20%7B%20...todo%2C%20done%3A%20!todo.done%20%7D%20%3A%20todo%0A)%0A)%3B%0A%7D%2C%20%5B%5D)%3B%0Areturn%20(%0Adiv%3E%0A%7Btodos.map(todo%20%3D%3E%20(%0ATodoItem%0Akey%3D%7Btodo.id%7D%0Atodo%3D%7Btodo%7D%0AonDelete%3D%7BhandleDelete%7D%0AonToggle%3D%7BhandleToggle%7D%0A%2F%3E%0A))%7D%0Adiv%3E%0A)%3B%0A%7D%0Aconst%20TodoItem%20%3D%20React.memo((%7B%20todo%2C%20onDelete%2C%20onToggle%20%7D)%20%3D%3E%20%7B%0Aconsole.log(%60TodoItem%20%24%7Btodo.id%7D%20rendered%60)%3B%0Areturn%20(%0Adiv%3E%0Aspan%3E%7Btodo.text%7Dspan%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20onToggle(todo.id)%7D%3E%0A%7Btodo.done%20%3F%20'Undo'%20%3A%20'Done'%7D%0Abutton%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20onDelete(todo.id)%7D%3EDeletebutton%3E%0Adiv%3E%0A)%3B%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">TodoList</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [todos, setTodos] = <span class="hljs-title function_ inline">useState</span>([]);
+
+  <span class="hljs-comment inline">// Delete item function</span>
+  <span class="hljs-keyword inline">const</span> handleDelete = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">(<span class="hljs-params inline">id</span>) =&gt;</span> {
+    <span class="hljs-title function_ inline">setTodos</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> prev.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">todo</span> =&gt;</span> todo.<span class="hljs-property inline">id</span> !== id));
+  }, []); <span class="hljs-comment inline">// Using functional update, no need to depend on todos</span>
+
+  <span class="hljs-comment inline">// Toggle completion status</span>
+  <span class="hljs-keyword inline">const</span> handleToggle = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">(<span class="hljs-params inline">id</span>) =&gt;</span> {
+    <span class="hljs-title function_ inline">setTodos</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> 
+      prev.<span class="hljs-title function_ inline">map</span>(<span class="hljs-function inline"><span class="hljs-params inline">todo</span> =&gt;</span> 
+        todo.<span class="hljs-property inline">id</span> === id ? { ...todo, <span class="hljs-attr inline">done</span>: !todo.<span class="hljs-property inline">done</span> } : todo
+      )
+    );
+  }, []);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      {todos.map(todo =&gt; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">TodoItem</span>
+          <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{todo.id}</span>
+          <span class="hljs-attr inline">todo</span>=<span class="hljs-string inline">{todo}</span>
+          <span class="hljs-attr inline">onDelete</span>=<span class="hljs-string inline">{handleDelete}</span>
+          <span class="hljs-attr inline">onToggle</span>=<span class="hljs-string inline">{handleToggle}</span>
+        /&gt;</span>
+      ))}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">TodoItem</span> = <span class="hljs-title class_ inline">React</span>.<span class="hljs-title function_ inline">memo</span>(<span class="hljs-function inline">(<span class="hljs-params inline">{ todo, onDelete, onToggle }</span>) =&gt;</span> {
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">`TodoItem <span class="hljs-subst inline">${todo.id}</span> rendered`</span>);
+  
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">span</span>&gt;</span>{todo.text}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">span</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> onToggle(todo.id)}&gt;
+        {todo.done ? &#x27;Undo&#x27; : &#x27;Done&#x27;}
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> onDelete(todo.id)}&gt;Delete<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+});
+</code></pre>
+            </div>
+        
+<h4 id="form-handling-optimization" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#form-handling-optimization" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Form Handling Optimization">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Form Handling Optimization</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20UserForm()%20%7B%0Aconst%20%5BformData%2C%20setFormData%5D%20%3D%20useState(%7B%0Aname%3A%20''%2C%0Aemail%3A%20''%2C%0Aage%3A%20''%0A%7D)%3B%0A%2F%2F%20Generic%20field%20update%20function%0Aconst%20handleFieldChange%20%3D%20useCallback((field)%20%3D%3E%20%7B%0Areturn%20(value)%20%3D%3E%20%7B%0AsetFormData(prev%20%3D%3E%20(%7B%0A...prev%2C%0A%5Bfield%5D%3A%20value%0A%7D))%3B%0A%7D%3B%0A%7D%2C%20%5B%5D)%3B%0A%2F%2F%20Submit%20function%0Aconst%20handleSubmit%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log('Submit%20form%3A'%2C%20formData)%3B%0A%7D%2C%20%5BformData%5D)%3B%0Areturn%20(%0Aform%3E%0AFormField%0Alabel%3D%22Name%22%0Avalue%3D%7BformData.name%7D%0AonChange%3D%7BhandleFieldChange('name')%7D%0A%2F%3E%0AFormField%0Alabel%3D%22Email%22%0Avalue%3D%7BformData.email%7D%0AonChange%3D%7BhandleFieldChange('email')%7D%0A%2F%3E%0Abutton%20type%3D%22button%22%20onClick%3D%7BhandleSubmit%7D%3E%0ASubmit%0Abutton%3E%0Aform%3E%0A)%3B%0A%7D%0Aconst%20FormField%20%3D%20React.memo((%7B%20label%2C%20value%2C%20onChange%20%7D)%20%3D%3E%20%7B%0Aconsole.log(%60FormField%20%24%7Blabel%7D%20rendered%60)%3B%0Areturn%20(%0Adiv%3E%0Alabel%3E%7Blabel%7Dlabel%3E%0Ainput%0Avalue%3D%7Bvalue%7D%0AonChange%3D%7B(e)%20%3D%3E%20onChange(e.target.value)%7D%0A%2F%3E%0Adiv%3E%0A)%3B%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">UserForm</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [formData, setFormData] = <span class="hljs-title function_ inline">useState</span>({
+    <span class="hljs-attr inline">name</span>: <span class="hljs-string inline">&#x27;&#x27;</span>,
+    <span class="hljs-attr inline">email</span>: <span class="hljs-string inline">&#x27;&#x27;</span>,
+    <span class="hljs-attr inline">age</span>: <span class="hljs-string inline">&#x27;&#x27;</span>
+  });
+
+  <span class="hljs-comment inline">// Generic field update function</span>
+  <span class="hljs-keyword inline">const</span> handleFieldChange = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">(<span class="hljs-params inline">field</span>) =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> <span class="hljs-function inline">(<span class="hljs-params inline">value</span>) =&gt;</span> {
+      <span class="hljs-title function_ inline">setFormData</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> ({
+        ...prev,
+        [field]: value
+      }));
+    };
+  }, []);
+
+  <span class="hljs-comment inline">// Submit function</span>
+  <span class="hljs-keyword inline">const</span> handleSubmit = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Submit form:&#x27;</span>, formData);
+  }, [formData]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">form</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">FormField</span>
+        <span class="hljs-attr inline">label</span>=<span class="hljs-string inline">&quot;Name&quot;</span>
+        <span class="hljs-attr inline">value</span>=<span class="hljs-string inline">{formData.name}</span>
+        <span class="hljs-attr inline">onChange</span>=<span class="hljs-string inline">{handleFieldChange(</span>&#x27;<span class="hljs-attr inline">name</span>&#x27;)}
+      /&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">FormField</span>
+        <span class="hljs-attr inline">label</span>=<span class="hljs-string inline">&quot;Email&quot;</span>
+        <span class="hljs-attr inline">value</span>=<span class="hljs-string inline">{formData.email}</span>
+        <span class="hljs-attr inline">onChange</span>=<span class="hljs-string inline">{handleFieldChange(</span>&#x27;<span class="hljs-attr inline">email</span>&#x27;)}
+      /&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">type</span>=<span class="hljs-string inline">&quot;button&quot;</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handleSubmit}</span>&gt;</span>
+        Submit
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">form</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">FormField</span> = <span class="hljs-title class_ inline">React</span>.<span class="hljs-title function_ inline">memo</span>(<span class="hljs-function inline">(<span class="hljs-params inline">{ label, value, onChange }</span>) =&gt;</span> {
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">`FormField <span class="hljs-subst inline">${label}</span> rendered`</span>);
+  
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">label</span>&gt;</span>{label}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">label</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">input</span>
+        <span class="hljs-attr inline">value</span>=<span class="hljs-string inline">{value}</span>
+        <span class="hljs-attr inline">onChange</span>=<span class="hljs-string inline">{(e)</span> =&gt;</span> onChange(e.target.value)}
+      /&gt;
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+});
+</code></pre>
+            </div>
+        
+<h3 id="working-with-other-hooks" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#working-with-other-hooks" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Working with Other Hooks">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Working with Other Hooks</strong>
+        </h3>
+<h4 id="difference-between-usememo-and-usecallback" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#difference-between-usememo-and-usecallback" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Difference between useMemo and useCallback">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Difference between useMemo and useCallback</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20MyComponent(%7B%20items%20%7D)%20%7B%0A%2F%2F%20useMemo%20caches%20computed%20result%0Aconst%20expensiveValue%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20items.reduce((sum%2C%20item)%20%3D%3E%20sum%20%2B%20item.value%2C%200)%3B%0A%7D%2C%20%5Bitems%5D)%3B%0A%2F%2F%20useCallback%20caches%20function%20definition%0Aconst%20handleSort%20%3D%20useCallback(()%20%3D%3E%20%7B%0Areturn%20items.sort((a%2C%20b)%20%3D%3E%20a.value%20-%20b.value)%3B%0A%7D%2C%20%5Bitems%5D)%3B%0Areturn%20(%0Adiv%3E%0Ap%3ETotal%3A%20%7BexpensiveValue%7Dp%3E%0Abutton%20onClick%3D%7BhandleSort%7D%3ESortbutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">MyComponent</span>(<span class="hljs-params inline">{ items }</span>) {
+  <span class="hljs-comment inline">// useMemo caches computed result</span>
+  <span class="hljs-keyword inline">const</span> expensiveValue = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> items.<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, item</span>) =&gt;</span> sum + item.<span class="hljs-property inline">value</span>, <span class="hljs-number inline">0</span>);
+  }, [items]);
+
+  <span class="hljs-comment inline">// useCallback caches function definition</span>
+  <span class="hljs-keyword inline">const</span> handleSort = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> items.<span class="hljs-title function_ inline">sort</span>(<span class="hljs-function inline">(<span class="hljs-params inline">a, b</span>) =&gt;</span> a.<span class="hljs-property inline">value</span> - b.<span class="hljs-property inline">value</span>);
+  }, [items]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Total: {expensiveValue}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handleSort}</span>&gt;</span>Sort<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="combined-with-useeffect" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#combined-with-useeffect" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Combined with useEffect">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Combined with useEffect</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20DataFetcher(%7B%20userId%20%7D)%20%7B%0Aconst%20%5Bdata%2C%20setData%5D%20%3D%20useState(null)%3B%0A%2F%2F%20Cache%20data%20fetching%20function%0Aconst%20fetchData%20%3D%20useCallback(async%20()%20%3D%3E%20%7B%0Atry%20%7B%0Aconst%20response%20%3D%20await%20fetch(%60%2Fapi%2Fusers%2F%24%7BuserId%7D%60)%3B%0Aconst%20userData%20%3D%20await%20response.json()%3B%0AsetData(userData)%3B%0A%7D%20catch%20(error)%20%7B%0Aconsole.error('Failed%20to%20fetch%20data%3A'%2C%20error)%3B%0A%7D%0A%7D%2C%20%5BuserId%5D)%3B%0AuseEffect(()%20%3D%3E%20%7B%0AfetchData()%3B%0A%7D%2C%20%5BfetchData%5D)%3B%20%2F%2F%20fetchData%20as%20dependency%0Areturn%20div%3E%7Bdata%20%3F%20data.name%20%3A%20'Loading...'%7Ddiv%3E%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">DataFetcher</span>(<span class="hljs-params inline">{ userId }</span>) {
+  <span class="hljs-keyword inline">const</span> [data, setData] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">null</span>);
+
+  <span class="hljs-comment inline">// Cache data fetching function</span>
+  <span class="hljs-keyword inline">const</span> fetchData = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-title function_ inline">async</span> () =&gt; {
+    <span class="hljs-keyword inline">try</span> {
+      <span class="hljs-keyword inline">const</span> response = <span class="hljs-keyword inline">await</span> <span class="hljs-title function_ inline">fetch</span>(<span class="hljs-string inline">`/api/users/<span class="hljs-subst inline">${userId}</span>`</span>);
+      <span class="hljs-keyword inline">const</span> userData = <span class="hljs-keyword inline">await</span> response.<span class="hljs-title function_ inline">json</span>();
+      <span class="hljs-title function_ inline">setData</span>(userData);
+    } <span class="hljs-keyword inline">catch</span> (error) {
+      <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">error</span>(<span class="hljs-string inline">&#x27;Failed to fetch data:&#x27;</span>, error);
+    }
+  }, [userId]);
+
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-title function_ inline">fetchData</span>();
+  }, [fetchData]); <span class="hljs-comment inline">// fetchData as dependency</span>
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>{data ? data.name : &#x27;Loading...&#x27;}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>;
+}
+</code></pre>
+            </div>
+        
+<h3 id="common-pitfalls-and-solutions" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#common-pitfalls-and-solutions" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Common Pitfalls and Solutions">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Common Pitfalls and Solutions</strong>
+        </h3>
+<h4 id="forgetting-to-add-dependencies" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#forgetting-to-add-dependencies" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Forgetting to Add Dependencies">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Forgetting to Add Dependencies</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20BadExample()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0A%2F%2F%20Wrong%3A%20missing%20count%20dependency%0Aconst%20handleClick%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log(count)%3B%20%2F%2F%20This%20will%20always%20log%20the%20initial%20value%200%0A%7D%2C%20%5B%5D)%3B%20%2F%2F%20Should%20be%20%5Bcount%5D%0Areturn%20button%20onClick%3D%7BhandleClick%7D%3EClickbutton%3E%3B%0A%7D%0Afunction%20GoodExample()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0A%2F%2F%20Correct%3A%20includes%20all%20dependencies%0Aconst%20handleClick%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log(count)%3B%0A%7D%2C%20%5Bcount%5D)%3B%0Areturn%20button%20onClick%3D%7BhandleClick%7D%3EClickbutton%3E%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">BadExample</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-comment inline">// Wrong: missing count dependency</span>
+  <span class="hljs-keyword inline">const</span> handleClick = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(count); <span class="hljs-comment inline">// This will always log the initial value 0</span>
+  }, []); <span class="hljs-comment inline">// Should be [count]</span>
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handleClick}</span>&gt;</span>Click<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>;
+}
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">GoodExample</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-comment inline">// Correct: includes all dependencies</span>
+  <span class="hljs-keyword inline">const</span> handleClick = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(count);
+  }, [count]);
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handleClick}</span>&gt;</span>Click<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>;
+}
+</code></pre>
+            </div>
+        
+<h4 id="avoiding-over-optimization" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#avoiding-over-optimization" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Avoiding Over-optimization">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Avoiding Over-optimization</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Unnecessary%20optimization%0Afunction%20OverOptimized()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0A%2F%2F%20This%20component%20is%20simple%2C%20doesn't%20need%20useCallback%0Aconst%20handleClick%20%3D%20useCallback(()%20%3D%3E%20%7B%0AsetCount(prev%20%3D%3E%20prev%20%2B%201)%3B%0A%7D%2C%20%5B%5D)%3B%0Areturn%20button%20onClick%3D%7BhandleClick%7D%3E%7Bcount%7Dbutton%3E%3B%0A%7D%0A%2F%2F%20Simple%20and%20direct%20approach%0Afunction%20Simple()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0Areturn%20(%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCount(prev%20%3D%3E%20prev%20%2B%201)%7D%3E%0A%7Bcount%7D%0Abutton%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Unnecessary optimization</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">OverOptimized</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-comment inline">// This component is simple, doesn&#x27;t need useCallback</span>
+  <span class="hljs-keyword inline">const</span> handleClick = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-title function_ inline">setCount</span>(<span class="hljs-function inline"><span class="hljs-params inline">prev</span> =&gt;</span> prev + <span class="hljs-number inline">1</span>);
+  }, []);
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handleClick}</span>&gt;</span>{count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>;
+}
+
+<span class="hljs-comment inline">// Simple and direct approach</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Simple</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCount(prev =&gt; prev + 1)}&gt;
+      {count}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="performance-testing-example" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#performance-testing-example" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Performance Testing Example">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Performance Testing Example</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20React%2C%20%7B%20useCallback%2C%20useState%2C%20useRef%20%7D%20from%20'react'%3B%0Afunction%20PerformanceTest()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0Aconst%20renderCountRef%20%3D%20useRef(0)%3B%0A%2F%2F%20Version%20with%20useCallback%0Aconst%20optimizedHandler%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log('Optimized%20version%20called')%3B%0A%7D%2C%20%5B%5D)%3B%0A%2F%2F%20Version%20without%20useCallback%0Aconst%20unoptimizedHandler%20%3D%20()%20%3D%3E%20%7B%0Aconsole.log('Unoptimized%20version%20called')%3B%0A%7D%3B%0Areturn%20(%0Adiv%3E%0Ap%3EParent%20renders%3A%20%7B%2B%2BrenderCountRef.current%7Dp%3E%0Ap%3ECount%3A%20%7Bcount%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCount(count%20%2B%201)%7D%3EIncrement%20Countbutton%3E%0AOptimizedChild%20handler%3D%7BoptimizedHandler%7D%20%2F%3E%0AUnoptimizedChild%20handler%3D%7BunoptimizedHandler%7D%20%2F%3E%0Adiv%3E%0A)%3B%0A%7D%0Aconst%20OptimizedChild%20%3D%20React.memo((%7B%20handler%20%7D)%20%3D%3E%20%7B%0Aconst%20renderCount%20%3D%20useRef(0)%3B%0Aconsole.log('OptimizedChild%20renders%3A'%2C%20%2B%2BrenderCount.current)%3B%0Areturn%20button%20onClick%3D%7Bhandler%7D%3EOptimized%20Versionbutton%3E%3B%0A%7D)%3B%0Aconst%20UnoptimizedChild%20%3D%20React.memo((%7B%20handler%20%7D)%20%3D%3E%20%7B%0Aconst%20renderCount%20%3D%20useRef(0)%3B%0Aconsole.log('UnoptimizedChild%20renders%3A'%2C%20%2B%2BrenderCount.current)%3B%0Areturn%20button%20onClick%3D%7Bhandler%7D%3EUnoptimized%20Versionbutton%3E%3B%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { useCallback, useState, useRef } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">PerformanceTest</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+  <span class="hljs-keyword inline">const</span> renderCountRef = <span class="hljs-title function_ inline">useRef</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-comment inline">// Version with useCallback</span>
+  <span class="hljs-keyword inline">const</span> optimizedHandler = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Optimized version called&#x27;</span>);
+  }, []);
+
+  <span class="hljs-comment inline">// Version without useCallback</span>
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">unoptimizedHandler</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Unoptimized version called&#x27;</span>);
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Parent renders: {++renderCountRef.current}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Count: {count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCount(count + 1)}&gt;Increment Count<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+      
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">OptimizedChild</span> <span class="hljs-attr inline">handler</span>=<span class="hljs-string inline">{optimizedHandler}</span> /&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">UnoptimizedChild</span> <span class="hljs-attr inline">handler</span>=<span class="hljs-string inline">{unoptimizedHandler}</span> /&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">OptimizedChild</span> = <span class="hljs-title class_ inline">React</span>.<span class="hljs-title function_ inline">memo</span>(<span class="hljs-function inline">(<span class="hljs-params inline">{ handler }</span>) =&gt;</span> {
+  <span class="hljs-keyword inline">const</span> renderCount = <span class="hljs-title function_ inline">useRef</span>(<span class="hljs-number inline">0</span>);
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;OptimizedChild renders:&#x27;</span>, ++renderCount.<span class="hljs-property inline">current</span>);
+  
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handler}</span>&gt;</span>Optimized Version<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>;
+});
+
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">UnoptimizedChild</span> = <span class="hljs-title class_ inline">React</span>.<span class="hljs-title function_ inline">memo</span>(<span class="hljs-function inline">(<span class="hljs-params inline">{ handler }</span>) =&gt;</span> {
+  <span class="hljs-keyword inline">const</span> renderCount = <span class="hljs-title function_ inline">useRef</span>(<span class="hljs-number inline">0</span>);
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;UnoptimizedChild renders:&#x27;</span>, ++renderCount.<span class="hljs-property inline">current</span>);
+  
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handler}</span>&gt;</span>Unoptimized Version<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>;
+});
+</code></pre>
+            </div>
+        
+<h3 id="usage-in-custom-hooks" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#usage-in-custom-hooks" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Usage in Custom Hooks">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Usage in Custom Hooks</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20useAPI(url)%20%7B%0Aconst%20%5Bdata%2C%20setData%5D%20%3D%20useState(null)%3B%0Aconst%20%5Bloading%2C%20setLoading%5D%20%3D%20useState(false)%3B%0Aconst%20fetchData%20%3D%20useCallback(async%20()%20%3D%3E%20%7B%0AsetLoading(true)%3B%0Atry%20%7B%0Aconst%20response%20%3D%20await%20fetch(url)%3B%0Aconst%20result%20%3D%20await%20response.json()%3B%0AsetData(result)%3B%0A%7D%20catch%20(error)%20%7B%0Aconsole.error('API%20call%20failed%3A'%2C%20error)%3B%0A%7D%20finally%20%7B%0AsetLoading(false)%3B%0A%7D%0A%7D%2C%20%5Burl%5D)%3B%0Aconst%20refresh%20%3D%20useCallback(()%20%3D%3E%20%7B%0AfetchData()%3B%0A%7D%2C%20%5BfetchData%5D)%3B%0AuseEffect(()%20%3D%3E%20%7B%0AfetchData()%3B%0A%7D%2C%20%5BfetchData%5D)%3B%0Areturn%20%7B%20data%2C%20loading%2C%20refresh%20%7D%3B%0A%7D%0A%2F%2F%20Using%20custom%20Hook%0Afunction%20UserProfile(%7B%20userId%20%7D)%20%7B%0Aconst%20%7B%20data%2C%20loading%2C%20refresh%20%7D%20%3D%20useAPI(%60%2Fapi%2Fusers%2F%24%7BuserId%7D%60)%3B%0Aif%20(loading)%20return%20div%3ELoading...div%3E%3B%0Areturn%20(%0Adiv%3E%0Ah1%3E%7Bdata%3F.name%7Dh1%3E%0Abutton%20onClick%3D%7Brefresh%7D%3ERefreshbutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">useAPI</span>(<span class="hljs-params inline">url</span>) {
+  <span class="hljs-keyword inline">const</span> [data, setData] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">null</span>);
+  <span class="hljs-keyword inline">const</span> [loading, setLoading] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">false</span>);
+
+  <span class="hljs-keyword inline">const</span> fetchData = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-title function_ inline">async</span> () =&gt; {
+    <span class="hljs-title function_ inline">setLoading</span>(<span class="hljs-literal inline">true</span>);
+    <span class="hljs-keyword inline">try</span> {
+      <span class="hljs-keyword inline">const</span> response = <span class="hljs-keyword inline">await</span> <span class="hljs-title function_ inline">fetch</span>(url);
+      <span class="hljs-keyword inline">const</span> result = <span class="hljs-keyword inline">await</span> response.<span class="hljs-title function_ inline">json</span>();
+      <span class="hljs-title function_ inline">setData</span>(result);
+    } <span class="hljs-keyword inline">catch</span> (error) {
+      <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">error</span>(<span class="hljs-string inline">&#x27;API call failed:&#x27;</span>, error);
+    } <span class="hljs-keyword inline">finally</span> {
+      <span class="hljs-title function_ inline">setLoading</span>(<span class="hljs-literal inline">false</span>);
+    }
+  }, [url]);
+
+  <span class="hljs-keyword inline">const</span> refresh = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-title function_ inline">fetchData</span>();
+  }, [fetchData]);
+
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-title function_ inline">fetchData</span>();
+  }, [fetchData]);
+
+  <span class="hljs-keyword inline">return</span> { data, loading, refresh };
+}
+
+<span class="hljs-comment inline">// Using custom Hook</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">UserProfile</span>(<span class="hljs-params inline">{ userId }</span>) {
+  <span class="hljs-keyword inline">const</span> { data, loading, refresh } = <span class="hljs-title function_ inline">useAPI</span>(<span class="hljs-string inline">`/api/users/<span class="hljs-subst inline">${userId}</span>`</span>);
+
+  <span class="hljs-keyword inline">if</span> (loading) <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>Loading...<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>;
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">h1</span>&gt;</span>{data?.name}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">h1</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{refresh}</span>&gt;</span>Refresh<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="best-practices" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#best-practices" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Best Practices">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Best Practices</strong>
+        </h3>
+<ol class="list-decimal list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Work with React.memo</strong>: The main value of useCallback is preventing unnecessary child component re-renders</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Correct dependency setup</strong>: Include all variables used in the callback function</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Avoid over-optimization</strong>: Not every function needs to be wrapped with useCallback</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Use functional updates</strong>: Reduce state dependencies to improve function stability</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Consider alternatives</strong>: Sometimes restructuring components is better than using useCallback</li>
+</ol>
+<h3 id="important-considerations" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#important-considerations" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Important Considerations">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Important Considerations</strong>
+        </h3>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Memory overhead</strong>: Caching functions consumes additional memory</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Dependency tracking</strong>: Ensure ESLint rule <code>exhaustive-deps</code> is enabled</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Shallow comparison</strong>: Dependency array uses shallow comparison, be careful with objects and arrays</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Debugging difficulty</strong>: Overuse can make code harder to understand and debug</li>
+</ul>
+<p class="text-base leading-7 mb-4 text-foreground"><code>useCallback</code> is an important tool for React performance optimization, but should be used in appropriate scenarios to avoid over-optimization that increases code complexity.</p>
+d:["$","$L1d",null,{"htmlContent":"$1e","frontMatter":{"title":"useCallback","description":"React Fundamentals - useCallback","date":"2025-06-22","author":"MilkWind","tags":["React","Fundamentals","useCallback","React Hook"],"references":{}},"readingTime":"7 min read","category":"basic-knowledge","tocItems":[{"id":"basic-purpose","text":"Basic Purpose","level":3},{"id":"basic-syntax","text":"Basic Syntax","level":3},{"id":"comparison-with-regular-functions","text":"Comparison with Regular Functions","level":3},{"id":"without-usecallback-problem-example","text":"Without useCallback (Problem Example)","level":4},{"id":"with-usecallback-optimized","text":"With useCallback (Optimized)","level":4},{"id":"using-dependency-arrays","text":"Using Dependency Arrays","level":3},{"id":"empty-dependency-array","text":"Empty Dependency Array","level":4},{"id":"with-dependencies","text":"With Dependencies","level":4},{"id":"real-world-application-scenarios","text":"Real-world Application Scenarios","level":3},{"id":"optimizing-list-rendering","text":"Optimizing List Rendering","level":4},{"id":"form-handling-optimization","text":"Form Handling Optimization","level":4},{"id":"working-with-other-hooks","text":"Working with Other Hooks","level":3},{"id":"difference-between-usememo-and-usecallback","text":"Difference between useMemo and useCallback","level":4},{"id":"combined-with-useeffect","text":"Combined with useEffect","level":4},{"id":"common-pitfalls-and-solutions","text":"Common Pitfalls and Solutions","level":3},{"id":"forgetting-to-add-dependencies","text":"Forgetting to Add Dependencies","level":4},{"id":"avoiding-over-optimization","text":"Avoiding Over-optimization","level":4},{"id":"performance-testing-example","text":"Performance Testing Example","level":3},{"id":"usage-in-custom-hooks","text":"Usage in Custom Hooks","level":3},{"id":"best-practices","text":"Best Practices","level":3},{"id":"important-considerations","text":"Important Considerations","level":3}],"translations":{"common":{"welcome":"Welcome","loading":"Loading...","error":"Something went wrong","retry":"Try again","theme":"Theme","language":"Language","light":"Light","dark":"Dark"},"navigation":{"home":"Home","personal":"Personal","works":"Works","contributions":"Contributions","documents":"Documents","about":"About","contact":"Contact"},"personal":{"technicalSkills":"Technical Skills","email":"Email","github":"GitHub","resume":"Resume","codeRepository":"Code Repository","loadingPersonalInfo":"Loading personal information...","loadingResume":"Loading resume...","closeResume":"Close Resume","emailCopied":"Email copied to clipboard!","galaxyDefaultDescription":"Expert in full-stack development, cross-platform architecture, AI technology integration, and high-performance system optimization","skillGalaxy":"Skill Galaxy","stirGalaxy":"Stir Galaxy","stirring":"Stirring...","fullStackEngineer":"MilkWind - Full Stack Engineer","professionalProfile":"About Me"},"documents":{"technicalDocuments":"Technical Documents","description":"Basic principles, code splitting, and some random thoughts.","articles":"Articles","categories":"Categories","allCategories":"All Categories","noArticlesFound":"No articles found","noArticlesAvailable":"No articles available in English.","noArticlesInCategory":"No articles found in the category.","readMore":"Read more","loadingDocuments":"Loading documents...","backToDocuments":"← Back to Documents","documentNotFound":"Document Not Found","documentNotFoundDescription":"The requested document could not be found.","technicalInsights":"Insights","untitledDocument":"Untitled Document","byAuthor":"By","search":"Search articles...","searchByTags":"Filter by tags","searching":"Searching...","noSearchResults":"No articles match your search criteria","clearSearch":"Clear search","selectedTags":"Selected tags","allTags":"All tags","searchInTitle":"Search in titles, descriptions, and content","enterImmersiveMode":"Immersive Reading","exitImmersiveMode":"Exit Immersive Mode","immersiveReading":"Immersive Reading Mode","exploreContent":"Explore content by category","browseBy":"Browse by","exploreAll":"All content in one place","categoryDescription":"Articles in this category","totalArticles":"Articles","totalCategories":"Categories","foundArticles":"Found articles","categoriesWithResults":"Categories with results"},"works":{"workCases":"Work Cases","projects":"Portfolio","loadingProjects":"Loading projects...","grid":"Grid","stack":"Stack","of":"of","workCasesPageTitle":"Work Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contributions":{"contributionCases":"Open Source","contributions":"Contributions","loadingContributions":"Loading contributions...","grid":"Grid","stack":"Stack","of":"of","contributionCasesPageTitle":"Contribution Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contribution":{"contributionPreview":"Contribution Preview","accessible":"Accessible","code":"Code","maintenance":"Maintenance","enhancement":"Enhancement","documentation":"Documentation","community":"Community","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","contributionDetail":"Contribution Detail","description":"Description:","seeDetails":"See Details","github":"GitHub","viewContribution":"View Contribution","viewCode":"View Code"},"project":{"projectPreview":"Project Preview","accessible":"Accessible","tool":"Tool","plugin":"Plugin","toy":"Toy","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","description":"Description:","seeDetails":"See Details","github":"GitHub","gitee":"Gitee","viewLiveDemo":"View Live Demo","viewCode":"View Code","access":"Access","videos":"Videos","watchVideo":"Watch Video","hasVideo":"Has Video"},"codeblock":{"copy":"Copy","copySuccess":"Code copied to clipboard!","copyError":"Failed to copy code","copyTooltip":"Copy code"},"toc":{"contents":"Contents","autoScroll":"Auto-scroll to section","collapse":"Collapse","expand":"Expand"},"loading":{"loading":"LOADING","preparingExperience":"Preparing experience"}},"lang":"en","theme":"light"}]
+12:null
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:{"metadata":[["$","title","0",{"children":"useCallback | Interactive Portfolio"}],["$","meta","1",{"name":"description","content":"React Fundamentals - useCallback"}],["$","meta","2",{"name":"author","content":"Developer"}],["$","meta","3",{"name":"keywords","content":"portfolio,3D,interactive,web development,Three.js,Next.js"}],["$","meta","4",{"property":"og:title","content":"useCallback | Interactive Portfolio"}],["$","meta","5",{"property":"og:description","content":"React Fundamentals - useCallback"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-06-22"}],["$","meta","8",{"property":"article:tag","content":"React"}],["$","meta","9",{"property":"article:tag","content":"Fundamentals"}],["$","meta","10",{"property":"article:tag","content":"useCallback"}],["$","meta","11",{"property":"article:tag","content":"React Hook"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"useCallback | Interactive Portfolio"}],["$","meta","14",{"name":"twitter:description","content":"React Fundamentals - useCallback"}],["$","link","15",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1c:metadata","error":null,"digest":"$undefined"}

@@ -1,0 +1,1143 @@
+1:"$Sreact.fragment"
+2:I[38735,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+3:I[19945,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+4:I[65337,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+5:I[96190,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"ClientProviders"]
+6:I[87555,[],""]
+7:I[51901,["8039","static/chunks/app/error-10ebab2e11865aaf.js"],"default"]
+8:I[31295,[],""]
+9:I[6874,["6874","static/chunks/6874-fbe9a08eb79b991c.js","4345","static/chunks/app/not-found-38b9d1a0bc95ac08.js"],""]
+a:I[94970,[],"ClientSegmentRoot"]
+b:I[44065,["206","static/chunks/206-4f4cbf4d7156f437.js","3092","static/chunks/app/documents/layout-5f4e66d848ce7829.js"],"default"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[59665,[],"OutletBoundary"]
+13:I[74911,[],"AsyncMetadataOutlet"]
+15:I[39460,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","5650","static/chunks/app/documents/loading-552c4cd17346a076.js"],"default"]
+16:I[88610,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","4209","static/chunks/app/loading-0c530d99d5132c05.js"],"default"]
+17:I[59665,[],"ViewportBoundary"]
+19:I[26614,[],""]
+:HL["/_next/static/css/de70bee13400563f.css","style"]
+:HL["/_next/static/css/38943437573ce53c.css","style"]
+:HL["/_next/static/css/5eacd01f773eed7f.css","style"]
+0:{"P":null,"b":"xMcHYm_FvwjrVB7JmFp9i","p":"","c":["","documents","en","dark","basic-knowledge","react-use-memo",""],"i":false,"f":[[["",{"children":["documents",{"children":[["slug","en/dark/basic-knowledge/react-use-memo","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/de70bee13400563f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/38943437573ce53c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 font-sans antialiased min-h-screen bg-background text-foreground","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"z-10 relative min-h-screen flex items-center justify-center bg-background p-8","children":["$","div",null,{"className":"text-center max-w-md","children":[["$","div",null,{"className":"text-8xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-bold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-foreground/70 mb-8","children":"The page you're looking for doesn't exist or has been moved to a different location."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L9",null,{"href":"/","className":"px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/works","className":"px-6 py-2 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors","children":"View Works"}]]}],["$","div",null,{"className":"absolute inset-0 overflow-hidden pointer-events-none -z-10","children":[["$","div",null,{"className":"absolute top-1/4 left-1/4 w-2 h-2 bg-primary/20 rounded-full animate-float"}],["$","div",null,{"className":"absolute top-3/4 right-1/4 w-3 h-3 bg-accent/20 rounded-full animate-float","style":{"animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-1/4 left-1/3 w-1 h-1 bg-secondary/20 rounded-full animate-float","style":{"animationDelay":"2s"}}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["documents",["$","$1","c",{"children":[null,["$","$La",null,{"Component":"$b","slots":{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@c"}]]}],{"children":[["slug","en/dark/basic-knowledge/react-use-memo","c"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5eacd01f773eed7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},[["$","$L15","l",{}],[],[]],false]},[["$","$L16","l",{}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","iaTF-oGdEKuTDt_6LN3fz",{"children":[["$","$L17",null,{"children":"$L18"}],null]}],null]}],false]],"m":"$undefined","G":["$19","$undefined"],"s":false,"S":true}
+1a:"$Sreact.suspense"
+1b:I[74911,[],"AsyncMetadata"]
+c:{}
+f:["$","$1a",null,{"fallback":null,"children":["$","$L1b",null,{"promise":"$@1c"}]}]
+1d:I[57340,["5584","static/chunks/b498d07c-095637f0f10883c6.js","2415","static/chunks/2415-689c103fb3d2c28d.js","6874","static/chunks/6874-fbe9a08eb79b991c.js","9554","static/chunks/9554-b714f9de28e85d30.js","1873","static/chunks/app/documents/%5B...slug%5D/page-9ee3d086bd3810e0.js"],"DocumentPageClient"]
+1e:T1f6eb,<p class="text-base leading-7 mb-4 text-foreground"><code>useMemo</code> is a performance optimization Hook provided by React, used to cache computed results and avoid repeating expensive calculations on every render. It returns a memoized value that only recalculates when dependencies change.</p>
+<h3 id="basic-purpose" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-purpose" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Purpose">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Purpose</strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">The main purposes of <code>useMemo</code> are:</p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed">Cache computation results to avoid repeated expensive calculations</li>
+<li class="text-foreground leading-relaxed">Optimize component performance by reducing unnecessary re-renders</li>
+<li class="text-foreground leading-relaxed">Return the same reference value when dependencies don’t change</li>
+<li class="text-foreground leading-relaxed">Work with <code>React.memo</code> to optimize child component prop passing</li>
+</ul>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="import%20React%2C%20%7B%20useMemo%2C%20useState%20%7D%20from%20'react'%3B%0Afunction%20MyComponent(%7B%20items%20%7D)%20%7B%0Aconst%20%5Bfilter%2C%20setFilter%5D%20%3D%20useState('')%3B%0A%2F%2F%20Use%20useMemo%20to%20cache%20filter%20results%0Aconst%20filteredItems%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconsole.log('Executing%20filter%20calculation')%3B%0Areturn%20items.filter(item%20%3D%3E%0Aitem.name.toLowerCase().includes(filter.toLowerCase())%0A)%3B%0A%7D%2C%20%5Bitems%2C%20filter%5D)%3B%20%2F%2F%20Depends%20on%20items%20and%20filter%0Areturn%20(%0Adiv%3E%0Ainput%0Avalue%3D%7Bfilter%7D%0AonChange%3D%7B(e)%20%3D%3E%20setFilter(e.target.value)%7D%0Aplaceholder%3D%22Search...%22%0A%2F%3E%0Aul%3E%0A%7BfilteredItems.map(item%20%3D%3E%20(%0Ali%20key%3D%7Bitem.id%7D%3E%7Bitem.name%7Dli%3E%0A))%7D%0Aul%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { useMemo, useState } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">MyComponent</span>(<span class="hljs-params inline">{ items }</span>) {
+  <span class="hljs-keyword inline">const</span> [filter, setFilter] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;&#x27;</span>);
+
+  <span class="hljs-comment inline">// Use useMemo to cache filter results</span>
+  <span class="hljs-keyword inline">const</span> filteredItems = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Executing filter calculation&#x27;</span>);
+    <span class="hljs-keyword inline">return</span> items.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> 
+      item.<span class="hljs-property inline">name</span>.<span class="hljs-title function_ inline">toLowerCase</span>().<span class="hljs-title function_ inline">includes</span>(filter.<span class="hljs-title function_ inline">toLowerCase</span>())
+    );
+  }, [items, filter]); <span class="hljs-comment inline">// Depends on items and filter</span>
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">input</span> 
+        <span class="hljs-attr inline">value</span>=<span class="hljs-string inline">{filter}</span>
+        <span class="hljs-attr inline">onChange</span>=<span class="hljs-string inline">{(e)</span> =&gt;</span> setFilter(e.target.value)}
+        placeholder=&quot;Search...&quot;
+      /&gt;
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">ul</span>&gt;</span>
+        {filteredItems.map(item =&gt; (
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">li</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{item.id}</span>&gt;</span>{item.name}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">li</span>&gt;</span>
+        ))}
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">ul</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="basic-syntax" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-syntax" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Syntax">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Syntax</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="const%20memoizedValue%20%3D%20useMemo(()%20%3D%3E%20%7B%0A%2F%2F%20Computation%20logic%0Areturn%20expensiveCalculation(a%2C%20b)%3B%0A%7D%2C%20%5Ba%2C%20b%5D)%3B%20%2F%2F%20Dependency%20array">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">const</span> memoizedValue = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+  <span class="hljs-comment inline">// Computation logic</span>
+  <span class="hljs-keyword inline">return</span> <span class="hljs-title function_ inline">expensiveCalculation</span>(a, b);
+}, [a, b]); <span class="hljs-comment inline">// Dependency array</span>
+</code></pre>
+            </div>
+        
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">First parameter</strong>: Computation function that returns the value to cache</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Second parameter</strong>: Dependency array, recalculates when values in array change</li>
+</ul>
+<h3 id="comparison-with-regular-computation" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#comparison-with-regular-computation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Comparison with Regular Computation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Comparison with Regular Computation</strong>
+        </h3>
+<h4 id="without-usememo-problem-example" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#without-usememo-problem-example" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Without useMemo (Problem Example)">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Without useMemo (Problem Example)</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20ExpensiveComponent(%7B%20data%2C%20threshold%20%7D)%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0A%2F%2F%20This%20expensive%20calculation%20runs%20on%20every%20render%0Aconst%20expensiveValue%20%3D%20data%0A.filter(item%20%3D%3E%20item.value%20%3E%20threshold)%0A.reduce((sum%2C%20item)%20%3D%3E%20sum%20%2B%20item.value%2C%200)%3B%0Aconsole.log('Calculation%20executed')%3B%20%2F%2F%20Logs%20on%20every%20render%0Areturn%20(%0Adiv%3E%0Ap%3EExpensive%20calculation%20result%3A%20%7BexpensiveValue%7Dp%3E%0Ap%3ECount%3A%20%7Bcount%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCount(count%20%2B%201)%7D%3EIncrement%20Countbutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ExpensiveComponent</span>(<span class="hljs-params inline">{ data, threshold }</span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-comment inline">// This expensive calculation runs on every render</span>
+  <span class="hljs-keyword inline">const</span> expensiveValue = data
+    .<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> item.<span class="hljs-property inline">value</span> &gt; threshold)
+    .<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, item</span>) =&gt;</span> sum + item.<span class="hljs-property inline">value</span>, <span class="hljs-number inline">0</span>);
+
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Calculation executed&#x27;</span>); <span class="hljs-comment inline">// Logs on every render</span>
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Expensive calculation result: {expensiveValue}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Count: {count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCount(count + 1)}&gt;Increment Count<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="with-usememo-optimized" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#with-usememo-optimized" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to With useMemo (Optimized)">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">With useMemo (Optimized)</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20OptimizedComponent(%7B%20data%2C%20threshold%20%7D)%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0A%2F%2F%20Only%20recalculates%20when%20data%20or%20threshold%20changes%0Aconst%20expensiveValue%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconsole.log('Calculation%20executed')%3B%20%2F%2F%20Only%20logs%20when%20dependencies%20change%0Areturn%20data%0A.filter(item%20%3D%3E%20item.value%20%3E%20threshold)%0A.reduce((sum%2C%20item)%20%3D%3E%20sum%20%2B%20item.value%2C%200)%3B%0A%7D%2C%20%5Bdata%2C%20threshold%5D)%3B%0Areturn%20(%0Adiv%3E%0Ap%3EExpensive%20calculation%20result%3A%20%7BexpensiveValue%7Dp%3E%0Ap%3ECount%3A%20%7Bcount%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCount(count%20%2B%201)%7D%3EIncrement%20Countbutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">OptimizedComponent</span>(<span class="hljs-params inline">{ data, threshold }</span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-comment inline">// Only recalculates when data or threshold changes</span>
+  <span class="hljs-keyword inline">const</span> expensiveValue = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Calculation executed&#x27;</span>); <span class="hljs-comment inline">// Only logs when dependencies change</span>
+    <span class="hljs-keyword inline">return</span> data
+      .<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> item.<span class="hljs-property inline">value</span> &gt; threshold)
+      .<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, item</span>) =&gt;</span> sum + item.<span class="hljs-property inline">value</span>, <span class="hljs-number inline">0</span>);
+  }, [data, threshold]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Expensive calculation result: {expensiveValue}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Count: {count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCount(count + 1)}&gt;Increment Count<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="real-world-application-scenarios" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#real-world-application-scenarios" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Real-world Application Scenarios">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Real-world Application Scenarios</strong>
+        </h3>
+<h4 id="complex-data-processing" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#complex-data-processing" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Complex Data Processing">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Complex Data Processing</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20DataAnalytics(%7B%20salesData%2C%20dateRange%2C%20category%20%7D)%20%7B%0A%2F%2F%20Data%20filtering%20and%20aggregation%0Aconst%20processedData%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconsole.log('Processing%20data...')%3B%0Areturn%20salesData%0A.filter(sale%20%3D%3E%20%7B%0Aconst%20saleDate%20%3D%20new%20Date(sale.date)%3B%0Areturn%20saleDate%20%3E%3D%20dateRange.start%20%26%26%0AsaleDate%20end%20%26%26%0Asale.category%20%3D%3D%3D%20category%3B%0A%7D)%0A.reduce((acc%2C%20sale)%20%3D%3E%20%7B%0Aconst%20month%20%3D%20sale.date.substr(0%2C%207)%3B%0Aacc%5Bmonth%5D%20%3D%20(acc%5Bmonth%5D%20%7C%7C%200)%20%2B%20sale.amount%3B%0Areturn%20acc%3B%0A%7D%2C%20%7B%7D)%3B%0A%7D%2C%20%5BsalesData%2C%20dateRange%2C%20category%5D)%3B%0A%2F%2F%20Calculate%20statistics%0Aconst%20statistics%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconst%20values%20%3D%20Object.values(processedData)%3B%0Areturn%20%7B%0Atotal%3A%20values.reduce((sum%2C%20val)%20%3D%3E%20sum%20%2B%20val%2C%200)%2C%0Aaverage%3A%20values.length%20%3F%20values.reduce((sum%2C%20val)%20%3D%3E%20sum%20%2B%20val%2C%200)%20%2F%20values.length%20%3A%200%2C%0Amax%3A%20Math.max(...values)%2C%0Amin%3A%20Math.min(...values)%0A%7D%3B%0A%7D%2C%20%5BprocessedData%5D)%3B%0Areturn%20(%0Adiv%3E%0Ah3%3ESales%20Analysish3%3E%0Ap%3ETotal%3A%20%7Bstatistics.total%7Dp%3E%0Ap%3EAverage%3A%20%7Bstatistics.average.toFixed(2)%7Dp%3E%0Ap%3EMax%3A%20%7Bstatistics.max%7Dp%3E%0Ap%3EMin%3A%20%7Bstatistics.min%7Dp%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">DataAnalytics</span>(<span class="hljs-params inline">{ salesData, dateRange, category }</span>) {
+  <span class="hljs-comment inline">// Data filtering and aggregation</span>
+  <span class="hljs-keyword inline">const</span> processedData = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Processing data...&#x27;</span>);
+    
+    <span class="hljs-keyword inline">return</span> salesData
+      .<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">sale</span> =&gt;</span> {
+        <span class="hljs-keyword inline">const</span> saleDate = <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">Date</span>(sale.<span class="hljs-property inline">date</span>);
+        <span class="hljs-keyword inline">return</span> saleDate &gt;= dateRange.<span class="hljs-property inline">start</span> &amp;&amp; 
+               saleDate &lt;= dateRange.<span class="hljs-property inline">end</span> &amp;&amp;
+               sale.<span class="hljs-property inline">category</span> === category;
+      })
+      .<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">acc, sale</span>) =&gt;</span> {
+        <span class="hljs-keyword inline">const</span> month = sale.<span class="hljs-property inline">date</span>.<span class="hljs-title function_ inline">substr</span>(<span class="hljs-number inline">0</span>, <span class="hljs-number inline">7</span>);
+        acc[month] = (acc[month] || <span class="hljs-number inline">0</span>) + sale.<span class="hljs-property inline">amount</span>;
+        <span class="hljs-keyword inline">return</span> acc;
+      }, {});
+  }, [salesData, dateRange, category]);
+
+  <span class="hljs-comment inline">// Calculate statistics</span>
+  <span class="hljs-keyword inline">const</span> statistics = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">const</span> values = <span class="hljs-title class_ inline">Object</span>.<span class="hljs-title function_ inline">values</span>(processedData);
+    <span class="hljs-keyword inline">return</span> {
+      <span class="hljs-attr inline">total</span>: values.<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, val</span>) =&gt;</span> sum + val, <span class="hljs-number inline">0</span>),
+      <span class="hljs-attr inline">average</span>: values.<span class="hljs-property inline">length</span> ? values.<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, val</span>) =&gt;</span> sum + val, <span class="hljs-number inline">0</span>) / values.<span class="hljs-property inline">length</span> : <span class="hljs-number inline">0</span>,
+      <span class="hljs-attr inline">max</span>: <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">max</span>(...values),
+      <span class="hljs-attr inline">min</span>: <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">min</span>(...values)
+    };
+  }, [processedData]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">h3</span>&gt;</span>Sales Analysis<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">h3</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Total: {statistics.total}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Average: {statistics.average.toFixed(2)}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Max: {statistics.max}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Min: {statistics.min}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="search-and-sorting" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#search-and-sorting" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Search and Sorting">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Search and Sorting</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20ProductList(%7B%20products%2C%20searchTerm%2C%20sortBy%2C%20sortOrder%20%7D)%20%7B%0A%2F%2F%20Search%20filtering%0Aconst%20filteredProducts%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aif%20(!searchTerm)%20return%20products%3B%0Areturn%20products.filter(product%20%3D%3E%0Aproduct.name.toLowerCase().includes(searchTerm.toLowerCase())%20%7C%7C%0Aproduct.description.toLowerCase().includes(searchTerm.toLowerCase())%0A)%3B%0A%7D%2C%20%5Bproducts%2C%20searchTerm%5D)%3B%0A%2F%2F%20Sorting%0Aconst%20sortedProducts%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconst%20sorted%20%3D%20%5B...filteredProducts%5D.sort((a%2C%20b)%20%3D%3E%20%7B%0Alet%20aValue%20%3D%20a%5BsortBy%5D%3B%0Alet%20bValue%20%3D%20b%5BsortBy%5D%3B%0Aif%20(typeof%20aValue%20%3D%3D%3D%20'string')%20%7B%0AaValue%20%3D%20aValue.toLowerCase()%3B%0AbValue%20%3D%20bValue.toLowerCase()%3B%0A%7D%0Aif%20(aValue%20return%20sortOrder%20%3D%3D%3D%20'asc'%20%3F%20-1%20%3A%201%3B%0Aif%20(aValue%20%3E%20bValue)%20return%20sortOrder%20%3D%3D%3D%20'asc'%20%3F%201%20%3A%20-1%3B%0Areturn%200%3B%0A%7D)%3B%0Areturn%20sorted%3B%0A%7D%2C%20%5BfilteredProducts%2C%20sortBy%2C%20sortOrder%5D)%3B%0Areturn%20(%0Adiv%3E%0Ap%3EFound%20%7BsortedProducts.length%7D%20productsp%3E%0A%7BsortedProducts.map(product%20%3D%3E%20(%0Adiv%20key%3D%7Bproduct.id%7D%3E%0Ah4%3E%7Bproduct.name%7Dh4%3E%0Ap%3E%7Bproduct.description%7Dp%3E%0Ap%3EPrice%3A%20%24%7Bproduct.price%7Dp%3E%0Adiv%3E%0A))%7D%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ProductList</span>(<span class="hljs-params inline">{ products, searchTerm, sortBy, sortOrder }</span>) {
+  <span class="hljs-comment inline">// Search filtering</span>
+  <span class="hljs-keyword inline">const</span> filteredProducts = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">if</span> (!searchTerm) <span class="hljs-keyword inline">return</span> products;
+    
+    <span class="hljs-keyword inline">return</span> products.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">product</span> =&gt;</span>
+      product.<span class="hljs-property inline">name</span>.<span class="hljs-title function_ inline">toLowerCase</span>().<span class="hljs-title function_ inline">includes</span>(searchTerm.<span class="hljs-title function_ inline">toLowerCase</span>()) ||
+      product.<span class="hljs-property inline">description</span>.<span class="hljs-title function_ inline">toLowerCase</span>().<span class="hljs-title function_ inline">includes</span>(searchTerm.<span class="hljs-title function_ inline">toLowerCase</span>())
+    );
+  }, [products, searchTerm]);
+
+  <span class="hljs-comment inline">// Sorting</span>
+  <span class="hljs-keyword inline">const</span> sortedProducts = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">const</span> sorted = [...filteredProducts].<span class="hljs-title function_ inline">sort</span>(<span class="hljs-function inline">(<span class="hljs-params inline">a, b</span>) =&gt;</span> {
+      <span class="hljs-keyword inline">let</span> aValue = a[sortBy];
+      <span class="hljs-keyword inline">let</span> bValue = b[sortBy];
+
+      <span class="hljs-keyword inline">if</span> (<span class="hljs-keyword inline">typeof</span> aValue === <span class="hljs-string inline">&#x27;string&#x27;</span>) {
+        aValue = aValue.<span class="hljs-title function_ inline">toLowerCase</span>();
+        bValue = bValue.<span class="hljs-title function_ inline">toLowerCase</span>();
+      }
+
+      <span class="hljs-keyword inline">if</span> (aValue &lt; bValue) <span class="hljs-keyword inline">return</span> sortOrder === <span class="hljs-string inline">&#x27;asc&#x27;</span> ? -<span class="hljs-number inline">1</span> : <span class="hljs-number inline">1</span>;
+      <span class="hljs-keyword inline">if</span> (aValue &gt; bValue) <span class="hljs-keyword inline">return</span> sortOrder === <span class="hljs-string inline">&#x27;asc&#x27;</span> ? <span class="hljs-number inline">1</span> : -<span class="hljs-number inline">1</span>;
+      <span class="hljs-keyword inline">return</span> <span class="hljs-number inline">0</span>;
+    });
+
+    <span class="hljs-keyword inline">return</span> sorted;
+  }, [filteredProducts, sortBy, sortOrder]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Found {sortedProducts.length} products<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      {sortedProducts.map(product =&gt; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{product.id}</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">h4</span>&gt;</span>{product.name}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">h4</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>{product.description}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Price: ${product.price}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span>
+      ))}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="avoiding-child-component-re-renders" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#avoiding-child-component-re-renders" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Avoiding Child Component Re-renders">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Avoiding Child Component Re-renders</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20ParentComponent()%20%7B%0Aconst%20%5Bcount%2C%20setCount%5D%20%3D%20useState(0)%3B%0Aconst%20%5Busers%2C%20setUsers%5D%20%3D%20useState(%5B%5D)%3B%0A%2F%2F%20Without%20useMemo%3A%20creates%20new%20config%20object%20every%20render%0Aconst%20badConfig%20%3D%20%7B%0ApageSize%3A%2010%2C%0AsortBy%3A%20'name'%0A%7D%3B%0A%2F%2F%20Using%20useMemo%3A%20config%20object%20reference%20remains%20stable%0Aconst%20config%20%3D%20useMemo(()%20%3D%3E%20(%7B%0ApageSize%3A%2010%2C%0AsortBy%3A%20'name'%0A%7D)%2C%20%5B%5D)%3B%20%2F%2F%20Empty%20dependency%2C%20config%20never%20changes%0A%2F%2F%20User%20list%20computation%20logic%0Aconst%20processedUsers%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20users.map(user%20%3D%3E%20(%7B%0A...user%2C%0AdisplayName%3A%20%60%24%7Buser.firstName%7D%20%24%7Buser.lastName%7D%60%2C%0AisActive%3A%20user.lastLogin%20%3E%20Date.now()%20-%2030%20*%2024%20*%2060%20*%2060%20*%201000%0A%7D))%3B%0A%7D%2C%20%5Busers%5D)%3B%0Areturn%20(%0Adiv%3E%0Ap%3ECount%3A%20%7Bcount%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setCount(count%20%2B%201)%7D%3EIncrementbutton%3E%0A%7B%2F*%20Using%20badConfig%20would%20cause%20UserList%20to%20re-render%20every%20time%20*%2F%7D%0AUserList%20users%3D%7BprocessedUsers%7D%20config%3D%7Bconfig%7D%20%2F%3E%0Adiv%3E%0A)%3B%0A%7D%0Aconst%20UserList%20%3D%20React.memo((%7B%20users%2C%20config%20%7D)%20%3D%3E%20%7B%0Aconsole.log('UserList%20rendered')%3B%0Areturn%20(%0Adiv%3E%0A%7Busers.slice(0%2C%20config.pageSize).map(user%20%3D%3E%20(%0Adiv%20key%3D%7Buser.id%7D%3E%0A%7Buser.displayName%7D%20%7Buser.isActive%20%3F%20'%F0%9F%9F%A2'%20%3A%20'%F0%9F%94%B4'%7D%0Adiv%3E%0A))%7D%0Adiv%3E%0A)%3B%0A%7D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ParentComponent</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [count, setCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+  <span class="hljs-keyword inline">const</span> [users, setUsers] = <span class="hljs-title function_ inline">useState</span>([]);
+
+  <span class="hljs-comment inline">// Without useMemo: creates new config object every render</span>
+  <span class="hljs-keyword inline">const</span> badConfig = {
+    <span class="hljs-attr inline">pageSize</span>: <span class="hljs-number inline">10</span>,
+    <span class="hljs-attr inline">sortBy</span>: <span class="hljs-string inline">&#x27;name&#x27;</span>
+  };
+
+  <span class="hljs-comment inline">// Using useMemo: config object reference remains stable</span>
+  <span class="hljs-keyword inline">const</span> config = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> ({
+    <span class="hljs-attr inline">pageSize</span>: <span class="hljs-number inline">10</span>,
+    <span class="hljs-attr inline">sortBy</span>: <span class="hljs-string inline">&#x27;name&#x27;</span>
+  }), []); <span class="hljs-comment inline">// Empty dependency, config never changes</span>
+
+  <span class="hljs-comment inline">// User list computation logic</span>
+  <span class="hljs-keyword inline">const</span> processedUsers = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> users.<span class="hljs-title function_ inline">map</span>(<span class="hljs-function inline"><span class="hljs-params inline">user</span> =&gt;</span> ({
+      ...user,
+      <span class="hljs-attr inline">displayName</span>: <span class="hljs-string inline">`<span class="hljs-subst inline">${user.firstName}</span> <span class="hljs-subst inline">${user.lastName}</span>`</span>,
+      <span class="hljs-attr inline">isActive</span>: user.<span class="hljs-property inline">lastLogin</span> &gt; <span class="hljs-title class_ inline">Date</span>.<span class="hljs-title function_ inline">now</span>() - <span class="hljs-number inline">30</span> * <span class="hljs-number inline">24</span> * <span class="hljs-number inline">60</span> * <span class="hljs-number inline">60</span> * <span class="hljs-number inline">1000</span>
+    }));
+  }, [users]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Count: {count}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setCount(count + 1)}&gt;Increment<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+      
+      {/* Using badConfig would cause UserList to re-render every time */}
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">UserList</span> <span class="hljs-attr inline">users</span>=<span class="hljs-string inline">{processedUsers}</span> <span class="hljs-attr inline">config</span>=<span class="hljs-string inline">{config}</span> /&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">UserList</span> = <span class="hljs-title class_ inline">React</span>.<span class="hljs-title function_ inline">memo</span>(<span class="hljs-function inline">(<span class="hljs-params inline">{ users, config }</span>) =&gt;</span> {
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;UserList rendered&#x27;</span>);
+  
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      {users.slice(0, config.pageSize).map(user =&gt; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{user.id}</span>&gt;</span>
+          {user.displayName} {user.isActive ? &#x27;🟢&#x27; : &#x27;🔴&#x27;}
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span>
+      ))}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+});
+</code></pre>
+            </div>
+        
+<h3 id="comparison-with-usecallback" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#comparison-with-usecallback" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Comparison with useCallback">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Comparison with useCallback</strong>
+        </h3>
+<h4 id="usememo-vs-usecallback" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#usememo-vs-usecallback" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to useMemo vs useCallback">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">useMemo vs useCallback</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20ComparisonExample(%7B%20items%20%7D)%20%7B%0A%2F%2F%20useMemo%3A%20caches%20computed%20result%20(value)%0Aconst%20expensiveValue%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20items.reduce((sum%2C%20item)%20%3D%3E%20sum%20%2B%20item.value%2C%200)%3B%0A%7D%2C%20%5Bitems%5D)%3B%0A%2F%2F%20useCallback%3A%20caches%20function%20definition%0Aconst%20handleClick%20%3D%20useCallback(()%20%3D%3E%20%7B%0Aconsole.log('Button%20clicked')%3B%0A%7D%2C%20%5B%5D)%3B%0A%2F%2F%20Equivalent%20writing%0Aconst%20memoizedCallback%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20()%20%3D%3E%20console.log('Button%20clicked')%3B%0A%7D%2C%20%5B%5D)%3B%0Areturn%20(%0Adiv%3E%0Ap%3ETotal%3A%20%7BexpensiveValue%7Dp%3E%0Abutton%20onClick%3D%7BhandleClick%7D%3EClickbutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ComparisonExample</span>(<span class="hljs-params inline">{ items }</span>) {
+  <span class="hljs-comment inline">// useMemo: caches computed result (value)</span>
+  <span class="hljs-keyword inline">const</span> expensiveValue = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> items.<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, item</span>) =&gt;</span> sum + item.<span class="hljs-property inline">value</span>, <span class="hljs-number inline">0</span>);
+  }, [items]);
+
+  <span class="hljs-comment inline">// useCallback: caches function definition</span>
+  <span class="hljs-keyword inline">const</span> handleClick = <span class="hljs-title function_ inline">useCallback</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Button clicked&#x27;</span>);
+  }, []);
+
+  <span class="hljs-comment inline">// Equivalent writing</span>
+  <span class="hljs-keyword inline">const</span> memoizedCallback = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> <span class="hljs-function inline">() =&gt;</span> <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Button clicked&#x27;</span>);
+  }, []);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Total: {expensiveValue}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{handleClick}</span>&gt;</span>Click<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="difference-from-reactmemo" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#difference-from-reactmemo" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Difference from React.memo">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Difference from <code>React.memo</code></strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">While both <code>useMemo</code> and <code>React.memo</code> are performance optimization tools, they solve different problems and are used in completely different ways:</p>
+<table class="w-full border-collapse mb-4 shadow-sm rounded-lg overflow-hidden">
+<thead class="bg-surface">
+<tr class="border-b border-gray-200"><th class="px-4 py-3 text-left text-xs font-medium text-foreground uppercase tracking-wider bg-surface">Feature</th><th class="px-4 py-3 text-left text-xs font-medium text-foreground uppercase tracking-wider bg-surface">useMemo</th><th class="px-4 py-3 text-left text-xs font-medium text-foreground uppercase tracking-wider bg-surface">React.memo</th></tr>
+</thead>
+<tbody class="bg-background divide-y divide-gray-200">
+<tr class="border-b border-gray-200"><td class="px-4 py-3 text-sm text-foreground"><strong class="font-bold text-foreground">Optimization Target</strong></td><td class="px-4 py-3 text-sm text-foreground">Calculation process</td><td class="px-4 py-3 text-sm text-foreground">Component rendering</td></tr>
+<tr class="border-b border-gray-200"><td class="px-4 py-3 text-sm text-foreground"><strong class="font-bold text-foreground">Scope</strong></td><td class="px-4 py-3 text-sm text-foreground">Values inside components</td><td class="px-4 py-3 text-sm text-foreground">Entire component</td></tr>
+<tr class="border-b border-gray-200"><td class="px-4 py-3 text-sm text-foreground"><strong class="font-bold text-foreground">Usage Location</strong></td><td class="px-4 py-3 text-sm text-foreground">Inside components (Hook)</td><td class="px-4 py-3 text-sm text-foreground">Outside component definition (HOC)</td></tr>
+<tr class="border-b border-gray-200"><td class="px-4 py-3 text-sm text-foreground"><strong class="font-bold text-foreground">Trigger Condition</strong></td><td class="px-4 py-3 text-sm text-foreground">Dependency array changes</td><td class="px-4 py-3 text-sm text-foreground">Props changes</td></tr>
+<tr class="border-b border-gray-200"><td class="px-4 py-3 text-sm text-foreground"><strong class="font-bold text-foreground">Return Type</strong></td><td class="px-4 py-3 text-sm text-foreground">Any value</td><td class="px-4 py-3 text-sm text-foreground">React component</td></tr>
+</tbody>
+</table>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20React.memo%3A%20Component-level%20optimization%0Aconst%20ProductCard%20%3D%20React.memo((%7B%20product%2C%20onAddToCart%20%7D)%20%3D%3E%20%7B%0Aconsole.log('ProductCard%20rendered')%3B%0Areturn%20(%0Adiv%3E%0Ah3%3E%7Bproduct.name%7Dh3%3E%0Ap%3EPrice%3A%20%C2%A5%7Bproduct.price%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20onAddToCart(product.id)%7D%3E%0AAdd%20to%20Cart%0Abutton%3E%0Adiv%3E%0A)%3B%0A%7D)%3B%0A%2F%2F%20useMemo%3A%20Value-level%20optimization%0Afunction%20ProductList(%7B%20products%2C%20category%2C%20searchTerm%20%7D)%20%7B%0Aconsole.log('ProductList%20rendered')%3B%0A%2F%2F%20useMemo%20caches%20filtering%20results%0Aconst%20filteredProducts%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconsole.log('Executing%20filtering%20calculation')%3B%0Areturn%20products%0A.filter(p%20%3D%3E%20p.category%20%3D%3D%3D%20category)%0A.filter(p%20%3D%3E%20p.name.includes(searchTerm))%3B%0A%7D%2C%20%5Bproducts%2C%20category%2C%20searchTerm%5D)%3B%0A%2F%2F%20useMemo%20caches%20callback%20function%20for%20use%20with%20React.memo%0Aconst%20handleAddToCart%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20(productId)%20%3D%3E%20%7B%0Aconsole.log('Added%20to%20cart%3A'%2C%20productId)%3B%0A%7D%3B%0A%7D%2C%20%5B%5D)%3B%20%2F%2F%20Or%20use%20useCallback%0Areturn%20(%0Adiv%3E%0Ap%3EFound%20%7BfilteredProducts.length%7D%20productsp%3E%0A%7BfilteredProducts.map(product%20%3D%3E%20(%0AProductCard%0Akey%3D%7Bproduct.id%7D%0Aproduct%3D%7Bproduct%7D%0AonAddToCart%3D%7BhandleAddToCart%7D%0A%2F%3E%0A))%7D%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// React.memo: Component-level optimization</span>
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">ProductCard</span> = <span class="hljs-title class_ inline">React</span>.<span class="hljs-title function_ inline">memo</span>(<span class="hljs-function inline">(<span class="hljs-params inline">{ product, onAddToCart }</span>) =&gt;</span> {
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;ProductCard rendered&#x27;</span>);
+  
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">h3</span>&gt;</span>{product.name}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">h3</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Price: ¥{product.price}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> onAddToCart(product.id)}&gt;
+        Add to Cart
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+});
+
+<span class="hljs-comment inline">// useMemo: Value-level optimization</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ProductList</span>(<span class="hljs-params inline">{ products, category, searchTerm }</span>) {
+  <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;ProductList rendered&#x27;</span>);
+
+  <span class="hljs-comment inline">// useMemo caches filtering results</span>
+  <span class="hljs-keyword inline">const</span> filteredProducts = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Executing filtering calculation&#x27;</span>);
+    <span class="hljs-keyword inline">return</span> products
+      .<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">p</span> =&gt;</span> p.<span class="hljs-property inline">category</span> === category)
+      .<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">p</span> =&gt;</span> p.<span class="hljs-property inline">name</span>.<span class="hljs-title function_ inline">includes</span>(searchTerm));
+  }, [products, category, searchTerm]);
+
+  <span class="hljs-comment inline">// useMemo caches callback function for use with React.memo</span>
+  <span class="hljs-keyword inline">const</span> handleAddToCart = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> <span class="hljs-function inline">(<span class="hljs-params inline">productId</span>) =&gt;</span> {
+      <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Added to cart:&#x27;</span>, productId);
+    };
+  }, []); <span class="hljs-comment inline">// Or use useCallback</span>
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Found {filteredProducts.length} products<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      {filteredProducts.map(product =&gt; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">ProductCard</span>
+          <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{product.id}</span>
+          <span class="hljs-attr inline">product</span>=<span class="hljs-string inline">{product}</span>
+          <span class="hljs-attr inline">onAddToCart</span>=<span class="hljs-string inline">{handleAddToCart}</span>
+        /&gt;</span>
+      ))}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<p class="text-base leading-7 mb-4 text-foreground"><strong class="font-bold text-foreground">Best Practices for Combined Usage</strong>:```jsx<br class="block">
+function ShoppingApp() {<br class="block">
+const [cart, setCart] = useState([]);<br class="block">
+const [searchTerm, setSearchTerm] = useState(‘’);<br class="block">
+const [products] = useState([<br class="block">
+{ id: 1, name: 'iPhone’, category: 'electronics’, price: 999 },<br class="block">
+{ id: 2, name: 'T-Shirt’, category: 'clothing’, price: 29 }<br class="block">
+]);</p>
+<p class="text-base leading-7 mb-4 text-foreground">// useMemo: Cache search results<br class="block">
+const searchResults = useMemo(() =&gt; {<br class="block">
+if (!searchTerm) return products;<br class="block">
+return products.filter(p =&gt;<br class="block">
+p.name.toLowerCase().includes(searchTerm.toLowerCase())<br class="block">
+);<br class="block">
+}, [products, searchTerm]);</p>
+<p class="text-base leading-7 mb-4 text-foreground">// useMemo: Cache cart statistics<br class="block">
+const cartStats = useMemo(() =&gt; {<br class="block">
+return {<br class="block">
+itemCount: cart.length,<br class="block">
+total: cart.reduce((sum, item) =&gt; sum + item.price, 0)<br class="block">
+};<br class="block">
+}, [cart]);</p>
+<p class="text-base leading-7 mb-4 text-foreground">// useCallback: Stable event handler<br class="block">
+const addToCart = useCallback((productId) =&gt; {<br class="block">
+const product = products.find(p =&gt; p.id === productId);<br class="block">
+setCart(prev =&gt; […prev, product]);<br class="block">
+}, [products]);</p>
+<p class="text-base leading-7 mb-4 text-foreground">return (<br class="block">
+<div class="block"><br class="block">
+&lt;input<br class="block">
+value={searchTerm}<br class="block">
+onChange={(e) =&gt; setSearchTerm(e.target.value)}<br class="block">
+placeholder=&quot;Search products…&quot;<br class="block">
+/&gt;</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="" data-code="%7B%2F*%20CartSummary%20optimized%20with%20React.memo%20*%2F%7D%0A%7B%2F*%20ProductGrid%20optimized%20with%20React.memo%20*%2F%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">code</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code>  {/* CartSummary optimized with React.memo */}
+  &lt;CartSummary stats={cartStats} /&gt;
+  
+  {/* ProductGrid optimized with React.memo */}
+  &lt;ProductGrid 
+    products={searchResults} 
+    onAddToCart={addToCart} 
+  /&gt;
+&lt;/div&gt;
+</code></pre>
+            </div>
+        
+<p class="text-base leading-7 mb-4 text-foreground">);<br class="block">
+}</p>
+<p class="text-base leading-7 mb-4 text-foreground">// React.memo optimized components<br class="block">
+const CartSummary = React.memo(({ stats }) =&gt; {<br class="block">
+console.log(‘CartSummary rendered’);<br class="block">
+return (<br class="block">
+<div class="block"><br class="block">
+<p class="text-base leading-7 mb-4 text-foreground">Shopping Cart: {stats.itemCount} items</p><br class="block">
+<p class="text-base leading-7 mb-4 text-foreground">Total: ¥{stats.total}</p><br class="block">
+</div><br class="block">
+);<br class="block">
+});</p>
+<p class="text-base leading-7 mb-4 text-foreground">const ProductGrid = React.memo(({ products, onAddToCart }) =&gt; {<br class="block">
+console.log(‘ProductGrid rendered’);<br class="block">
+return (<br class="block">
+<div class="block"><br class="block">
+{products.map(product =&gt; (<br class="block">
+<ProductItem
+          key={product.id}
+          product={product}
+          onAddToCart={onAddToCart}
+        /><br class="block">
+))}<br class="block">
+</div><br class="block">
+);<br class="block">
+});</p>
+<p class="text-base leading-7 mb-4 text-foreground">const ProductItem = React.memo(({ product, onAddToCart }) =&gt; {<br class="block">
+return (<br class="block">
+<div class="block"><br class="block">
+<h4 id="productname" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#productname" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to {product.name}">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            {product.name}
+        </h4><br class="block">
+<p class="text-base leading-7 mb-4 text-foreground">¥{product.price}</p><br class="block">
+&lt;button onClick={() =&gt; onAddToCart(product.id)}&gt;<br class="block">
+Add to Cart<br class="block">
+</button><br class="block">
+</div><br class="block">
+);<br class="block">
+});</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="" data-code="**When%20to%20use%20which**%EF%BC%9A%0A-%20**Use%20%60useMemo%60**%EF%BC%9A%0A-%20Expensive%20calculations%20need%20caching%0A-%20Need%20to%20provide%20stable%20props%20reference%0A-%20Avoid%20creating%20new%20object%2Farray%20every%20render%0A-%20**Use%20%60React.memo%60**%EF%BC%9A%0A-%20Component%20often%20receives%20the%20same%20props%0A-%20Component%20rendering%20cost%20is%20high%0A-%20Parent%20component%20frequently%20re-renders%20but%20child%20component%20props%20changes%20less%20often%0A-%20**Combine%20usage**%EF%BC%9A%0A-%20Use%20%60useMemo%60%20to%20create%20stable%20props%0A-%20Use%20%60React.memo%60%20to%20prevent%20child%20component%20unnecessary%20re-renders%0A%23%23%23%20**Conditional%20Computation**%0A%60%60%60jsx%0Afunction%20ConditionalMemo(%7B%20data%2C%20shouldProcess%2C%20processingType%20%7D)%20%7B%0Aconst%20processedData%20%3D%20useMemo(()%20%3D%3E%20%7B%0A%2F%2F%20Only%20process%20when%20needed%0Aif%20(!shouldProcess)%20return%20data%3B%0Aconsole.log('Executing%20data%20processing...')%3B%0Aswitch%20(processingType)%20%7B%0Acase%20'sort'%3A%0Areturn%20%5B...data%5D.sort((a%2C%20b)%20%3D%3E%20a.value%20-%20b.value)%3B%0Acase%20'filter'%3A%0Areturn%20data.filter(item%20%3D%3E%20item.active)%3B%0Acase%20'transform'%3A%0Areturn%20data.map(item%20%3D%3E%20(%7B%20...item%2C%20processed%3A%20true%20%7D))%3B%0Adefault%3A%0Areturn%20data%3B%0A%7D%0A%7D%2C%20%5Bdata%2C%20shouldProcess%2C%20processingType%5D)%3B%0Areturn%20(%0AData%20items%20count%3A%20%7BprocessedData.length%7D%0A%7BprocessedData.map(item%20%3D%3E%20(%0A%7Bitem.name%7D%0A))%7D%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">code</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code>
+**When to use which**：
+- **Use `useMemo`**：
+  - Expensive calculations need caching
+  - Need to provide stable props reference
+  - Avoid creating new <span class="hljs-keyword inline">object</span>/array every render
+
+- **Use `React.memo`**：
+  - Component often receives the same props
+  - Component rendering cost <span class="hljs-keyword inline">is</span> high
+  - Parent component frequently re-renders but child component props changes less often
+
+- **Combine usage**：
+  - Use `useMemo` to create stable props
+  - Use `React.memo` to prevent child component unnecessary re-renders
+
+
+### **Conditional Computation**
+```jsx
+function ConditionalMemo({ <span class="hljs-keyword inline">data</span>, shouldProcess, processingType }) {
+  <span class="hljs-keyword inline">const</span> processedData = useMemo(() =&gt; {
+    <span class="hljs-comment inline">// Only process when needed</span>
+    <span class="hljs-keyword inline">if</span> (!shouldProcess) <span class="hljs-keyword inline">return</span> <span class="hljs-keyword inline">data</span>;
+
+    console.log(<span class="hljs-string inline">&#x27;Executing data processing...&#x27;</span>);
+    
+    switch (processingType) {
+      case <span class="hljs-string inline">&#x27;sort&#x27;</span>:
+        <span class="hljs-keyword inline">return</span> [...<span class="hljs-keyword inline">data</span>].sort((a, b) =&gt; a.value - b.value);
+      case <span class="hljs-string inline">&#x27;filter&#x27;</span>:
+        <span class="hljs-keyword inline">return</span> <span class="hljs-keyword inline">data</span>.filter(item =&gt; item.active);
+      case <span class="hljs-string inline">&#x27;transform&#x27;</span>:
+        <span class="hljs-keyword inline">return</span> <span class="hljs-keyword inline">data</span>.map(item =&gt; ({ ...item, processed: <span class="hljs-literal inline">true</span> }));
+      default:
+        <span class="hljs-keyword inline">return</span> <span class="hljs-keyword inline">data</span>;
+    }
+  }, [<span class="hljs-keyword inline">data</span>, shouldProcess, processingType]);
+
+  <span class="hljs-keyword inline">return</span> (
+    &lt;div&gt;
+      &lt;p&gt;Data items count: {processedData.length}&lt;/p&gt;
+      {processedData.map(item =&gt; (
+        &lt;div key={item.id}&gt;{item.name}&lt;/div&gt;
+      ))}
+    &lt;/div&gt;
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="memoizing-complex-objects" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#memoizing-complex-objects" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Memoizing Complex Objects">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Memoizing Complex Objects</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20FormValidator(%7B%20formData%2C%20validationRules%20%7D)%20%7B%0A%2F%2F%20Validation%20results%20computation%0Aconst%20validationResults%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconst%20results%20%3D%20%7B%7D%3B%0AObject.keys(validationRules).forEach(field%20%3D%3E%20%7B%0Aconst%20value%20%3D%20formData%5Bfield%5D%3B%0Aconst%20rules%20%3D%20validationRules%5Bfield%5D%3B%0Aresults%5Bfield%5D%20%3D%20%7B%0AisValid%3A%20true%2C%0Aerrors%3A%20%5B%5D%0A%7D%3B%0Arules.forEach(rule%20%3D%3E%20%7B%0Aif%20(!rule.validator(value))%20%7B%0Aresults%5Bfield%5D.isValid%20%3D%20false%3B%0Aresults%5Bfield%5D.errors.push(rule.message)%3B%0A%7D%0A%7D)%3B%0A%7D)%3B%0Areturn%20results%3B%0A%7D%2C%20%5BformData%2C%20validationRules%5D)%3B%0A%2F%2F%20Overall%20form%20status%0Aconst%20formStatus%20%3D%20useMemo(()%20%3D%3E%20%7B%0Aconst%20allFields%20%3D%20Object.values(validationResults)%3B%0Aconst%20hasErrors%20%3D%20allFields.some(field%20%3D%3E%20!field.isValid)%3B%0Aconst%20totalErrors%20%3D%20allFields.reduce((sum%2C%20field)%20%3D%3E%20sum%20%2B%20field.errors.length%2C%200)%3B%0Areturn%20%7B%0AisValid%3A%20!hasErrors%2C%0AerrorCount%3A%20totalErrors%2C%0AcanSubmit%3A%20!hasErrors%20%26%26%20Object.keys(formData).length%20%3E%200%0A%7D%3B%0A%7D%2C%20%5BvalidationResults%2C%20formData%5D)%3B%0Areturn%20(%0Adiv%3E%0Ap%3EForm%20status%3A%20%7BformStatus.isValid%20%3F%20'Valid'%20%3A%20'Invalid'%7Dp%3E%0Ap%3EError%20count%3A%20%7BformStatus.errorCount%7Dp%3E%0Abutton%20disabled%3D%7B!formStatus.canSubmit%7D%3E%0ASubmit%20Form%0Abutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">FormValidator</span>(<span class="hljs-params inline">{ formData, validationRules }</span>) {
+  <span class="hljs-comment inline">// Validation results computation</span>
+  <span class="hljs-keyword inline">const</span> validationResults = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">const</span> results = {};
+    
+    <span class="hljs-title class_ inline">Object</span>.<span class="hljs-title function_ inline">keys</span>(validationRules).<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline"><span class="hljs-params inline">field</span> =&gt;</span> {
+      <span class="hljs-keyword inline">const</span> value = formData[field];
+      <span class="hljs-keyword inline">const</span> rules = validationRules[field];
+      
+      results[field] = {
+        <span class="hljs-attr inline">isValid</span>: <span class="hljs-literal inline">true</span>,
+        <span class="hljs-attr inline">errors</span>: []
+      };
+
+      rules.<span class="hljs-title function_ inline">forEach</span>(<span class="hljs-function inline"><span class="hljs-params inline">rule</span> =&gt;</span> {
+        <span class="hljs-keyword inline">if</span> (!rule.<span class="hljs-title function_ inline">validator</span>(value)) {
+          results[field].<span class="hljs-property inline">isValid</span> = <span class="hljs-literal inline">false</span>;
+          results[field].<span class="hljs-property inline">errors</span>.<span class="hljs-title function_ inline">push</span>(rule.<span class="hljs-property inline">message</span>);
+        }
+      });
+    });
+
+    <span class="hljs-keyword inline">return</span> results;
+  }, [formData, validationRules]);
+
+  <span class="hljs-comment inline">// Overall form status</span>
+  <span class="hljs-keyword inline">const</span> formStatus = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">const</span> allFields = <span class="hljs-title class_ inline">Object</span>.<span class="hljs-title function_ inline">values</span>(validationResults);
+    <span class="hljs-keyword inline">const</span> hasErrors = allFields.<span class="hljs-title function_ inline">some</span>(<span class="hljs-function inline"><span class="hljs-params inline">field</span> =&gt;</span> !field.<span class="hljs-property inline">isValid</span>);
+    <span class="hljs-keyword inline">const</span> totalErrors = allFields.<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, field</span>) =&gt;</span> sum + field.<span class="hljs-property inline">errors</span>.<span class="hljs-property inline">length</span>, <span class="hljs-number inline">0</span>);
+
+    <span class="hljs-keyword inline">return</span> {
+      <span class="hljs-attr inline">isValid</span>: !hasErrors,
+      <span class="hljs-attr inline">errorCount</span>: totalErrors,
+      <span class="hljs-attr inline">canSubmit</span>: !hasErrors &amp;&amp; <span class="hljs-title class_ inline">Object</span>.<span class="hljs-title function_ inline">keys</span>(formData).<span class="hljs-property inline">length</span> &gt; <span class="hljs-number inline">0</span>
+    };
+  }, [validationResults, formData]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Form status: {formStatus.isValid ? &#x27;Valid&#x27; : &#x27;Invalid&#x27;}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Error count: {formStatus.errorCount}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">disabled</span>=<span class="hljs-string inline">{!formStatus.canSubmit}</span>&gt;</span>
+        Submit Form
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="common-pitfalls-and-solutions" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#common-pitfalls-and-solutions" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Common Pitfalls and Solutions">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Common Pitfalls and Solutions</strong>
+        </h3>
+<h4 id="incorrect-dependency-array" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#incorrect-dependency-array" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Incorrect Dependency Array">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Incorrect Dependency Array</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20BadExample(%7B%20items%2C%20filter%20%7D)%20%7B%0Aconst%20%5Bmultiplier%2C%20setMultiplier%5D%20%3D%20useState(1)%3B%0A%2F%2F%20Wrong%3A%20missing%20multiplier%20dependency%0Aconst%20processedItems%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20items%0A.filter(item%20%3D%3E%20item.category%20%3D%3D%3D%20filter)%0A.map(item%20%3D%3E%20(%7B%20...item%2C%20value%3A%20item.value%20*%20multiplier%20%7D))%3B%0A%7D%2C%20%5Bitems%2C%20filter%5D)%3B%20%2F%2F%20Should%20include%20%5Bitems%2C%20filter%2C%20multiplier%5D%0Areturn%20(%0Adiv%3E%0Ainput%0Atype%3D%22number%22%0Avalue%3D%7Bmultiplier%7D%0AonChange%3D%7B(e)%20%3D%3E%20setMultiplier(Number(e.target.value))%7D%0A%2F%3E%0A%7B%2F*%20processedItems%20won't%20update%20when%20multiplier%20changes%20*%2F%7D%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">BadExample</span>(<span class="hljs-params inline">{ items, filter }</span>) {
+  <span class="hljs-keyword inline">const</span> [multiplier, setMultiplier] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">1</span>);
+
+  <span class="hljs-comment inline">// Wrong: missing multiplier dependency</span>
+  <span class="hljs-keyword inline">const</span> processedItems = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> items
+      .<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> item.<span class="hljs-property inline">category</span> === filter)
+      .<span class="hljs-title function_ inline">map</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> ({ ...item, <span class="hljs-attr inline">value</span>: item.<span class="hljs-property inline">value</span> * multiplier }));
+  }, [items, filter]); <span class="hljs-comment inline">// Should include [items, filter, multiplier]</span>
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">input</span> 
+        <span class="hljs-attr inline">type</span>=<span class="hljs-string inline">&quot;number&quot;</span> 
+        <span class="hljs-attr inline">value</span>=<span class="hljs-string inline">{multiplier}</span>
+        <span class="hljs-attr inline">onChange</span>=<span class="hljs-string inline">{(e)</span> =&gt;</span> setMultiplier(Number(e.target.value))}
+      /&gt;
+      {/* processedItems won&#x27;t update when multiplier changes */}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="over-optimization" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#over-optimization" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Over-optimization">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Over-optimization</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Unnecessary%20optimization%0Afunction%20OverOptimized()%20%7B%0Aconst%20%5Bname%2C%20setName%5D%20%3D%20useState('')%3B%0A%2F%2F%20Simple%20string%20operations%20don't%20need%20useMemo%0Aconst%20uppercaseName%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20name.toUpperCase()%3B%0A%7D%2C%20%5Bname%5D)%3B%0Areturn%20div%3E%7BuppercaseName%7Ddiv%3E%3B%0A%7D%0A%2F%2F%20Simple%20and%20direct%20approach%0Afunction%20Simple()%20%7B%0Aconst%20%5Bname%2C%20setName%5D%20%3D%20useState('')%3B%0Areturn%20div%3E%7Bname.toUpperCase()%7Ddiv%3E%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Unnecessary optimization</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">OverOptimized</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [name, setName] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;&#x27;</span>);
+
+  <span class="hljs-comment inline">// Simple string operations don&#x27;t need useMemo</span>
+  <span class="hljs-keyword inline">const</span> uppercaseName = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> name.<span class="hljs-title function_ inline">toUpperCase</span>();
+  }, [name]);
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>{uppercaseName}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>;
+}
+
+<span class="hljs-comment inline">// Simple and direct approach</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">Simple</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [name, setName] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;&#x27;</span>);
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>{name.toUpperCase()}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>;
+}
+</code></pre>
+            </div>
+        
+<h4 id="reference-type-pitfalls" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#reference-type-pitfalls" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Reference Type Pitfalls">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Reference Type Pitfalls</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20ReferenceTypeExample(%7B%20config%20%7D)%20%7B%0A%2F%2F%20Wrong%3A%20config%20is%20an%20object%2C%20might%20be%20considered%20new%20every%20time%0Aconst%20processedConfig%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20%7B%0A...config%2C%0Aprocessed%3A%20true%0A%7D%3B%0A%7D%2C%20%5Bconfig%5D)%3B%20%2F%2F%20config%20object%20reference%20might%20change%20every%20time%0A%2F%2F%20Correct%3A%20use%20specific%20object%20properties%20as%20dependencies%0Aconst%20processedConfigCorrect%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20%7B%0A...config%2C%0Aprocessed%3A%20true%0A%7D%3B%0A%7D%2C%20%5Bconfig.apiUrl%2C%20config.timeout%2C%20config.retries%5D)%3B%20%2F%2F%20Specific%20properties%0Areturn%20div%3EConfig%20processeddiv%3E%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ReferenceTypeExample</span>(<span class="hljs-params inline">{ config }</span>) {
+  <span class="hljs-comment inline">// Wrong: config is an object, might be considered new every time</span>
+  <span class="hljs-keyword inline">const</span> processedConfig = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> {
+      ...config,
+      <span class="hljs-attr inline">processed</span>: <span class="hljs-literal inline">true</span>
+    };
+  }, [config]); <span class="hljs-comment inline">// config object reference might change every time</span>
+
+  <span class="hljs-comment inline">// Correct: use specific object properties as dependencies</span>
+  <span class="hljs-keyword inline">const</span> processedConfigCorrect = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> {
+      ...config,
+      <span class="hljs-attr inline">processed</span>: <span class="hljs-literal inline">true</span>
+    };
+  }, [config.<span class="hljs-property inline">apiUrl</span>, config.<span class="hljs-property inline">timeout</span>, config.<span class="hljs-property inline">retries</span>]); <span class="hljs-comment inline">// Specific properties</span>
+
+  <span class="hljs-keyword inline">return</span> <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>Config processed<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>;
+}
+</code></pre>
+            </div>
+        
+<h3 id="performance-testing-example" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#performance-testing-example" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Performance Testing Example">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Performance Testing Example</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20PerformanceTest(%7B%20data%20%7D)%20%7B%0Aconst%20%5BrerenderCount%2C%20setRerenderCount%5D%20%3D%20useState(0)%3B%0A%2F%2F%20Expensive%20calculation%20(simulated)%0Aconst%20expensiveCalculation%20%3D%20(items)%20%3D%3E%20%7B%0Aconsole.log('Executing%20expensive%20calculation...')%3B%0Alet%20result%20%3D%200%3B%0Afor%20(let%20i%20%3D%200%3B%20i%201000000%3B%20i%2B%2B)%20%7B%0Aresult%20%2B%3D%20Math.random()%3B%0A%7D%0Areturn%20items.length%20%2B%20result%3B%0A%7D%3B%0A%2F%2F%20Version%20without%20caching%0Aconst%20unoptimizedValue%20%3D%20expensiveCalculation(data)%3B%0A%2F%2F%20Version%20with%20caching%0Aconst%20optimizedValue%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20expensiveCalculation(data)%3B%0A%7D%2C%20%5Bdata%5D)%3B%0Areturn%20(%0Adiv%3E%0Ap%3ERe-render%20count%3A%20%7BrerenderCount%7Dp%3E%0Abutton%20onClick%3D%7B()%20%3D%3E%20setRerenderCount(prev%20%3D%3E%20prev%20%2B%201)%7D%3E%0ATrigger%20Re-render%0Abutton%3E%0Ap%3EUnoptimized%20value%3A%20%7BunoptimizedValue.toFixed(2)%7Dp%3E%0Ap%3EOptimized%20value%3A%20%7BoptimizedValue.toFixed(2)%7Dp%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">PerformanceTest</span>(<span class="hljs-params inline">{ data }</span>) {
+  <span class="hljs-keyword inline">const</span> [rerenderCount, setRerenderCount] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-number inline">0</span>);
+
+  <span class="hljs-comment inline">// Expensive calculation (simulated)</span>
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">expensiveCalculation</span> = (<span class="hljs-params inline">items</span>) =&gt; {
+    <span class="hljs-variable language_ inline">console</span>.<span class="hljs-title function_ inline">log</span>(<span class="hljs-string inline">&#x27;Executing expensive calculation...&#x27;</span>);
+    <span class="hljs-keyword inline">let</span> result = <span class="hljs-number inline">0</span>;
+    <span class="hljs-keyword inline">for</span> (<span class="hljs-keyword inline">let</span> i = <span class="hljs-number inline">0</span>; i &lt; <span class="hljs-number inline">1000000</span>; i++) {
+      result += <span class="hljs-title class_ inline">Math</span>.<span class="hljs-title function_ inline">random</span>();
+    }
+    <span class="hljs-keyword inline">return</span> items.<span class="hljs-property inline">length</span> + result;
+  };
+
+  <span class="hljs-comment inline">// Version without caching</span>
+  <span class="hljs-keyword inline">const</span> unoptimizedValue = <span class="hljs-title function_ inline">expensiveCalculation</span>(data);
+
+  <span class="hljs-comment inline">// Version with caching</span>
+  <span class="hljs-keyword inline">const</span> optimizedValue = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> <span class="hljs-title function_ inline">expensiveCalculation</span>(data);
+  }, [data]);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Re-render count: {rerenderCount}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span> <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{()</span> =&gt;</span> setRerenderCount(prev =&gt; prev + 1)}&gt;
+        Trigger Re-render
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Unoptimized value: {unoptimizedValue.toFixed(2)}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Optimized value: {optimizedValue.toFixed(2)}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="usage-in-custom-hooks" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#usage-in-custom-hooks" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Usage in Custom Hooks">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Usage in Custom Hooks</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="function%20useFilteredData(data%2C%20filters)%20%7B%0Aconst%20filteredData%20%3D%20useMemo(()%20%3D%3E%20%7B%0Alet%20result%20%3D%20data%3B%0Aif%20(filters.search)%20%7B%0Aresult%20%3D%20result.filter(item%20%3D%3E%0Aitem.name.toLowerCase().includes(filters.search.toLowerCase())%0A)%3B%0A%7D%0Aif%20(filters.category)%20%7B%0Aresult%20%3D%20result.filter(item%20%3D%3E%20item.category%20%3D%3D%3D%20filters.category)%3B%0A%7D%0Aif%20(filters.priceRange)%20%7B%0Aresult%20%3D%20result.filter(item%20%3D%3E%0Aitem.price%20%3E%3D%20filters.priceRange.min%20%26%26%0Aitem.price%20priceRange.max%0A)%3B%0A%7D%0Areturn%20result%3B%0A%7D%2C%20%5Bdata%2C%20filters.search%2C%20filters.category%2C%20filters.priceRange%5D)%3B%0Aconst%20statistics%20%3D%20useMemo(()%20%3D%3E%20%7B%0Areturn%20%7B%0Acount%3A%20filteredData.length%2C%0AaveragePrice%3A%20filteredData.length%0A%3F%20filteredData.reduce((sum%2C%20item)%20%3D%3E%20sum%20%2B%20item.price%2C%200)%20%2F%20filteredData.length%0A%3A%200%0A%7D%3B%0A%7D%2C%20%5BfilteredData%5D)%3B%0Areturn%20%7B%20filteredData%2C%20statistics%20%7D%3B%0A%7D%0A%2F%2F%20Using%20custom%20Hook%0Afunction%20ProductCatalog(%7B%20products%20%7D)%20%7B%0Aconst%20%5Bfilters%2C%20setFilters%5D%20%3D%20useState(%7B%0Asearch%3A%20''%2C%0Acategory%3A%20''%2C%0ApriceRange%3A%20%7B%20min%3A%200%2C%20max%3A%201000%20%7D%0A%7D)%3B%0Aconst%20%7B%20filteredData%2C%20statistics%20%7D%20%3D%20useFilteredData(products%2C%20filters)%3B%0Areturn%20(%0Adiv%3E%0Ap%3EFound%20%7Bstatistics.count%7D%20productsp%3E%0Ap%3EAverage%20price%3A%20%24%7Bstatistics.averagePrice.toFixed(2)%7Dp%3E%0A%7B%2F*%20Render%20product%20list%20*%2F%7D%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">useFilteredData</span>(<span class="hljs-params inline">data, filters</span>) {
+  <span class="hljs-keyword inline">const</span> filteredData = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">let</span> result = data;
+
+    <span class="hljs-keyword inline">if</span> (filters.<span class="hljs-property inline">search</span>) {
+      result = result.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span>
+        item.<span class="hljs-property inline">name</span>.<span class="hljs-title function_ inline">toLowerCase</span>().<span class="hljs-title function_ inline">includes</span>(filters.<span class="hljs-property inline">search</span>.<span class="hljs-title function_ inline">toLowerCase</span>())
+      );
+    }
+
+    <span class="hljs-keyword inline">if</span> (filters.<span class="hljs-property inline">category</span>) {
+      result = result.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span> item.<span class="hljs-property inline">category</span> === filters.<span class="hljs-property inline">category</span>);
+    }
+
+    <span class="hljs-keyword inline">if</span> (filters.<span class="hljs-property inline">priceRange</span>) {
+      result = result.<span class="hljs-title function_ inline">filter</span>(<span class="hljs-function inline"><span class="hljs-params inline">item</span> =&gt;</span>
+        item.<span class="hljs-property inline">price</span> &gt;= filters.<span class="hljs-property inline">priceRange</span>.<span class="hljs-property inline">min</span> &amp;&amp;
+        item.<span class="hljs-property inline">price</span> &lt;= filters.<span class="hljs-property inline">priceRange</span>.<span class="hljs-property inline">max</span>
+      );
+    }
+
+    <span class="hljs-keyword inline">return</span> result;
+  }, [data, filters.<span class="hljs-property inline">search</span>, filters.<span class="hljs-property inline">category</span>, filters.<span class="hljs-property inline">priceRange</span>]);
+
+  <span class="hljs-keyword inline">const</span> statistics = <span class="hljs-title function_ inline">useMemo</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-keyword inline">return</span> {
+      <span class="hljs-attr inline">count</span>: filteredData.<span class="hljs-property inline">length</span>,
+      <span class="hljs-attr inline">averagePrice</span>: filteredData.<span class="hljs-property inline">length</span>
+        ? filteredData.<span class="hljs-title function_ inline">reduce</span>(<span class="hljs-function inline">(<span class="hljs-params inline">sum, item</span>) =&gt;</span> sum + item.<span class="hljs-property inline">price</span>, <span class="hljs-number inline">0</span>) / filteredData.<span class="hljs-property inline">length</span>
+        : <span class="hljs-number inline">0</span>
+    };
+  }, [filteredData]);
+
+  <span class="hljs-keyword inline">return</span> { filteredData, statistics };
+}
+
+<span class="hljs-comment inline">// Using custom Hook</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ProductCatalog</span>(<span class="hljs-params inline">{ products }</span>) {
+  <span class="hljs-keyword inline">const</span> [filters, setFilters] = <span class="hljs-title function_ inline">useState</span>({
+    <span class="hljs-attr inline">search</span>: <span class="hljs-string inline">&#x27;&#x27;</span>,
+    <span class="hljs-attr inline">category</span>: <span class="hljs-string inline">&#x27;&#x27;</span>,
+    <span class="hljs-attr inline">priceRange</span>: { <span class="hljs-attr inline">min</span>: <span class="hljs-number inline">0</span>, <span class="hljs-attr inline">max</span>: <span class="hljs-number inline">1000</span> }
+  });
+
+  <span class="hljs-keyword inline">const</span> { filteredData, statistics } = <span class="hljs-title function_ inline">useFilteredData</span>(products, filters);
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Found {statistics.count} products<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">p</span>&gt;</span>Average price: ${statistics.averagePrice.toFixed(2)}<span class="hljs-tag inline">&lt;/<span class="hljs-name inline">p</span>&gt;</span>
+      {/* Render product list */}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h3 id="best-practices" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#best-practices" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Best Practices">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Best Practices</strong>
+        </h3>
+<ol class="list-decimal list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Identify expensive calculations</strong>: Only use useMemo for truly expensive computations</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Set dependencies correctly</strong>: Include all variables used in the computation</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Avoid over-optimization</strong>: Simple calculations don’t need memoization</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Stable references</strong>: Provide stable prop references for child components</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Measure performance</strong>: Use developer tools to verify optimization effectiveness</li>
+</ol>
+<h3 id="important-considerations" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#important-considerations" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Important Considerations">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Important Considerations</strong>
+        </h3>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Memory overhead</strong>: Cached values consume additional memory</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Computation cost</strong>: Memoization itself has costs, ensure benefits outweigh costs</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Dependency comparison</strong>: Uses shallow comparison, be careful with objects and arrays</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Debugging difficulty</strong>: Overuse can make code harder to understand</li>
+</ul>
+<p class="text-base leading-7 mb-4 text-foreground"><code>useMemo</code> is an important tool for optimizing React application performance, but should be used in appropriate scenarios to avoid over-optimization that increases code complexity.</p>
+d:["$","$L1d",null,{"htmlContent":"$1e","frontMatter":{"title":"useMemo","description":"React Fundamentals - useMemo","date":"2025-06-22","author":"MilkWind","tags":["React","Fundamentals","useMemo","React Hook"],"references":{}},"readingTime":"11 min read","category":"basic-knowledge","tocItems":[{"id":"basic-purpose","text":"Basic Purpose","level":3},{"id":"basic-syntax","text":"Basic Syntax","level":3},{"id":"comparison-with-regular-computation","text":"Comparison with Regular Computation","level":3},{"id":"without-usememo-problem-example","text":"Without useMemo (Problem Example)","level":4},{"id":"with-usememo-optimized","text":"With useMemo (Optimized)","level":4},{"id":"real-world-application-scenarios","text":"Real-world Application Scenarios","level":3},{"id":"complex-data-processing","text":"Complex Data Processing","level":4},{"id":"search-and-sorting","text":"Search and Sorting","level":4},{"id":"avoiding-child-component-re-renders","text":"Avoiding Child Component Re-renders","level":4},{"id":"comparison-with-usecallback","text":"Comparison with useCallback","level":3},{"id":"usememo-vs-usecallback","text":"useMemo vs useCallback","level":4},{"id":"difference-from-reactmemo","text":"Difference from React.memo","level":3},{"id":"productname","text":"{product.name}","level":4},{"id":"memoizing-complex-objects","text":"Memoizing Complex Objects","level":3},{"id":"common-pitfalls-and-solutions","text":"Common Pitfalls and Solutions","level":3},{"id":"incorrect-dependency-array","text":"Incorrect Dependency Array","level":4},{"id":"over-optimization","text":"Over-optimization","level":4},{"id":"reference-type-pitfalls","text":"Reference Type Pitfalls","level":4},{"id":"performance-testing-example","text":"Performance Testing Example","level":3},{"id":"usage-in-custom-hooks","text":"Usage in Custom Hooks","level":3},{"id":"best-practices","text":"Best Practices","level":3},{"id":"important-considerations","text":"Important Considerations","level":3}],"translations":{"common":{"welcome":"Welcome","loading":"Loading...","error":"Something went wrong","retry":"Try again","theme":"Theme","language":"Language","light":"Light","dark":"Dark"},"navigation":{"home":"Home","personal":"Personal","works":"Works","contributions":"Contributions","documents":"Documents","about":"About","contact":"Contact"},"personal":{"technicalSkills":"Technical Skills","email":"Email","github":"GitHub","resume":"Resume","codeRepository":"Code Repository","loadingPersonalInfo":"Loading personal information...","loadingResume":"Loading resume...","closeResume":"Close Resume","emailCopied":"Email copied to clipboard!","galaxyDefaultDescription":"Expert in full-stack development, cross-platform architecture, AI technology integration, and high-performance system optimization","skillGalaxy":"Skill Galaxy","stirGalaxy":"Stir Galaxy","stirring":"Stirring...","fullStackEngineer":"MilkWind - Full Stack Engineer","professionalProfile":"About Me"},"documents":{"technicalDocuments":"Technical Documents","description":"Basic principles, code splitting, and some random thoughts.","articles":"Articles","categories":"Categories","allCategories":"All Categories","noArticlesFound":"No articles found","noArticlesAvailable":"No articles available in English.","noArticlesInCategory":"No articles found in the category.","readMore":"Read more","loadingDocuments":"Loading documents...","backToDocuments":"← Back to Documents","documentNotFound":"Document Not Found","documentNotFoundDescription":"The requested document could not be found.","technicalInsights":"Insights","untitledDocument":"Untitled Document","byAuthor":"By","search":"Search articles...","searchByTags":"Filter by tags","searching":"Searching...","noSearchResults":"No articles match your search criteria","clearSearch":"Clear search","selectedTags":"Selected tags","allTags":"All tags","searchInTitle":"Search in titles, descriptions, and content","enterImmersiveMode":"Immersive Reading","exitImmersiveMode":"Exit Immersive Mode","immersiveReading":"Immersive Reading Mode","exploreContent":"Explore content by category","browseBy":"Browse by","exploreAll":"All content in one place","categoryDescription":"Articles in this category","totalArticles":"Articles","totalCategories":"Categories","foundArticles":"Found articles","categoriesWithResults":"Categories with results"},"works":{"workCases":"Work Cases","projects":"Portfolio","loadingProjects":"Loading projects...","grid":"Grid","stack":"Stack","of":"of","workCasesPageTitle":"Work Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contributions":{"contributionCases":"Open Source","contributions":"Contributions","loadingContributions":"Loading contributions...","grid":"Grid","stack":"Stack","of":"of","contributionCasesPageTitle":"Contribution Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contribution":{"contributionPreview":"Contribution Preview","accessible":"Accessible","code":"Code","maintenance":"Maintenance","enhancement":"Enhancement","documentation":"Documentation","community":"Community","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","contributionDetail":"Contribution Detail","description":"Description:","seeDetails":"See Details","github":"GitHub","viewContribution":"View Contribution","viewCode":"View Code"},"project":{"projectPreview":"Project Preview","accessible":"Accessible","tool":"Tool","plugin":"Plugin","toy":"Toy","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","description":"Description:","seeDetails":"See Details","github":"GitHub","gitee":"Gitee","viewLiveDemo":"View Live Demo","viewCode":"View Code","access":"Access","videos":"Videos","watchVideo":"Watch Video","hasVideo":"Has Video"},"codeblock":{"copy":"Copy","copySuccess":"Code copied to clipboard!","copyError":"Failed to copy code","copyTooltip":"Copy code"},"toc":{"contents":"Contents","autoScroll":"Auto-scroll to section","collapse":"Collapse","expand":"Expand"},"loading":{"loading":"LOADING","preparingExperience":"Preparing experience"}},"lang":"en","theme":"dark"}]
+12:null
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:{"metadata":[["$","title","0",{"children":"useMemo | Interactive Portfolio"}],["$","meta","1",{"name":"description","content":"React Fundamentals - useMemo"}],["$","meta","2",{"name":"author","content":"Developer"}],["$","meta","3",{"name":"keywords","content":"portfolio,3D,interactive,web development,Three.js,Next.js"}],["$","meta","4",{"property":"og:title","content":"useMemo | Interactive Portfolio"}],["$","meta","5",{"property":"og:description","content":"React Fundamentals - useMemo"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-06-22"}],["$","meta","8",{"property":"article:tag","content":"React"}],["$","meta","9",{"property":"article:tag","content":"Fundamentals"}],["$","meta","10",{"property":"article:tag","content":"useMemo"}],["$","meta","11",{"property":"article:tag","content":"React Hook"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"useMemo | Interactive Portfolio"}],["$","meta","14",{"name":"twitter:description","content":"React Fundamentals - useMemo"}],["$","link","15",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1c:metadata","error":null,"digest":"$undefined"}

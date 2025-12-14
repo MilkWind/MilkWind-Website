@@ -1,0 +1,921 @@
+1:"$Sreact.fragment"
+2:I[38735,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+3:I[19945,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+4:I[65337,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+5:I[96190,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"ClientProviders"]
+6:I[87555,[],""]
+7:I[51901,["8039","static/chunks/app/error-10ebab2e11865aaf.js"],"default"]
+8:I[31295,[],""]
+9:I[6874,["6874","static/chunks/6874-fbe9a08eb79b991c.js","4345","static/chunks/app/not-found-38b9d1a0bc95ac08.js"],""]
+a:I[94970,[],"ClientSegmentRoot"]
+b:I[44065,["206","static/chunks/206-4f4cbf4d7156f437.js","3092","static/chunks/app/documents/layout-5f4e66d848ce7829.js"],"default"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[59665,[],"OutletBoundary"]
+13:I[74911,[],"AsyncMetadataOutlet"]
+15:I[39460,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","5650","static/chunks/app/documents/loading-552c4cd17346a076.js"],"default"]
+16:I[88610,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","4209","static/chunks/app/loading-0c530d99d5132c05.js"],"default"]
+17:I[59665,[],"ViewportBoundary"]
+19:I[26614,[],""]
+:HL["/_next/static/css/de70bee13400563f.css","style"]
+:HL["/_next/static/css/38943437573ce53c.css","style"]
+:HL["/_next/static/css/5eacd01f773eed7f.css","style"]
+0:{"P":null,"b":"xMcHYm_FvwjrVB7JmFp9i","p":"","c":["","documents","en","light","personal-website","customize-cursor-pattern",""],"i":false,"f":[[["",{"children":["documents",{"children":[["slug","en/light/personal-website/customize-cursor-pattern","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/de70bee13400563f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/38943437573ce53c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 font-sans antialiased min-h-screen bg-background text-foreground","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"z-10 relative min-h-screen flex items-center justify-center bg-background p-8","children":["$","div",null,{"className":"text-center max-w-md","children":[["$","div",null,{"className":"text-8xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-bold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-foreground/70 mb-8","children":"The page you're looking for doesn't exist or has been moved to a different location."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L9",null,{"href":"/","className":"px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/works","className":"px-6 py-2 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors","children":"View Works"}]]}],["$","div",null,{"className":"absolute inset-0 overflow-hidden pointer-events-none -z-10","children":[["$","div",null,{"className":"absolute top-1/4 left-1/4 w-2 h-2 bg-primary/20 rounded-full animate-float"}],["$","div",null,{"className":"absolute top-3/4 right-1/4 w-3 h-3 bg-accent/20 rounded-full animate-float","style":{"animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-1/4 left-1/3 w-1 h-1 bg-secondary/20 rounded-full animate-float","style":{"animationDelay":"2s"}}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["documents",["$","$1","c",{"children":[null,["$","$La",null,{"Component":"$b","slots":{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@c"}]]}],{"children":[["slug","en/light/personal-website/customize-cursor-pattern","c"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5eacd01f773eed7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},[["$","$L15","l",{}],[],[]],false]},[["$","$L16","l",{}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","ndeS4Z-9ijI-mqC9MfES2",{"children":[["$","$L17",null,{"children":"$L18"}],null]}],null]}],false]],"m":"$undefined","G":["$19","$undefined"],"s":false,"S":true}
+1a:"$Sreact.suspense"
+1b:I[74911,[],"AsyncMetadata"]
+c:{}
+f:["$","$1a",null,{"fallback":null,"children":["$","$L1b",null,{"promise":"$@1c"}]}]
+1d:I[57340,["5584","static/chunks/b498d07c-095637f0f10883c6.js","2415","static/chunks/2415-689c103fb3d2c28d.js","6874","static/chunks/6874-fbe9a08eb79b991c.js","9554","static/chunks/9554-b714f9de28e85d30.js","1873","static/chunks/app/documents/%5B...slug%5D/page-9ee3d086bd3810e0.js"],"DocumentPageClient"]
+1e:T1d93e,<h1 id="custom-cursor-pattern" class="group relative text-4xl font-bold mt-8 mb-4 text-foreground leading-tight">
+            <a href="#custom-cursor-pattern" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Custom Cursor Pattern">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Custom Cursor Pattern
+        </h1>
+<h2 id="basic-concepts" class="group relative text-3xl font-semibold mt-6 mb-3 text-foreground leading-tight">
+            <a href="#basic-concepts" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Concepts">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Basic Concepts
+        </h2>
+<p class="text-base leading-7 mb-4 text-foreground">Custom cursor patterns mainly involve three core states:</p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Default State</strong>: The base style when the mouse is hovering</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Hover State</strong>: The style when the mouse is hovering over an interactive element</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Dragging State</strong>: The style when a drag operation is in progress</li>
+</ul>
+<h2 id="why-can-we-override-the-default-cursor" class="group relative text-3xl font-semibold mt-6 mb-3 text-foreground leading-tight">
+            <a href="#why-can-we-override-the-default-cursor" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Why Can We Override the Default Cursor">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Why Can We Override the Default Cursor
+        </h2>
+<p class="text-base leading-7 mb-4 text-foreground">You might wonder why our custom pattern can “override” the browser’s default cursor? In fact, this is achieved by hiding the system cursor and replacing it with a custom element:</p>
+<h3 id="principle-of-cursor-hiding-and-replacement" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#principle-of-cursor-hiding-and-replacement" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Principle of Cursor Hiding and Replacement">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Principle of Cursor Hiding and Replacement
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">The core implementation is divided into two steps: <strong class="font-bold text-foreground">Hide the system cursor</strong> + <strong class="font-bold text-foreground">Custom cursor follows</strong></p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="%2F%2F%20Step%201%3A%20Hide%20the%20system%20default%20cursor%0A%22cursor-none%22%3E%0A%7B%2F*%20Container%20content%20*%2F%7D%0A%2F%2F%20Step%202%3A%20Create%20a%20custom%20cursor%20that%20follows%20the%20mouse%0Amotion.div%0AclassName%3D%22fixed%20pointer-events-none%20z-50%22%0Astyle%3D%7B%7B%0Aleft%3A%20position.x%20-%2032%2C%20%20%2F%2F%20Follows%20the%20mouse%20X%20coordinate%20in%20real%20time%0Atop%3A%20position.y%20-%2032%2C%20%20%20%2F%2F%20Follows%20the%20mouse%20Y%20coordinate%20in%20real%20time%0A%7D%7D%0A%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-comment inline">// Step 1: Hide the system default cursor</span>
+&lt;div className=<span class="hljs-string inline">&quot;cursor-none&quot;</span>&gt;
+  {<span class="hljs-comment inline">/* Container content */</span>}
+&lt;/div&gt;
+
+<span class="hljs-comment inline">// Step 2: Create a custom cursor that follows the mouse</span>
+<span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+  <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;fixed pointer-events-none z-50&quot;</span>
+  <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+    <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">position.x</span> <span class="hljs-attr inline">-</span> <span class="hljs-attr inline">32</span>,  // <span class="hljs-attr inline">Follows</span> <span class="hljs-attr inline">the</span> <span class="hljs-attr inline">mouse</span> <span class="hljs-attr inline">X</span> <span class="hljs-attr inline">coordinate</span> <span class="hljs-attr inline">in</span> <span class="hljs-attr inline">real</span> <span class="hljs-attr inline">time</span>
+    <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">position.y</span> <span class="hljs-attr inline">-</span> <span class="hljs-attr inline">32</span>,   // <span class="hljs-attr inline">Follows</span> <span class="hljs-attr inline">the</span> <span class="hljs-attr inline">mouse</span> <span class="hljs-attr inline">Y</span> <span class="hljs-attr inline">coordinate</span> <span class="hljs-attr inline">in</span> <span class="hljs-attr inline">real</span> <span class="hljs-attr inline">time</span>
+  }}
+&gt;</span>
+</span></code></pre>
+            </div>
+        
+<h3 id="technical-implementation-mechanism" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#technical-implementation-mechanism" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Technical Implementation Mechanism">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Technical Implementation Mechanism
+        </h3>
+<ol class="list-decimal list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Cursor Hiding (cursor-none)</strong>: Use CSS properties to completely hide the browser’s default cursor</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Fixed Position</strong>: Make the custom pattern positioned relative to the viewport, unaffected by scrolling</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">High Z-index</strong>: Ensure the custom pattern appears above all other elements</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Pointer Events None</strong>: Make sure the pattern does not interfere with normal mouse interactions</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Real-time Position Update</strong>: Listen to mouse move events and dynamically update the pattern’s position</li>
+</ol>
+<h3 id="key-code-explanation" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#key-code-explanation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Key Code Explanation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Key Code Explanation
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="%2F%2F%20Step%201%3A%20Container%20applies%20cursor-none%20to%20hide%20the%20system%20cursor%0A%60overflow-hidden%20%24%7B%0AeffectiveDisplayMode%20%3D%3D%3D%20'tiled'%20%3F%20'cursor-none'%20%3A%20''%0A%7D%60%7D%0AonMouseMove%3D%7BhandleMouseMove%7D%0A%3E%0A%7B%2F*%20Page%20content%20*%2F%7D%0A%2F%2F%20Step%202%3A%20Listen%20to%20mouse%20movement%20to%20get%20real-time%20coordinates%0AuseEffect(()%20%3D%3E%20%7B%0Aconst%20handleMouseMove%20%3D%20(e%3A%20MouseEvent)%20%3D%3E%20%7B%0AsetPosition(%7B%20x%3A%20e.clientX%2C%20y%3A%20e.clientY%20%7D)%3B%0A%7D%3B%0Adocument.addEventListener('mousemove'%2C%20handleMouseMove)%3B%0Areturn%20()%20%3D%3E%20document.removeEventListener('mousemove'%2C%20handleMouseMove)%3B%0A%7D%2C%20%5B%5D)%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-comment inline">// Step 1: Container applies cursor-none to hide the system cursor</span>
+&lt;div
+  className={<span class="hljs-string inline">`overflow-hidden <span class="hljs-subst inline">${
+    effectiveDisplayMode === <span class="hljs-string inline">&#x27;tiled&#x27;</span> ? <span class="hljs-string inline">&#x27;cursor-none&#x27;</span> : <span class="hljs-string inline">&#x27;&#x27;</span>
+  }</span>`</span>}
+  onMouseMove={handleMouseMove}
+&gt;
+  {<span class="hljs-comment inline">/* Page content */</span>}
+&lt;/div&gt;
+
+<span class="hljs-comment inline">// Step 2: Listen to mouse movement to get real-time coordinates</span>
+<span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">handleMouseMove</span> = (<span class="hljs-params inline"><span class="hljs-attr inline">e</span>: <span class="hljs-title class_ inline">MouseEvent</span></span>) =&gt; {
+    <span class="hljs-title function_ inline">setPosition</span>({ <span class="hljs-attr inline">x</span>: e.<span class="hljs-property inline">clientX</span>, <span class="hljs-attr inline">y</span>: e.<span class="hljs-property inline">clientY</span> });
+  };
+  
+  <span class="hljs-variable language_ inline">document</span>.<span class="hljs-title function_ inline">addEventListener</span>(<span class="hljs-string inline">&#x27;mousemove&#x27;</span>, handleMouseMove);
+  <span class="hljs-keyword inline">return</span> <span class="hljs-function inline">() =&gt;</span> <span class="hljs-variable language_ inline">document</span>.<span class="hljs-title function_ inline">removeEventListener</span>(<span class="hljs-string inline">&#x27;mousemove&#x27;</span>, handleMouseMove);
+}, []);
+</code></pre>
+            </div>
+        
+<p class="text-base leading-7 mb-4 text-foreground">In this way, the system’s default cursor is completely hidden, and the user can only see our custom animated pattern. At the same time, because <code>pointer-events-none</code> is used, the custom cursor does not interfere with normal click, hover, and other interaction operations.</p>
+<h2 id="implementation-ideas" class="group relative text-3xl font-semibold mt-6 mb-3 text-foreground leading-tight">
+            <a href="#implementation-ideas" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Implementation Ideas">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Implementation Ideas
+        </h2>
+<h3 id="state-management" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#state-management" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to State Management">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            State Management
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">First, we need to define the basic properties of the cursor indicator:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="interface%20CursorPatternProps%20%7B%0AisDragging%3A%20boolean%3B%20%20%20%20%20%2F%2F%20Whether%20dragging%20is%20in%20progress%0AisHovering%3A%20boolean%3B%20%20%20%20%20%2F%2F%20Whether%20hovering%20is%20in%20progress%0Aposition%3A%20%7B%20x%3A%20number%3B%20y%3A%20number%20%7D%3B%20%20%2F%2F%20Cursor%20position%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-keyword inline">interface</span> <span class="hljs-title class_ inline">CursorPatternProps</span> {
+  <span class="hljs-attr inline">isDragging</span>: <span class="hljs-built_in inline">boolean</span>;     <span class="hljs-comment inline">// Whether dragging is in progress</span>
+  <span class="hljs-attr inline">isHovering</span>: <span class="hljs-built_in inline">boolean</span>;     <span class="hljs-comment inline">// Whether hovering is in progress</span>
+  <span class="hljs-attr inline">position</span>: { <span class="hljs-attr inline">x</span>: <span class="hljs-built_in inline">number</span>; <span class="hljs-attr inline">y</span>: <span class="hljs-built_in inline">number</span> };  <span class="hljs-comment inline">// Cursor position</span>
+}
+</code></pre>
+            </div>
+        
+<h3 id="animation-framework-choice" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#animation-framework-choice" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Animation Framework Choice">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Animation Framework Choice
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Use Framer Motion (or others, as you like) to implement animation effects:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="import%20%7B%20motion%2C%20AnimatePresence%20%7D%20from%20'framer-motion'%3B%0A%2F%2F%20Basic%20container%20animation%0Amotion.div%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200%20%7D%7D%0Aanimate%3D%7B%7B%0Aopacity%3A%201%2C%0Ascale%3A%20isDragging%20%3F%201%20%3A%200.7%2C%20%20%2F%2F%20Enlarge%20when%20dragging%0A%7D%7D%0Aexit%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200%20%7D%7D%0Atransition%3D%7B%7B%20duration%3A%200.2%2C%20ease%3A%20'easeOut'%20%7D%7D%0A%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-keyword inline">import</span> { motion, <span class="hljs-title class_ inline">AnimatePresence</span> } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;framer-motion&#x27;</span>;
+
+<span class="hljs-comment inline">// Basic container animation</span>
+<span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+  <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0</span> }}
+  <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> 
+    <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, 
+    <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">0.7</span>,  // <span class="hljs-attr inline">Enlarge</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">dragging</span>
+  }}
+  <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0</span> }}
+  <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.2</span>, <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeOut</span>&#x27; }}
+&gt;</span>
+</span></code></pre>
+            </div>
+        
+<h2 id="design-layered-structure" class="group relative text-3xl font-semibold mt-6 mb-3 text-foreground leading-tight">
+            <a href="#design-layered-structure" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Design Layered Structure">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Design Layered Structure
+        </h2>
+<h3 id="outer-rotating-ring" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#outer-rotating-ring" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Outer Rotating Ring">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Outer Rotating Ring
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Create a rotating dashed border to let users perceive the active state:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="div%0AclassName%3D%22absolute%20w-16%20h-16%20rounded-full%20border-2%20border-dashed%22%0Astyle%3D%7B%7B%0AborderColor%3A%20currentTheme.colors.primary%2C%0Afilter%3A%20%60drop-shadow(0%200%208px%20%24%7BcurrentTheme.colors.primary%7D33)%60%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0Arotate%3A%20isDragging%20%3F%20%5B0%2C%20360%5D%20%3A%20%5B0%2C%20180%2C%200%5D%2C%20%20%2F%2F%20Continuous%20rotation%20when%20dragging%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%203%20%3A%204%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'linear'%2C%0A%7D%7D%0A%2F%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx">&lt;motion.<span class="hljs-property inline">div</span>
+  className=<span class="hljs-string inline">&quot;absolute w-16 h-16 rounded-full border-2 border-dashed&quot;</span>
+  style={{
+    <span class="hljs-attr inline">borderColor</span>: currentTheme.<span class="hljs-property inline">colors</span>.<span class="hljs-property inline">primary</span>,
+    <span class="hljs-attr inline">filter</span>: <span class="hljs-string inline">`drop-shadow(0 0 8px <span class="hljs-subst inline">${currentTheme.colors.primary}</span>33)`</span>,
+  }}
+  animate={{
+    <span class="hljs-attr inline">rotate</span>: isDragging ? [<span class="hljs-number inline">0</span>, <span class="hljs-number inline">360</span>] : [<span class="hljs-number inline">0</span>, <span class="hljs-number inline">180</span>, <span class="hljs-number inline">0</span>],  <span class="hljs-comment inline">// Continuous rotation when dragging</span>
+  }}
+  transition={{
+    <span class="hljs-attr inline">duration</span>: isDragging ? <span class="hljs-number inline">3</span> : <span class="hljs-number inline">4</span>,
+    <span class="hljs-attr inline">repeat</span>: <span class="hljs-title class_ inline">Infinity</span>,
+    <span class="hljs-attr inline">ease</span>: <span class="hljs-string inline">&#x27;linear&#x27;</span>,
+  }}
+/&gt;
+</code></pre>
+            </div>
+        
+<h3 id="inner-pulse-circle" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#inner-pulse-circle" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Inner Pulse Circle">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Inner Pulse Circle
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Add a pulsing animated inner circle:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="div%0AclassName%3D%22absolute%20w-16%20h-16%20rounded-full%20border%22%0Aanimate%3D%7B%7B%0Ascale%3A%20isDragging%20%3F%20%5B1%2C%201.2%2C%201%5D%20%3A%20%5B1%2C%201.1%2C%201%5D%2C%0Aopacity%3A%20isDragging%20%3F%20%5B0.7%2C%201%2C%200.7%5D%20%3A%20%5B0.4%2C%200.7%2C%200.4%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%202%20%3A%203%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeInOut'%2C%0A%7D%7D%0A%2F%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx">&lt;motion.<span class="hljs-property inline">div</span>
+  className=<span class="hljs-string inline">&quot;absolute w-16 h-16 rounded-full border&quot;</span>
+  animate={{
+    <span class="hljs-attr inline">scale</span>: isDragging ? [<span class="hljs-number inline">1</span>, <span class="hljs-number inline">1.2</span>, <span class="hljs-number inline">1</span>] : [<span class="hljs-number inline">1</span>, <span class="hljs-number inline">1.1</span>, <span class="hljs-number inline">1</span>],
+    <span class="hljs-attr inline">opacity</span>: isDragging ? [<span class="hljs-number inline">0.7</span>, <span class="hljs-number inline">1</span>, <span class="hljs-number inline">0.7</span>] : [<span class="hljs-number inline">0.4</span>, <span class="hljs-number inline">0.7</span>, <span class="hljs-number inline">0.4</span>],
+  }}
+  transition={{
+    <span class="hljs-attr inline">duration</span>: isDragging ? <span class="hljs-number inline">2</span> : <span class="hljs-number inline">3</span>,
+    <span class="hljs-attr inline">repeat</span>: <span class="hljs-title class_ inline">Infinity</span>,
+    <span class="hljs-attr inline">ease</span>: <span class="hljs-string inline">&#x27;easeInOut&#x27;</span>,
+  }}
+/&gt;
+</code></pre>
+            </div>
+        
+<h3 id="central-geometric-shape" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#central-geometric-shape" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Central Geometric Shape">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Central Geometric Shape
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Place a recognizable geometric shape in the center, such as a triangle and a diamond:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="%7B%2F*%20Triangle%20indicator%20*%2F%7D%0Adiv%0AclassName%3D%22absolute%20w-0%20h-0%22%0Astyle%3D%7B%7B%0AborderLeft%3A%20'6px%20solid%20transparent'%2C%0AborderRight%3A%20'6px%20solid%20transparent'%2C%0AborderBottom%3A%20%6010px%20solid%20%24%7BcurrentTheme.colors.primary%7D%60%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0Ay%3A%20isDragging%20%3F%20%5B-2%2C%202%2C%20-2%5D%20%3A%20%5B-1%2C%201%2C%20-1%5D%2C%20%20%2F%2F%20Slight%20up%20and%20down%20floating%0A%7D%7D%0A%2F%3E%0A%7B%2F*%20Diamond%20decoration%20*%2F%7D%0Adiv%0AclassName%3D%22absolute%20w-3%20h-3%20rotate-45%22%0Astyle%3D%7B%7B%0AbackgroundColor%3A%20currentTheme.colors.accent%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0Ascale%3A%20isDragging%20%3F%20%5B0.8%2C%201.2%2C%200.8%5D%20%3A%20%5B0.9%2C%201.1%2C%200.9%5D%2C%0Arotate%3A%20isDragging%20%3F%20%5B45%2C%20135%2C%2045%5D%20%3A%20%5B45%2C%2090%2C%2045%5D%2C%0A%7D%7D%0A%2F%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx">{<span class="hljs-comment inline">/* Triangle indicator */</span>}
+&lt;motion.<span class="hljs-property inline">div</span>
+  className=<span class="hljs-string inline">&quot;absolute w-0 h-0&quot;</span>
+  style={{
+    <span class="hljs-attr inline">borderLeft</span>: <span class="hljs-string inline">&#x27;6px solid transparent&#x27;</span>,
+    <span class="hljs-attr inline">borderRight</span>: <span class="hljs-string inline">&#x27;6px solid transparent&#x27;</span>,
+    <span class="hljs-attr inline">borderBottom</span>: <span class="hljs-string inline">`10px solid <span class="hljs-subst inline">${currentTheme.colors.primary}</span>`</span>,
+  }}
+  animate={{
+    <span class="hljs-attr inline">y</span>: isDragging ? [-<span class="hljs-number inline">2</span>, <span class="hljs-number inline">2</span>, -<span class="hljs-number inline">2</span>] : [-<span class="hljs-number inline">1</span>, <span class="hljs-number inline">1</span>, -<span class="hljs-number inline">1</span>],  <span class="hljs-comment inline">// Slight up and down floating</span>
+  }}
+/&gt;
+
+{<span class="hljs-comment inline">/* Diamond decoration */</span>}
+&lt;motion.<span class="hljs-property inline">div</span>
+  className=<span class="hljs-string inline">&quot;absolute w-3 h-3 rotate-45&quot;</span>
+  style={{
+    <span class="hljs-attr inline">backgroundColor</span>: currentTheme.<span class="hljs-property inline">colors</span>.<span class="hljs-property inline">accent</span>,
+  }}
+  animate={{
+    <span class="hljs-attr inline">scale</span>: isDragging ? [<span class="hljs-number inline">0.8</span>, <span class="hljs-number inline">1.2</span>, <span class="hljs-number inline">0.8</span>] : [<span class="hljs-number inline">0.9</span>, <span class="hljs-number inline">1.1</span>, <span class="hljs-number inline">0.9</span>],
+    <span class="hljs-attr inline">rotate</span>: isDragging ? [<span class="hljs-number inline">45</span>, <span class="hljs-number inline">135</span>, <span class="hljs-number inline">45</span>] : [<span class="hljs-number inline">45</span>, <span class="hljs-number inline">90</span>, <span class="hljs-number inline">45</span>],
+  }}
+/&gt;
+</code></pre>
+            </div>
+        
+<h3 id="diffusion-waves" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#diffusion-waves" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Diffusion Waves">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Diffusion Waves
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Add outward-spreading wave effects in the dragging state:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="%7BisDragging%20%26%26%20%5B0%2C%201%2C%202%5D.map((index)%20%3D%3E%20(%0Amotion.div%0Akey%3D%7B%60wave-%24%7Bindex%7D%60%7D%0AclassName%3D%22absolute%20w-16%20h-16%20rounded-full%20border%20opacity-30%22%0Aanimate%3D%7B%7B%0Ascale%3A%20%5B1%2C%202.5%5D%2C%0Aopacity%3A%20%5B0.6%2C%200%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%201.5%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeOut'%2C%0Adelay%3A%20index%20*%200.5%2C%20%20%2F%2F%20Staggered%20animation%0A%7D%7D%0A%2F%3E%0A))%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx">{isDragging &amp;&amp; [<span class="hljs-number inline">0</span>, <span class="hljs-number inline">1</span>, <span class="hljs-number inline">2</span>].<span class="hljs-title function_ inline">map</span>(<span class="hljs-function inline">(<span class="hljs-params inline">index</span>) =&gt;</span> (
+  <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+    <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{</span>`<span class="hljs-attr inline">wave-</span>${<span class="hljs-attr inline">index</span>}`}
+    <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-16 h-16 rounded-full border opacity-30&quot;</span>
+    <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+      <span class="hljs-attr inline">scale:</span> [<span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">2.5</span>],
+      <span class="hljs-attr inline">opacity:</span> [<span class="hljs-attr inline">0.6</span>, <span class="hljs-attr inline">0</span>],
+    }}
+    <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+      <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">1.5</span>,
+      <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+      <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeOut</span>&#x27;,
+      <span class="hljs-attr inline">delay:</span> <span class="hljs-attr inline">index</span> * <span class="hljs-attr inline">0.5</span>,  // <span class="hljs-attr inline">Staggered</span> <span class="hljs-attr inline">animation</span>
+    }}
+  /&gt;</span></span>
+))}
+</code></pre>
+            </div>
+        
+<h3 id="directional-arrows" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#directional-arrows" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Directional Arrows">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Directional Arrows
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Add arrows in four directions to indicate draggable directions:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="%7B%5B0%2C%2090%2C%20180%2C%20270%5D.map((rotation%2C%20index)%20%3D%3E%20(%0Amotion.div%0Akey%3D%7B%60arrow-%24%7Bindex%7D%60%7D%0Astyle%3D%7B%7B%0Atransform%3A%20%60rotate(%24%7Brotation%7Ddeg)%20translateY(-24px)%60%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0Aopacity%3A%20isDragging%20%3F%20%5B0.3%2C%201%2C%200.3%5D%20%3A%20%5B0.2%2C%200.6%2C%200.2%5D%2C%0Ay%3A%20isDragging%20%3F%20%5B-2%2C%202%2C%20-2%5D%20%3A%20%5B-1%2C%201%2C%20-1%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Adelay%3A%20index%20*%200.2%2C%20%20%2F%2F%20Appear%20in%20sequence%0A%7D%7D%0A%3E%0A%7B%2F*%20SVG%20arrow%20icon%20*%2F%7D%0Amotion.div%3E%0A))%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx">{[<span class="hljs-number inline">0</span>, <span class="hljs-number inline">90</span>, <span class="hljs-number inline">180</span>, <span class="hljs-number inline">270</span>].<span class="hljs-title function_ inline">map</span>(<span class="hljs-function inline">(<span class="hljs-params inline">rotation, index</span>) =&gt;</span> (
+  <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+    <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{</span>`<span class="hljs-attr inline">arrow-</span>${<span class="hljs-attr inline">index</span>}`}
+    <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+      <span class="hljs-attr inline">transform:</span> `<span class="hljs-attr inline">rotate</span>(${<span class="hljs-attr inline">rotation</span>}<span class="hljs-attr inline">deg</span>) <span class="hljs-attr inline">translateY</span>(<span class="hljs-attr inline">-24px</span>)`,
+    }}
+    <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+      <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">0.3</span>, <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">0.3</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">0.2</span>, <span class="hljs-attr inline">0.6</span>, <span class="hljs-attr inline">0.2</span>],
+      <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">-2</span>, <span class="hljs-attr inline">2</span>, <span class="hljs-attr inline">-2</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">-1</span>, <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">-1</span>],
+    }}
+    <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+      <span class="hljs-attr inline">delay:</span> <span class="hljs-attr inline">index</span> * <span class="hljs-attr inline">0.2</span>,  // <span class="hljs-attr inline">Appear</span> <span class="hljs-attr inline">in</span> <span class="hljs-attr inline">sequence</span>
+    }}
+  &gt;</span>
+    {/* SVG arrow icon */}
+  <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span></span>
+))}
+</code></pre>
+            </div>
+        
+<h2 id="theme-integration" class="group relative text-3xl font-semibold mt-6 mb-3 text-foreground leading-tight">
+            <a href="#theme-integration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Theme Integration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Theme Integration
+        </h2>
+<h3 id="dynamic-colors" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#dynamic-colors" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Dynamic Colors">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Dynamic Colors
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Use the theme system to achieve dynamic color switching:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="const%20%7B%20currentTheme%20%7D%20%3D%20useThemeStore()%3B%0A%2F%2F%20Use%20theme%20color%0Astyle%3D%7B%7B%0AcurrentTheme.colors.primary%2C%0AbackgroundColor%3A%20currentTheme.colors.accent%2C%0Afilter%3A%20%60drop-shadow(0%200%208px%20%24%7BcurrentTheme.colors.primary%7D33)%60%2C%0A%7D%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-keyword inline">const</span> { currentTheme } = <span class="hljs-title function_ inline">useThemeStore</span>();
+
+<span class="hljs-comment inline">// Use theme color</span>
+style={{
+  currentTheme.<span class="hljs-property inline">colors</span>.<span class="hljs-property inline">primary</span>,
+  <span class="hljs-attr inline">backgroundColor</span>: currentTheme.<span class="hljs-property inline">colors</span>.<span class="hljs-property inline">accent</span>,
+  <span class="hljs-attr inline">filter</span>: <span class="hljs-string inline">`drop-shadow(0 0 8px <span class="hljs-subst inline">${currentTheme.colors.primary}</span>33)`</span>,
+}}
+</code></pre>
+            </div>
+        
+<h3 id="responsive-design" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#responsive-design" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Responsive Design">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Responsive Design
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Consider display requirements for different devices:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="%2F%2F%20Adjust%20indicator%20size%20based%20on%20screen%20size%0Aconst%20indicatorSize%20%3D%20useMediaQuery('(max-width%3A%20768px)')%20%3F%2048%20%3A%2064%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-comment inline">// Adjust indicator size based on screen size</span>
+<span class="hljs-keyword inline">const</span> indicatorSize = <span class="hljs-title function_ inline">useMediaQuery</span>(<span class="hljs-string inline">&#x27;(max-width: 768px)&#x27;</span>) ? <span class="hljs-number inline">48</span> : <span class="hljs-number inline">64</span>;
+</code></pre>
+            </div>
+        
+<h3 id="client-side-rendering" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#client-side-rendering" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Client-side Rendering">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Client-side Rendering
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">In server-side rendering projects, ensure the cursor pattern is only rendered on the client:</p>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="const%20%5Bmounted%2C%20setMounted%5D%20%3D%20useState(false)%3B%0AuseEffect(()%20%3D%3E%20%7B%0AsetMounted(true)%3B%0A%7D%2C%20%5B%5D)%3B%0Aif%20(!mounted)%20return%20null%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-keyword inline">const</span> [mounted, setMounted] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">false</span>);
+
+<span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+  <span class="hljs-title function_ inline">setMounted</span>(<span class="hljs-literal inline">true</span>);
+}, []);
+
+<span class="hljs-keyword inline">if</span> (!mounted) <span class="hljs-keyword inline">return</span> <span class="hljs-literal inline">null</span>;
+</code></pre>
+            </div>
+        
+<h2 id="position-calculation" class="group relative text-3xl font-semibold mt-6 mb-3 text-foreground leading-tight">
+            <a href="#position-calculation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Position Calculation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Position Calculation
+        </h2>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="style%3D%7B%7B%0Aposition.x%20-%2032%2C%20%20%2F%2F%20Half%20the%20container%20width%0Atop%3A%20position.y%20-%2032%2C%20%20%20%2F%2F%20Half%20the%20container%20height%0A%7D%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx">style={{
+  position.<span class="hljs-property inline">x</span> - <span class="hljs-number inline">32</span>,  <span class="hljs-comment inline">// Half the container width</span>
+  <span class="hljs-attr inline">top</span>: position.<span class="hljs-property inline">y</span> - <span class="hljs-number inline">32</span>,   <span class="hljs-comment inline">// Half the container height</span>
+}}
+</code></pre>
+            </div>
+        
+<h2 id="full-code-explanation" class="group relative text-3xl font-semibold mt-6 mb-3 text-foreground leading-tight">
+            <a href="#full-code-explanation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Full Code Explanation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            Full Code Explanation
+        </h2>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="tsx" data-code="'use%20client'%3B%0Aimport%20React%2C%20%7B%20useEffect%2C%20useState%20%7D%20from%20'react'%3B%0Aimport%20%7B%20motion%2C%20AnimatePresence%20%7D%20from%20'framer-motion'%3B%0Aimport%20%7B%20useThemeStore%20%7D%20from%20'%40%2Flib%2Fstores%2FthemeStore'%3B%0A%2F%2F%20Define%20component%20property%20interface%0Ainterface%20DragIndicatorProps%20%7B%0AisDragging%3A%20boolean%3B%20%20%20%20%20%2F%2F%20Whether%20in%20dragging%20state%0AisHovering%3A%20boolean%3B%20%20%20%20%20%2F%2F%20Whether%20in%20hovering%20state%0Aposition%3A%20%7B%20x%3A%20number%3B%20y%3A%20number%20%7D%3B%20%20%2F%2F%20Current%20mouse%20position%20coordinates%0A%7D%0Aexport%20function%20DragIndicator(%7B%20isDragging%2C%20isHovering%2C%20position%20%7D%3A%20DragIndicatorProps)%20%7B%0Aconst%20%7B%20currentTheme%20%7D%20%3D%20useThemeStore()%3B%20%20%2F%2F%20Get%20current%20theme%20config%0Aconst%20%5Bmounted%2C%20setMounted%5D%20%3D%20useState(false)%3B%20%20%2F%2F%20Client%20mount%20state%0A%2F%2F%20Ensure%20the%20component%20only%20renders%20on%20the%20client%20to%20avoid%20hydration%20errors%20in%20SSR%0AuseEffect(()%20%3D%3E%20%7B%0AsetMounted(true)%3B%0A%7D%2C%20%5B%5D)%3B%0A%2F%2F%20Do%20not%20render%20anything%20when%20not%20mounted%0Aif%20(!mounted)%20return%20null%3B%0Areturn%20(%0AAnimatePresence%3E%0A%7B%2F*%20Only%20show%20the%20indicator%20when%20dragging%20or%20hovering%20*%2F%7D%0A%7B(isDragging%20%7C%7C%20isHovering)%20%26%26%20(%0Amotion.div%0AclassName%3D%22fixed%20pointer-events-none%20z-50%20flex%20items-center%20justify-center%22%0Astyle%3D%7B%7B%0A%2F%2F%20Calculate%20container%20position%20based%20on%20mouse%20position%2C%20subtract%20half%20the%20container%20size%20to%20center%0Aleft%3A%20position.x%20-%2032%2C%0Atop%3A%20position.y%20-%2032%2C%0Awidth%3A%20'64px'%2C%20%20%20%20%2F%2F%20Fixed%20container%20size%0Aheight%3A%20'64px'%2C%0A%7D%7D%0A%2F%2F%20Enter%20animation%3A%20start%20from%20transparent%20and%20scaled%20down%0Ainitial%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200%20%7D%7D%0A%2F%2F%20Animation%20state%3A%20fully%20visible%20when%20dragging%2C%20slightly%20smaller%20when%20hovering%0Aanimate%3D%7B%7B%0Aopacity%3A%201%2C%0Ascale%3A%20isDragging%20%3F%201%20%3A%200.7%2C%0A%7D%7D%0A%2F%2F%20Exit%20animation%3A%20return%20to%20transparent%20and%20scaled%20down%0Aexit%3D%7B%7B%20opacity%3A%200%2C%20scale%3A%200%20%7D%7D%0Atransition%3D%7B%7B%20duration%3A%200.2%2C%20ease%3A%20'easeOut'%20%7D%7D%0A%3E%0A%7B%2F*%20Outer%20rotating%20ring%20-%20dashed%20border%20*%2F%7D%0Amotion.div%0AclassName%3D%22absolute%20w-16%20h-16%20rounded-full%20border-2%20border-dashed%22%0Astyle%3D%7B%7B%0Aleft%3A%200%2C%0Atop%3A%200%2C%0AborderColor%3A%20currentTheme.colors.primary%2C%20%20%2F%2F%20Use%20theme%20primary%20color%0A%2F%2F%20Add%20glow%20effect%2C%2033%25%20opacity%0Afilter%3A%20%60drop-shadow(0%200%208px%20%24%7BcurrentTheme.colors.primary%7D33)%60%2C%0Aopacity%3A%20isDragging%20%3F%201%20%3A%200.6%2C%20%20%2F%2F%20More%20obvious%20when%20dragging%0A%7D%7D%0Aanimate%3D%7B%7B%0A%2F%2F%20Continuous%20360-degree%20rotation%20when%20dragging%2C%20180-degree%20back%20and%20forth%20when%20hovering%0Arotate%3A%20isDragging%20%3F%20%5B0%2C%20360%5D%20%3A%20%5B0%2C%20180%2C%200%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%203%20%3A%204%2C%20%20%2F%2F%20Faster%20rotation%20when%20dragging%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'linear'%2C%0A%7D%7D%0A%2F%3E%0A%7B%2F*%20Inner%20pulse%20circle%20-%20solid%20border%20*%2F%7D%0Amotion.div%0AclassName%3D%22absolute%20w-16%20h-16%20rounded-full%20border%22%0Astyle%3D%7B%7B%0Aleft%3A%200%2C%0Atop%3A%200%2C%0AborderColor%3A%20currentTheme.colors.accent%2C%20%20%2F%2F%20Use%20theme%20accent%20color%0A%2F%2F%20Add%2015%25%20opacity%20background%20color%0AbackgroundColor%3A%20%60%24%7BcurrentTheme.colors.primary%7D15%60%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0A%2F%2F%20Pulse%20effect%3A%20scale%20changes%0Ascale%3A%20isDragging%20%3F%20%5B1%2C%201.2%2C%201%5D%20%3A%20%5B1%2C%201.1%2C%201%5D%2C%0A%2F%2F%20Opacity%20changes%0Aopacity%3A%20isDragging%20%3F%20%5B0.7%2C%201%2C%200.7%5D%20%3A%20%5B0.4%2C%200.7%2C%200.4%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%202%20%3A%203%2C%20%20%2F%2F%20Faster%20pulse%20when%20dragging%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeInOut'%2C%0A%7D%7D%0A%2F%3E%0A%7B%2F*%20Central%20geometric%20shape%20container%20*%2F%7D%0Amotion.div%0AclassName%3D%22absolute%20w-16%20h-16%20flex%20items-center%20justify-center%22%0Astyle%3D%7B%7B%0Aleft%3A%200%2C%0Atop%3A%200%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0A%2F%2F%20Rotate%20in%20the%20opposite%20direction%20to%20the%20outer%20ring%20for%20visual%20contrast%0Arotate%3A%20isDragging%20%3F%20%5B0%2C%20-360%5D%20%3A%20%5B0%2C%20-90%2C%200%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%204%20%3A%206%2C%20%20%2F%2F%20Slightly%20slower%20than%20the%20outer%20ring%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'linear'%2C%0A%7D%7D%0A%3E%0A%7B%2F*%20Triangle%20indicator%20*%2F%7D%0Amotion.div%0AclassName%3D%22absolute%20w-0%20h-0%22%0Astyle%3D%7B%7B%0A%2F%2F%20Use%20CSS%20border%20trick%20to%20draw%20a%20triangle%0AborderLeft%3A%20'6px%20solid%20transparent'%2C%0AborderRight%3A%20'6px%20solid%20transparent'%2C%0AborderBottom%3A%20%6010px%20solid%20%24%7BcurrentTheme.colors.primary%7D%60%2C%0A%2F%2F%20Add%20glow%20effect%0Afilter%3A%20%60drop-shadow(0%200%204px%20%24%7BcurrentTheme.colors.primary%7D66)%60%2C%0Aopacity%3A%20isDragging%20%3F%201%20%3A%200.7%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0A%2F%2F%20Slight%20up%20and%20down%20floating%20effect%0Ay%3A%20isDragging%20%3F%20%5B-2%2C%202%2C%20-2%5D%20%3A%20%5B-1%2C%201%2C%20-1%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%201.5%20%3A%202.5%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeInOut'%2C%0A%7D%7D%0A%2F%3E%0A%7B%2F*%20Diamond%20decoration%20*%2F%7D%0Amotion.div%0AclassName%3D%22absolute%20w-3%20h-3%20rotate-45%22%0Astyle%3D%7B%7B%0AbackgroundColor%3A%20currentTheme.colors.accent%2C%0Afilter%3A%20%60drop-shadow(0%200%204px%20%24%7BcurrentTheme.colors.accent%7D66)%60%2C%0Aopacity%3A%20isDragging%20%3F%201%20%3A%200.7%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0A%2F%2F%20Combined%20scale%20and%20rotation%20animation%0Ascale%3A%20isDragging%20%3F%20%5B0.8%2C%201.2%2C%200.8%5D%20%3A%20%5B0.9%2C%201.1%2C%200.9%5D%2C%0Arotate%3A%20isDragging%20%3F%20%5B45%2C%20135%2C%2045%5D%20%3A%20%5B45%2C%2090%2C%2045%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%202.5%20%3A%203.5%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeInOut'%2C%0A%7D%7D%0A%2F%3E%0Amotion.div%3E%0A%7B%2F*%20Diffusion%20waves%20-%20only%20show%20when%20dragging%20*%2F%7D%0A%7BisDragging%20%26%26%20%5B0%2C%201%2C%202%5D.map((index)%20%3D%3E%20(%0Amotion.div%0Akey%3D%7B%60wave-%24%7Bindex%7D%60%7D%0AclassName%3D%22absolute%20w-16%20h-16%20rounded-full%20border%20opacity-30%22%0Astyle%3D%7B%7B%0Aleft%3A%200%2C%0Atop%3A%200%2C%0AborderColor%3A%20currentTheme.colors.primary%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0Ascale%3A%20%5B1%2C%202.5%5D%2C%20%20%20%20%2F%2F%20Spread%20outward%0Aopacity%3A%20%5B0.6%2C%200%5D%2C%20%20%2F%2F%20Gradually%20disappear%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%201.5%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeOut'%2C%0Adelay%3A%20index%20*%200.5%2C%20%20%2F%2F%20Staggered%20animation%20to%20form%20wave%20effect%0A%7D%7D%0A%2F%3E%0A))%7D%0A%7B%2F*%20Directional%20arrow%20container%20*%2F%7D%0Amotion.div%0AclassName%3D%22absolute%20w-16%20h-16%20flex%20items-center%20justify-center%22%0Astyle%3D%7B%7B%0Aleft%3A%200%2C%0Atop%3A%200%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0A%2F%2F%20Overall%20slow%20rotation%0Arotate%3A%20isDragging%20%3F%20%5B0%2C%20360%5D%20%3A%20%5B0%2C%2045%2C%200%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%206%20%3A%208%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'linear'%2C%0A%7D%7D%0A%3E%0A%7B%2F*%20Four%20directional%20arrows%20*%2F%7D%0A%7B%5B0%2C%2090%2C%20180%2C%20270%5D.map((rotation%2C%20index)%20%3D%3E%20(%0Amotion.div%0Akey%3D%7B%60arrow-%24%7Bindex%7D%60%7D%0AclassName%3D%22absolute%20w-4%20h-4%22%0Astyle%3D%7B%7B%0A%2F%2F%20Distribute%20around%20the%20circle%20according%20to%20angle%0Atransform%3A%20%60rotate(%24%7Brotation%7Ddeg)%20translateY(-24px)%60%2C%0Aopacity%3A%20isDragging%20%3F%201%20%3A%200.5%2C%0A%7D%7D%0Aanimate%3D%7B%7B%0A%2F%2F%20Periodic%20changes%20in%20opacity%20and%20position%0Aopacity%3A%20isDragging%20%3F%20%5B0.3%2C%201%2C%200.3%5D%20%3A%20%5B0.2%2C%200.6%2C%200.2%5D%2C%0Ay%3A%20isDragging%20%3F%20%5B-2%2C%202%2C%20-2%5D%20%3A%20%5B-1%2C%201%2C%20-1%5D%2C%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%20isDragging%20%3F%201.8%20%3A%202.5%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeInOut'%2C%0Adelay%3A%20index%20*%200.2%2C%20%20%2F%2F%20Animate%20in%20sequence%20for%20a%20flowing%20feel%0A%7D%7D%0A%3E%0A%7B%2F*%20SVG%20arrow%20icon%20*%2F%7D%0Asvg%0Awidth%3D%2216%22%0Aheight%3D%2216%22%0AviewBox%3D%220%200%2016%2016%22%0Afill%3D%22none%22%0Axmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%3E%0Apath%0Ad%3D%22M8%202L8%2014M8%202L4%206M8%202L12%206%22%20%20%2F%2F%20Arrow%20path%0Astroke%3D%7BcurrentTheme.colors.accent%7D%0AstrokeWidth%3D%222%22%0AstrokeLinecap%3D%22round%22%0AstrokeLinejoin%3D%22round%22%0Afilter%3D%7B%60drop-shadow(0%200%202px%20%24%7BcurrentTheme.colors.accent%7D66)%60%7D%0A%2F%3E%0Asvg%3E%0Amotion.div%3E%0A))%7D%0Amotion.div%3E%0A%7B%2F*%20Grabbing%20hand%20icon%20for%20hover%20state%20-%20only%20show%20when%20not%20dragging%20*%2F%7D%0A%7B!isDragging%20%26%26%20(%0Amotion.div%0AclassName%3D%22absolute%20w-16%20h-16%20flex%20items-center%20justify-center%22%0Astyle%3D%7B%7B%0Aleft%3A%200%2C%0Atop%3A%200%2C%0A%7D%7D%0Ainitial%3D%7B%7B%20opacity%3A%200%20%7D%7D%0Aanimate%3D%7B%7B%20opacity%3A%201%20%7D%7D%0Atransition%3D%7B%7B%20duration%3A%200.3%20%7D%7D%0A%3E%0Amotion.div%0AclassName%3D%22w-6%20h-6%20flex%20items-center%20justify-center%22%0Aanimate%3D%7B%7B%0Ascale%3A%20%5B1%2C%201.1%2C%201%5D%2C%20%20%2F%2F%20Slight%20breathing%20effect%0A%7D%7D%0Atransition%3D%7B%7B%0Aduration%3A%202%2C%0Arepeat%3A%20Infinity%2C%0Aease%3A%20'easeInOut'%2C%0A%7D%7D%0A%3E%0A%7B%2F*%20Grabbing%20hand%20SVG%20icon%20*%2F%7D%0Asvg%0Awidth%3D%2220%22%0Aheight%3D%2220%22%0AviewBox%3D%220%200%2024%2024%22%0Afill%3D%22none%22%0Axmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%0A%3E%0Apath%0Ad%3D%22M8%2011V7C8%205.34315%209.34315%204%2011%204C12.6569%204%2014%205.34315%2014%207V11M8%2011L8%2015C8%2017.2091%209.79086%2019%2012%2019C14.2091%2019%2016%2017.2091%2016%2015V11M8%2011H16M14%207V11M11%207V11%22%0Astroke%3D%7BcurrentTheme.colors.primary%7D%0AstrokeWidth%3D%222%22%0AstrokeLinecap%3D%22round%22%0AstrokeLinejoin%3D%22round%22%0Afilter%3D%7B%60drop-shadow(0%200%204px%20%24%7BcurrentTheme.colors.primary%7D66)%60%7D%0A%2F%3E%0Asvg%3E%0Amotion.div%3E%0Amotion.div%3E%0A)%7D%0Amotion.div%3E%0A)%7D%0AAnimatePresence%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">tsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-tsx"><span class="hljs-string inline">&#x27;use client&#x27;</span>;
+
+<span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { useEffect, useState } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+<span class="hljs-keyword inline">import</span> { motion, <span class="hljs-title class_ inline">AnimatePresence</span> } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;framer-motion&#x27;</span>;
+<span class="hljs-keyword inline">import</span> { useThemeStore } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;@/lib/stores/themeStore&#x27;</span>;
+
+<span class="hljs-comment inline">// Define component property interface</span>
+<span class="hljs-keyword inline">interface</span> <span class="hljs-title class_ inline">DragIndicatorProps</span> {
+  <span class="hljs-attr inline">isDragging</span>: <span class="hljs-built_in inline">boolean</span>;     <span class="hljs-comment inline">// Whether in dragging state</span>
+  <span class="hljs-attr inline">isHovering</span>: <span class="hljs-built_in inline">boolean</span>;     <span class="hljs-comment inline">// Whether in hovering state</span>
+  <span class="hljs-attr inline">position</span>: { <span class="hljs-attr inline">x</span>: <span class="hljs-built_in inline">number</span>; <span class="hljs-attr inline">y</span>: <span class="hljs-built_in inline">number</span> };  <span class="hljs-comment inline">// Current mouse position coordinates</span>
+}
+
+<span class="hljs-keyword inline">export</span> <span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">DragIndicator</span>(<span class="hljs-params inline">{ isDragging, isHovering, position }: <span class="hljs-title class_ inline">DragIndicatorProps</span></span>) {
+  <span class="hljs-keyword inline">const</span> { currentTheme } = <span class="hljs-title function_ inline">useThemeStore</span>();  <span class="hljs-comment inline">// Get current theme config</span>
+  <span class="hljs-keyword inline">const</span> [mounted, setMounted] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">false</span>);  <span class="hljs-comment inline">// Client mount state</span>
+
+  <span class="hljs-comment inline">// Ensure the component only renders on the client to avoid hydration errors in SSR</span>
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-title function_ inline">setMounted</span>(<span class="hljs-literal inline">true</span>);
+  }, []);
+
+  <span class="hljs-comment inline">// Do not render anything when not mounted</span>
+  <span class="hljs-keyword inline">if</span> (!mounted) <span class="hljs-keyword inline">return</span> <span class="hljs-literal inline">null</span>;
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">AnimatePresence</span>&gt;</span>
+      {/* Only show the indicator when dragging or hovering */}
+      {(isDragging || isHovering) &amp;&amp; (
+        <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+          <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;fixed pointer-events-none z-50 flex items-center justify-center&quot;</span>
+          <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+            // <span class="hljs-attr inline">Calculate</span> <span class="hljs-attr inline">container</span> <span class="hljs-attr inline">position</span> <span class="hljs-attr inline">based</span> <span class="hljs-attr inline">on</span> <span class="hljs-attr inline">mouse</span> <span class="hljs-attr inline">position</span>, <span class="hljs-attr inline">subtract</span> <span class="hljs-attr inline">half</span> <span class="hljs-attr inline">the</span> <span class="hljs-attr inline">container</span> <span class="hljs-attr inline">size</span> <span class="hljs-attr inline">to</span> <span class="hljs-attr inline">center</span>
+            <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">position.x</span> <span class="hljs-attr inline">-</span> <span class="hljs-attr inline">32</span>,
+            <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">position.y</span> <span class="hljs-attr inline">-</span> <span class="hljs-attr inline">32</span>,
+            <span class="hljs-attr inline">width:</span> &#x27;<span class="hljs-attr inline">64px</span>&#x27;,    // <span class="hljs-attr inline">Fixed</span> <span class="hljs-attr inline">container</span> <span class="hljs-attr inline">size</span>
+            <span class="hljs-attr inline">height:</span> &#x27;<span class="hljs-attr inline">64px</span>&#x27;,
+          }}
+          // <span class="hljs-attr inline">Enter</span> <span class="hljs-attr inline">animation:</span> <span class="hljs-attr inline">start</span> <span class="hljs-attr inline">from</span> <span class="hljs-attr inline">transparent</span> <span class="hljs-attr inline">and</span> <span class="hljs-attr inline">scaled</span> <span class="hljs-attr inline">down</span>
+          <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0</span> }}
+          // <span class="hljs-attr inline">Animation</span> <span class="hljs-attr inline">state:</span> <span class="hljs-attr inline">fully</span> <span class="hljs-attr inline">visible</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">dragging</span>, <span class="hljs-attr inline">slightly</span> <span class="hljs-attr inline">smaller</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">hovering</span>
+          <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> 
+            <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span>, 
+            <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">0.7</span>,
+          }}
+          // <span class="hljs-attr inline">Exit</span> <span class="hljs-attr inline">animation:</span> <span class="hljs-attr inline">return</span> <span class="hljs-attr inline">to</span> <span class="hljs-attr inline">transparent</span> <span class="hljs-attr inline">and</span> <span class="hljs-attr inline">scaled</span> <span class="hljs-attr inline">down</span>
+          <span class="hljs-attr inline">exit</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">0</span> }}
+          <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.2</span>, <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeOut</span>&#x27; }}
+        &gt;</span>
+          
+          {/* Outer rotating ring - dashed border */}
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+            <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-16 h-16 rounded-full border-2 border-dashed&quot;</span>
+            <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">0</span>,
+              <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">0</span>,
+              <span class="hljs-attr inline">borderColor:</span> <span class="hljs-attr inline">currentTheme.colors.primary</span>,  // <span class="hljs-attr inline">Use</span> <span class="hljs-attr inline">theme</span> <span class="hljs-attr inline">primary</span> <span class="hljs-attr inline">color</span>
+              // <span class="hljs-attr inline">Add</span> <span class="hljs-attr inline">glow</span> <span class="hljs-attr inline">effect</span>, <span class="hljs-attr inline">33</span>% <span class="hljs-attr inline">opacity</span>
+              <span class="hljs-attr inline">filter:</span> `<span class="hljs-attr inline">drop-shadow</span>(<span class="hljs-attr inline">0</span> <span class="hljs-attr inline">0</span> <span class="hljs-attr inline">8px</span> ${<span class="hljs-attr inline">currentTheme.colors.primary</span>}<span class="hljs-attr inline">33</span>)`,
+              <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">0.6</span>,  // <span class="hljs-attr inline">More</span> <span class="hljs-attr inline">obvious</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">dragging</span>
+            }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+              // <span class="hljs-attr inline">Continuous</span> <span class="hljs-attr inline">360-degree</span> <span class="hljs-attr inline">rotation</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">dragging</span>, <span class="hljs-attr inline">180-degree</span> <span class="hljs-attr inline">back</span> <span class="hljs-attr inline">and</span> <span class="hljs-attr inline">forth</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">hovering</span>
+              <span class="hljs-attr inline">rotate:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">360</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">180</span>, <span class="hljs-attr inline">0</span>],
+            }}
+            <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">3</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">4</span>,  // <span class="hljs-attr inline">Faster</span> <span class="hljs-attr inline">rotation</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">dragging</span>
+              <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+              <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">linear</span>&#x27;,
+            }}
+          /&gt;</span>
+
+          {/* Inner pulse circle - solid border */}
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+            <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-16 h-16 rounded-full border&quot;</span>
+            <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">0</span>,
+              <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">0</span>,
+              <span class="hljs-attr inline">borderColor:</span> <span class="hljs-attr inline">currentTheme.colors.accent</span>,  // <span class="hljs-attr inline">Use</span> <span class="hljs-attr inline">theme</span> <span class="hljs-attr inline">accent</span> <span class="hljs-attr inline">color</span>
+              // <span class="hljs-attr inline">Add</span> <span class="hljs-attr inline">15</span>% <span class="hljs-attr inline">opacity</span> <span class="hljs-attr inline">background</span> <span class="hljs-attr inline">color</span>
+              <span class="hljs-attr inline">backgroundColor:</span> `${<span class="hljs-attr inline">currentTheme.colors.primary</span>}<span class="hljs-attr inline">15</span>`,
+            }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+              // <span class="hljs-attr inline">Pulse</span> <span class="hljs-attr inline">effect:</span> <span class="hljs-attr inline">scale</span> <span class="hljs-attr inline">changes</span>
+              <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">1.2</span>, <span class="hljs-attr inline">1</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">1.1</span>, <span class="hljs-attr inline">1</span>],
+              // <span class="hljs-attr inline">Opacity</span> <span class="hljs-attr inline">changes</span>
+              <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">0.7</span>, <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">0.7</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">0.4</span>, <span class="hljs-attr inline">0.7</span>, <span class="hljs-attr inline">0.4</span>],
+            }}
+            <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">2</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">3</span>,  // <span class="hljs-attr inline">Faster</span> <span class="hljs-attr inline">pulse</span> <span class="hljs-attr inline">when</span> <span class="hljs-attr inline">dragging</span>
+              <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+              <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeInOut</span>&#x27;,
+            }}
+          /&gt;</span>
+
+          {/* Central geometric shape container */}
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+            <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-16 h-16 flex items-center justify-center&quot;</span>
+            <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">0</span>,
+              <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">0</span>,
+            }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+              // <span class="hljs-attr inline">Rotate</span> <span class="hljs-attr inline">in</span> <span class="hljs-attr inline">the</span> <span class="hljs-attr inline">opposite</span> <span class="hljs-attr inline">direction</span> <span class="hljs-attr inline">to</span> <span class="hljs-attr inline">the</span> <span class="hljs-attr inline">outer</span> <span class="hljs-attr inline">ring</span> <span class="hljs-attr inline">for</span> <span class="hljs-attr inline">visual</span> <span class="hljs-attr inline">contrast</span>
+              <span class="hljs-attr inline">rotate:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">-360</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">-90</span>, <span class="hljs-attr inline">0</span>],
+            }}
+            <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">4</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">6</span>,  // <span class="hljs-attr inline">Slightly</span> <span class="hljs-attr inline">slower</span> <span class="hljs-attr inline">than</span> <span class="hljs-attr inline">the</span> <span class="hljs-attr inline">outer</span> <span class="hljs-attr inline">ring</span>
+              <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+              <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">linear</span>&#x27;,
+            }}
+          &gt;</span>
+            {/* Triangle indicator */}
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+              <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-0 h-0&quot;</span>
+              <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+                // <span class="hljs-attr inline">Use</span> <span class="hljs-attr inline">CSS</span> <span class="hljs-attr inline">border</span> <span class="hljs-attr inline">trick</span> <span class="hljs-attr inline">to</span> <span class="hljs-attr inline">draw</span> <span class="hljs-attr inline">a</span> <span class="hljs-attr inline">triangle</span>
+                <span class="hljs-attr inline">borderLeft:</span> &#x27;<span class="hljs-attr inline">6px</span> <span class="hljs-attr inline">solid</span> <span class="hljs-attr inline">transparent</span>&#x27;,
+                <span class="hljs-attr inline">borderRight:</span> &#x27;<span class="hljs-attr inline">6px</span> <span class="hljs-attr inline">solid</span> <span class="hljs-attr inline">transparent</span>&#x27;,
+                <span class="hljs-attr inline">borderBottom:</span> `<span class="hljs-attr inline">10px</span> <span class="hljs-attr inline">solid</span> ${<span class="hljs-attr inline">currentTheme.colors.primary</span>}`,
+                // <span class="hljs-attr inline">Add</span> <span class="hljs-attr inline">glow</span> <span class="hljs-attr inline">effect</span>
+                <span class="hljs-attr inline">filter:</span> `<span class="hljs-attr inline">drop-shadow</span>(<span class="hljs-attr inline">0</span> <span class="hljs-attr inline">0</span> <span class="hljs-attr inline">4px</span> ${<span class="hljs-attr inline">currentTheme.colors.primary</span>}<span class="hljs-attr inline">66</span>)`,
+                <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">0.7</span>,
+              }}
+              <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+                // <span class="hljs-attr inline">Slight</span> <span class="hljs-attr inline">up</span> <span class="hljs-attr inline">and</span> <span class="hljs-attr inline">down</span> <span class="hljs-attr inline">floating</span> <span class="hljs-attr inline">effect</span>
+                <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">-2</span>, <span class="hljs-attr inline">2</span>, <span class="hljs-attr inline">-2</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">-1</span>, <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">-1</span>],
+              }}
+              <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+                <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1.5</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">2.5</span>,
+                <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+                <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeInOut</span>&#x27;,
+              }}
+            /&gt;</span>
+
+            {/* Diamond decoration */}
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+              <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-3 h-3 rotate-45&quot;</span>
+              <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+                <span class="hljs-attr inline">backgroundColor:</span> <span class="hljs-attr inline">currentTheme.colors.accent</span>,
+                <span class="hljs-attr inline">filter:</span> `<span class="hljs-attr inline">drop-shadow</span>(<span class="hljs-attr inline">0</span> <span class="hljs-attr inline">0</span> <span class="hljs-attr inline">4px</span> ${<span class="hljs-attr inline">currentTheme.colors.accent</span>}<span class="hljs-attr inline">66</span>)`,
+                <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">0.7</span>,
+              }}
+              <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+                // <span class="hljs-attr inline">Combined</span> <span class="hljs-attr inline">scale</span> <span class="hljs-attr inline">and</span> <span class="hljs-attr inline">rotation</span> <span class="hljs-attr inline">animation</span>
+                <span class="hljs-attr inline">scale:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">0.8</span>, <span class="hljs-attr inline">1.2</span>, <span class="hljs-attr inline">0.8</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">0.9</span>, <span class="hljs-attr inline">1.1</span>, <span class="hljs-attr inline">0.9</span>],
+                <span class="hljs-attr inline">rotate:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">45</span>, <span class="hljs-attr inline">135</span>, <span class="hljs-attr inline">45</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">45</span>, <span class="hljs-attr inline">90</span>, <span class="hljs-attr inline">45</span>],
+              }}
+              <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+                <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">2.5</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">3.5</span>,
+                <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+                <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeInOut</span>&#x27;,
+              }}
+            /&gt;</span>
+          <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+
+          {/* Diffusion waves - only show when dragging */}
+          {isDragging &amp;&amp; [0, 1, 2].map((index) =&gt; (
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+              <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{</span>`<span class="hljs-attr inline">wave-</span>${<span class="hljs-attr inline">index</span>}`}
+              <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-16 h-16 rounded-full border opacity-30&quot;</span>
+              <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+                <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">0</span>,
+                <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">0</span>,
+                <span class="hljs-attr inline">borderColor:</span> <span class="hljs-attr inline">currentTheme.colors.primary</span>,
+              }}
+              <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+                <span class="hljs-attr inline">scale:</span> [<span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">2.5</span>],    // <span class="hljs-attr inline">Spread</span> <span class="hljs-attr inline">outward</span>
+                <span class="hljs-attr inline">opacity:</span> [<span class="hljs-attr inline">0.6</span>, <span class="hljs-attr inline">0</span>],  // <span class="hljs-attr inline">Gradually</span> <span class="hljs-attr inline">disappear</span>
+              }}
+              <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+                <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">1.5</span>,
+                <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+                <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeOut</span>&#x27;,
+                <span class="hljs-attr inline">delay:</span> <span class="hljs-attr inline">index</span> * <span class="hljs-attr inline">0.5</span>,  // <span class="hljs-attr inline">Staggered</span> <span class="hljs-attr inline">animation</span> <span class="hljs-attr inline">to</span> <span class="hljs-attr inline">form</span> <span class="hljs-attr inline">wave</span> <span class="hljs-attr inline">effect</span>
+              }}
+            /&gt;</span>
+          ))}
+
+          {/* Directional arrow container */}
+          <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+            <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-16 h-16 flex items-center justify-center&quot;</span>
+            <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">0</span>,
+              <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">0</span>,
+            }}
+            <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+              // <span class="hljs-attr inline">Overall</span> <span class="hljs-attr inline">slow</span> <span class="hljs-attr inline">rotation</span>
+              <span class="hljs-attr inline">rotate:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">360</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">0</span>, <span class="hljs-attr inline">45</span>, <span class="hljs-attr inline">0</span>],
+            }}
+            <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+              <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">6</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">8</span>,
+              <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+              <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">linear</span>&#x27;,
+            }}
+          &gt;</span>
+            {/* Four directional arrows */}
+            {[0, 90, 180, 270].map((rotation, index) =&gt; (
+              <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+                <span class="hljs-attr inline">key</span>=<span class="hljs-string inline">{</span>`<span class="hljs-attr inline">arrow-</span>${<span class="hljs-attr inline">index</span>}`}
+                <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-4 h-4&quot;</span>
+                <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+                  // <span class="hljs-attr inline">Distribute</span> <span class="hljs-attr inline">around</span> <span class="hljs-attr inline">the</span> <span class="hljs-attr inline">circle</span> <span class="hljs-attr inline">according</span> <span class="hljs-attr inline">to</span> <span class="hljs-attr inline">angle</span>
+                  <span class="hljs-attr inline">transform:</span> `<span class="hljs-attr inline">rotate</span>(${<span class="hljs-attr inline">rotation</span>}<span class="hljs-attr inline">deg</span>) <span class="hljs-attr inline">translateY</span>(<span class="hljs-attr inline">-24px</span>)`,
+                  <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">0.5</span>,
+                }}
+                <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+                  // <span class="hljs-attr inline">Periodic</span> <span class="hljs-attr inline">changes</span> <span class="hljs-attr inline">in</span> <span class="hljs-attr inline">opacity</span> <span class="hljs-attr inline">and</span> <span class="hljs-attr inline">position</span>
+                  <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">0.3</span>, <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">0.3</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">0.2</span>, <span class="hljs-attr inline">0.6</span>, <span class="hljs-attr inline">0.2</span>],
+                  <span class="hljs-attr inline">y:</span> <span class="hljs-attr inline">isDragging</span> ? [<span class="hljs-attr inline">-2</span>, <span class="hljs-attr inline">2</span>, <span class="hljs-attr inline">-2</span>] <span class="hljs-attr inline">:</span> [<span class="hljs-attr inline">-1</span>, <span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">-1</span>],
+                }}
+                <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+                  <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">isDragging</span> ? <span class="hljs-attr inline">1.8</span> <span class="hljs-attr inline">:</span> <span class="hljs-attr inline">2.5</span>,
+                  <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+                  <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeInOut</span>&#x27;,
+                  <span class="hljs-attr inline">delay:</span> <span class="hljs-attr inline">index</span> * <span class="hljs-attr inline">0.2</span>,  // <span class="hljs-attr inline">Animate</span> <span class="hljs-attr inline">in</span> <span class="hljs-attr inline">sequence</span> <span class="hljs-attr inline">for</span> <span class="hljs-attr inline">a</span> <span class="hljs-attr inline">flowing</span> <span class="hljs-attr inline">feel</span>
+                }}
+              &gt;</span>
+                {/* SVG arrow icon */}
+                <span class="hljs-tag inline">&lt;<span class="hljs-name inline">svg</span>
+                  <span class="hljs-attr inline">width</span>=<span class="hljs-string inline">&quot;16&quot;</span>
+                  <span class="hljs-attr inline">height</span>=<span class="hljs-string inline">&quot;16&quot;</span>
+                  <span class="hljs-attr inline">viewBox</span>=<span class="hljs-string inline">&quot;0 0 16 16&quot;</span>
+                  <span class="hljs-attr inline">fill</span>=<span class="hljs-string inline">&quot;none&quot;</span>
+                  <span class="hljs-attr inline">xmlns</span>=<span class="hljs-string inline">&quot;http://www.w3.org/2000/svg&quot;</span>
+                &gt;</span>
+                  <span class="hljs-tag inline">&lt;<span class="hljs-name inline">path</span>
+                    <span class="hljs-attr inline">d</span>=<span class="hljs-string inline">&quot;M8 2L8 14M8 2L4 6M8 2L12 6&quot;</span>  // <span class="hljs-attr inline">Arrow</span> <span class="hljs-attr inline">path</span>
+                    <span class="hljs-attr inline">stroke</span>=<span class="hljs-string inline">{currentTheme.colors.accent}</span>
+                    <span class="hljs-attr inline">strokeWidth</span>=<span class="hljs-string inline">&quot;2&quot;</span>
+                    <span class="hljs-attr inline">strokeLinecap</span>=<span class="hljs-string inline">&quot;round&quot;</span>
+                    <span class="hljs-attr inline">strokeLinejoin</span>=<span class="hljs-string inline">&quot;round&quot;</span>
+                    <span class="hljs-attr inline">filter</span>=<span class="hljs-string inline">{</span>`<span class="hljs-attr inline">drop-shadow</span>(<span class="hljs-attr inline">0</span> <span class="hljs-attr inline">0</span> <span class="hljs-attr inline">2px</span> ${<span class="hljs-attr inline">currentTheme.colors.accent</span>}<span class="hljs-attr inline">66</span>)`}
+                  /&gt;</span>
+                <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">svg</span>&gt;</span>
+              <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+            ))}
+          <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+
+          {/* Grabbing hand icon for hover state - only show when not dragging */}
+          {!isDragging &amp;&amp; (
+            <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+              <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute w-16 h-16 flex items-center justify-center&quot;</span>
+              <span class="hljs-attr inline">style</span>=<span class="hljs-string inline">{{</span>
+                <span class="hljs-attr inline">left:</span> <span class="hljs-attr inline">0</span>,
+                <span class="hljs-attr inline">top:</span> <span class="hljs-attr inline">0</span>,
+              }}
+              <span class="hljs-attr inline">initial</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">0</span> }}
+              <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">opacity:</span> <span class="hljs-attr inline">1</span> }}
+              <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span> <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">0.3</span> }}
+            &gt;</span>
+              <span class="hljs-tag inline">&lt;<span class="hljs-name inline">motion.div</span>
+                <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;w-6 h-6 flex items-center justify-center&quot;</span>
+                <span class="hljs-attr inline">animate</span>=<span class="hljs-string inline">{{</span>
+                  <span class="hljs-attr inline">scale:</span> [<span class="hljs-attr inline">1</span>, <span class="hljs-attr inline">1.1</span>, <span class="hljs-attr inline">1</span>],  // <span class="hljs-attr inline">Slight</span> <span class="hljs-attr inline">breathing</span> <span class="hljs-attr inline">effect</span>
+                }}
+                <span class="hljs-attr inline">transition</span>=<span class="hljs-string inline">{{</span>
+                  <span class="hljs-attr inline">duration:</span> <span class="hljs-attr inline">2</span>,
+                  <span class="hljs-attr inline">repeat:</span> <span class="hljs-attr inline">Infinity</span>,
+                  <span class="hljs-attr inline">ease:</span> &#x27;<span class="hljs-attr inline">easeInOut</span>&#x27;,
+                }}
+              &gt;</span>
+                {/* Grabbing hand SVG icon */}
+                <span class="hljs-tag inline">&lt;<span class="hljs-name inline">svg</span>
+                  <span class="hljs-attr inline">width</span>=<span class="hljs-string inline">&quot;20&quot;</span>
+                  <span class="hljs-attr inline">height</span>=<span class="hljs-string inline">&quot;20&quot;</span>
+                  <span class="hljs-attr inline">viewBox</span>=<span class="hljs-string inline">&quot;0 0 24 24&quot;</span>
+                  <span class="hljs-attr inline">fill</span>=<span class="hljs-string inline">&quot;none&quot;</span>
+                  <span class="hljs-attr inline">xmlns</span>=<span class="hljs-string inline">&quot;http://www.w3.org/2000/svg&quot;</span>
+                &gt;</span>
+                  <span class="hljs-tag inline">&lt;<span class="hljs-name inline">path</span>
+                    <span class="hljs-attr inline">d</span>=<span class="hljs-string inline">&quot;M8 11V7C8 5.34315 9.34315 4 11 4C12.6569 4 14 5.34315 14 7V11M8 11L8 15C8 17.2091 9.79086 19 12 19C14.2091 19 16 17.2091 16 15V11M8 11H16M14 7V11M11 7V11&quot;</span>
+                    <span class="hljs-attr inline">stroke</span>=<span class="hljs-string inline">{currentTheme.colors.primary}</span>
+                    <span class="hljs-attr inline">strokeWidth</span>=<span class="hljs-string inline">&quot;2&quot;</span>
+                    <span class="hljs-attr inline">strokeLinecap</span>=<span class="hljs-string inline">&quot;round&quot;</span>
+                    <span class="hljs-attr inline">strokeLinejoin</span>=<span class="hljs-string inline">&quot;round&quot;</span>
+                    <span class="hljs-attr inline">filter</span>=<span class="hljs-string inline">{</span>`<span class="hljs-attr inline">drop-shadow</span>(<span class="hljs-attr inline">0</span> <span class="hljs-attr inline">0</span> <span class="hljs-attr inline">4px</span> ${<span class="hljs-attr inline">currentTheme.colors.primary</span>}<span class="hljs-attr inline">66</span>)`}
+                  /&gt;</span>
+                <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">svg</span>&gt;</span>
+              <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+            <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+          )}
+        <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">motion.div</span>&gt;</span>
+      )}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">AnimatePresence</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<p class="text-base leading-7 mb-4 text-foreground"><em class="italic text-foreground">May you be like gold hidden deep, shining with your own dazzling brilliance when unearthed.</em> ✨</p>
+d:["$","$L1d",null,{"htmlContent":"$1e","frontMatter":{"title":"Custom Cursor Pattern","description":"Analysis of the implementation principle of custom cursor patterns","date":"2025-06-22","author":"MilkWind","tags":["Custom Cursor Pattern","Interactive Design"],"references":{}},"readingTime":"10 min read","category":"personal-website","tocItems":[{"id":"custom-cursor-pattern","text":"Custom Cursor Pattern","level":1},{"id":"basic-concepts","text":"Basic Concepts","level":2},{"id":"why-can-we-override-the-default-cursor","text":"Why Can We Override the Default Cursor","level":2},{"id":"principle-of-cursor-hiding-and-replacement","text":"Principle of Cursor Hiding and Replacement","level":3},{"id":"technical-implementation-mechanism","text":"Technical Implementation Mechanism","level":3},{"id":"key-code-explanation","text":"Key Code Explanation","level":3},{"id":"implementation-ideas","text":"Implementation Ideas","level":2},{"id":"state-management","text":"State Management","level":3},{"id":"animation-framework-choice","text":"Animation Framework Choice","level":3},{"id":"design-layered-structure","text":"Design Layered Structure","level":2},{"id":"outer-rotating-ring","text":"Outer Rotating Ring","level":3},{"id":"inner-pulse-circle","text":"Inner Pulse Circle","level":3},{"id":"central-geometric-shape","text":"Central Geometric Shape","level":3},{"id":"diffusion-waves","text":"Diffusion Waves","level":3},{"id":"directional-arrows","text":"Directional Arrows","level":3},{"id":"theme-integration","text":"Theme Integration","level":2},{"id":"dynamic-colors","text":"Dynamic Colors","level":3},{"id":"responsive-design","text":"Responsive Design","level":3},{"id":"client-side-rendering","text":"Client-side Rendering","level":3},{"id":"position-calculation","text":"Position Calculation","level":2},{"id":"full-code-explanation","text":"Full Code Explanation","level":2}],"translations":{"common":{"welcome":"Welcome","loading":"Loading...","error":"Something went wrong","retry":"Try again","theme":"Theme","language":"Language","light":"Light","dark":"Dark"},"navigation":{"home":"Home","personal":"Personal","works":"Works","contributions":"Contributions","documents":"Documents","about":"About","contact":"Contact"},"personal":{"technicalSkills":"Technical Skills","email":"Email","github":"GitHub","resume":"Resume","codeRepository":"Code Repository","loadingPersonalInfo":"Loading personal information...","loadingResume":"Loading resume...","closeResume":"Close Resume","emailCopied":"Email copied to clipboard!","galaxyDefaultDescription":"Expert in full-stack development, cross-platform architecture, AI technology integration, and high-performance system optimization","skillGalaxy":"Skill Galaxy","stirGalaxy":"Stir Galaxy","stirring":"Stirring...","fullStackEngineer":"MilkWind - Full Stack Engineer","professionalProfile":"About Me"},"documents":{"technicalDocuments":"Technical Documents","description":"Basic principles, code splitting, and some random thoughts.","articles":"Articles","categories":"Categories","allCategories":"All Categories","noArticlesFound":"No articles found","noArticlesAvailable":"No articles available in English.","noArticlesInCategory":"No articles found in the category.","readMore":"Read more","loadingDocuments":"Loading documents...","backToDocuments":"← Back to Documents","documentNotFound":"Document Not Found","documentNotFoundDescription":"The requested document could not be found.","technicalInsights":"Insights","untitledDocument":"Untitled Document","byAuthor":"By","search":"Search articles...","searchByTags":"Filter by tags","searching":"Searching...","noSearchResults":"No articles match your search criteria","clearSearch":"Clear search","selectedTags":"Selected tags","allTags":"All tags","searchInTitle":"Search in titles, descriptions, and content","enterImmersiveMode":"Immersive Reading","exitImmersiveMode":"Exit Immersive Mode","immersiveReading":"Immersive Reading Mode","exploreContent":"Explore content by category","browseBy":"Browse by","exploreAll":"All content in one place","categoryDescription":"Articles in this category","totalArticles":"Articles","totalCategories":"Categories","foundArticles":"Found articles","categoriesWithResults":"Categories with results"},"works":{"workCases":"Work Cases","projects":"Portfolio","loadingProjects":"Loading projects...","grid":"Grid","stack":"Stack","of":"of","workCasesPageTitle":"Work Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contributions":{"contributionCases":"Open Source","contributions":"Contributions","loadingContributions":"Loading contributions...","grid":"Grid","stack":"Stack","of":"of","contributionCasesPageTitle":"Contribution Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contribution":{"contributionPreview":"Contribution Preview","accessible":"Accessible","code":"Code","maintenance":"Maintenance","enhancement":"Enhancement","documentation":"Documentation","community":"Community","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","contributionDetail":"Contribution Detail","description":"Description:","seeDetails":"See Details","github":"GitHub","viewContribution":"View Contribution","viewCode":"View Code"},"project":{"projectPreview":"Project Preview","accessible":"Accessible","tool":"Tool","plugin":"Plugin","toy":"Toy","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","description":"Description:","seeDetails":"See Details","github":"GitHub","gitee":"Gitee","viewLiveDemo":"View Live Demo","viewCode":"View Code","access":"Access","videos":"Videos","watchVideo":"Watch Video","hasVideo":"Has Video"},"codeblock":{"copy":"Copy","copySuccess":"Code copied to clipboard!","copyError":"Failed to copy code","copyTooltip":"Copy code"},"toc":{"contents":"Contents","autoScroll":"Auto-scroll to section","collapse":"Collapse","expand":"Expand"},"loading":{"loading":"LOADING","preparingExperience":"Preparing experience"}},"lang":"en","theme":"light"}]
+12:null
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:{"metadata":[["$","title","0",{"children":"Custom Cursor Pattern | Interactive Portfolio"}],["$","meta","1",{"name":"description","content":"Analysis of the implementation principle of custom cursor patterns"}],["$","meta","2",{"name":"author","content":"Developer"}],["$","meta","3",{"name":"keywords","content":"portfolio,3D,interactive,web development,Three.js,Next.js"}],["$","meta","4",{"property":"og:title","content":"Custom Cursor Pattern | Interactive Portfolio"}],["$","meta","5",{"property":"og:description","content":"Analysis of the implementation principle of custom cursor patterns"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-06-22"}],["$","meta","8",{"property":"article:tag","content":"Custom Cursor Pattern"}],["$","meta","9",{"property":"article:tag","content":"Interactive Design"}],["$","meta","10",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","11",{"name":"twitter:title","content":"Custom Cursor Pattern | Interactive Portfolio"}],["$","meta","12",{"name":"twitter:description","content":"Analysis of the implementation principle of custom cursor patterns"}],["$","link","13",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1c:metadata","error":null,"digest":"$undefined"}

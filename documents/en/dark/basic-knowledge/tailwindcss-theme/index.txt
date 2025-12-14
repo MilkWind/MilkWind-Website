@@ -1,0 +1,1592 @@
+1:"$Sreact.fragment"
+2:I[38735,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+3:I[19945,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+4:I[65337,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"default"]
+5:I[96190,["1899","static/chunks/1899-6f0bb42883f79753.js","7177","static/chunks/app/layout-5c95b441a38f3a56.js"],"ClientProviders"]
+6:I[87555,[],""]
+7:I[51901,["8039","static/chunks/app/error-10ebab2e11865aaf.js"],"default"]
+8:I[31295,[],""]
+9:I[6874,["6874","static/chunks/6874-fbe9a08eb79b991c.js","4345","static/chunks/app/not-found-38b9d1a0bc95ac08.js"],""]
+a:I[94970,[],"ClientSegmentRoot"]
+b:I[44065,["206","static/chunks/206-4f4cbf4d7156f437.js","3092","static/chunks/app/documents/layout-5f4e66d848ce7829.js"],"default"]
+e:I[59665,[],"MetadataBoundary"]
+10:I[59665,[],"OutletBoundary"]
+13:I[74911,[],"AsyncMetadataOutlet"]
+15:I[39460,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","5650","static/chunks/app/documents/loading-552c4cd17346a076.js"],"default"]
+16:I[88610,["2415","static/chunks/2415-689c103fb3d2c28d.js","8610","static/chunks/8610-7bd3f91f3cf2a4d6.js","4209","static/chunks/app/loading-0c530d99d5132c05.js"],"default"]
+17:I[59665,[],"ViewportBoundary"]
+19:I[26614,[],""]
+:HL["/_next/static/css/de70bee13400563f.css","style"]
+:HL["/_next/static/css/38943437573ce53c.css","style"]
+:HL["/_next/static/css/5eacd01f773eed7f.css","style"]
+0:{"P":null,"b":"xMcHYm_FvwjrVB7JmFp9i","p":"","c":["","documents","en","dark","basic-knowledge","tailwindcss-theme",""],"i":false,"f":[[["",{"children":["documents",{"children":[["slug","en/dark/basic-knowledge/tailwindcss-theme","c"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/de70bee13400563f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/38943437573ce53c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 font-sans antialiased min-h-screen bg-background text-foreground","suppressHydrationWarning":true,"children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$7","errorStyles":[],"errorScripts":[],"template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"z-10 relative min-h-screen flex items-center justify-center bg-background p-8","children":["$","div",null,{"className":"text-center max-w-md","children":[["$","div",null,{"className":"text-8xl font-bold text-primary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-bold text-foreground mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-foreground/70 mb-8","children":"The page you're looking for doesn't exist or has been moved to a different location."}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 justify-center","children":[["$","$L9",null,{"href":"/","className":"px-6 py-2 bg-primary text-white rounded-lg hover:bg-primary/80 transition-colors","children":"Go Home"}],["$","$L9",null,{"href":"/works","className":"px-6 py-2 border border-primary text-primary rounded-lg hover:bg-primary/10 transition-colors","children":"View Works"}]]}],["$","div",null,{"className":"absolute inset-0 overflow-hidden pointer-events-none -z-10","children":[["$","div",null,{"className":"absolute top-1/4 left-1/4 w-2 h-2 bg-primary/20 rounded-full animate-float"}],["$","div",null,{"className":"absolute top-3/4 right-1/4 w-3 h-3 bg-accent/20 rounded-full animate-float","style":{"animationDelay":"1s"}}],["$","div",null,{"className":"absolute bottom-1/4 left-1/3 w-1 h-1 bg-secondary/20 rounded-full animate-float","style":{"animationDelay":"2s"}}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}]}]]}],{"children":["documents",["$","$1","c",{"children":[null,["$","$La",null,{"Component":"$b","slots":{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@c"}]]}],{"children":[["slug","en/dark/basic-knowledge/tailwindcss-theme","c"],["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L8",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$Ld",["$","$Le",null,{"children":"$Lf"}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5eacd01f773eed7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L10",null,{"children":["$L11","$L12",["$","$L13",null,{"promise":"$@14"}]]}]]}],{},null,false]},null,false]},[["$","$L15","l",{}],[],[]],false]},[["$","$L16","l",{}],[],[]],false],["$","$1","h",{"children":[null,["$","$1","-v5e0ZknsfBDxUWMCyyyD",{"children":[["$","$L17",null,{"children":"$L18"}],null]}],null]}],false]],"m":"$undefined","G":["$19","$undefined"],"s":false,"S":true}
+1a:"$Sreact.suspense"
+1b:I[74911,[],"AsyncMetadata"]
+c:{}
+f:["$","$1a",null,{"fallback":null,"children":["$","$L1b",null,{"promise":"$@1c"}]}]
+1d:I[57340,["5584","static/chunks/b498d07c-095637f0f10883c6.js","2415","static/chunks/2415-689c103fb3d2c28d.js","6874","static/chunks/6874-fbe9a08eb79b991c.js","9554","static/chunks/9554-b714f9de28e85d30.js","1873","static/chunks/app/documents/%5B...slug%5D/page-9ee3d086bd3810e0.js"],"DocumentPageClient"]
+1e:T2a839,<p class="text-base leading-7 mb-4 text-foreground">Tailwind CSS provides a powerful theme system that allows developers to create consistent and flexible design systems. Through theme configuration, you can customize colors, spacing, fonts, and other design tokens to build unique brand styles.</p>
+<h3 id="basic-purpose" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-purpose" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Purpose">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Purpose</strong>
+        </h3>
+<p class="text-base leading-7 mb-4 text-foreground">Tailwind CSS theme system mainly accomplishes:</p>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed">Define consistent design tokens (colors, spacing, fonts, etc.)</li>
+<li class="text-foreground leading-relaxed">Support dark/light mode switching</li>
+<li class="text-foreground leading-relaxed">Create custom design systems</li>
+<li class="text-foreground leading-relaxed">Provide responsive design support</li>
+<li class="text-foreground leading-relaxed">Maintain design consistency across the entire project</li>
+</ul>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Acolors%3A%20%7B%0Aprimary%3A%20'%233b82f6'%2C%0Asecondary%3A%20'%236b7280'%2C%0Adanger%3A%20'%23ef4444'%2C%0A%7D%2C%0Aspacing%3A%20%7B%0A'72'%3A%20'18rem'%2C%0A'84'%3A%20'21rem'%2C%0A'96'%3A%20'24rem'%2C%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">colors</span>: {
+      <span class="hljs-attr inline">primary</span>: <span class="hljs-string inline">&#x27;#3b82f6&#x27;</span>,
+      <span class="hljs-attr inline">secondary</span>: <span class="hljs-string inline">&#x27;#6b7280&#x27;</span>,
+      <span class="hljs-attr inline">danger</span>: <span class="hljs-string inline">&#x27;#ef4444&#x27;</span>,
+    },
+    <span class="hljs-attr inline">spacing</span>: {
+      <span class="hljs-string inline">&#x27;72&#x27;</span>: <span class="hljs-string inline">&#x27;18rem&#x27;</span>,
+      <span class="hljs-string inline">&#x27;84&#x27;</span>: <span class="hljs-string inline">&#x27;21rem&#x27;</span>,
+      <span class="hljs-string inline">&#x27;96&#x27;</span>: <span class="hljs-string inline">&#x27;24rem&#x27;</span>,
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="basic-configuration-structure" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#basic-configuration-structure" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Configuration Structure">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Configuration Structure</strong>
+        </h3>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Acontent%3A%20%5B'.%2Fsrc%2F**%2F*.%7Bhtml%2Cjs%2Cjsx%2Cts%2Ctsx%7D'%5D%2C%0AdarkMode%3A%20'class'%2C%20%2F%2F%20or%20'media'%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0A%2F%2F%20Extend%20default%20theme%0Acolors%3A%20%7B%0A%2F%2F%20Custom%20colors%0A%7D%2C%0AfontFamily%3A%20%7B%0A%2F%2F%20Custom%20fonts%0A%7D%2C%0Aspacing%3A%20%7B%0A%2F%2F%20Custom%20spacing%0A%7D%0A%7D%2C%0A%2F%2F%20Override%20default%20theme%0Ascreens%3A%20%7B%0A%2F%2F%20Custom%20breakpoints%0A%7D%0A%7D%2C%0Aplugins%3A%20%5B%5D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">content</span>: [<span class="hljs-string inline">&#x27;./src/**/*.{html,js,jsx,ts,tsx}&#x27;</span>],
+  <span class="hljs-attr inline">darkMode</span>: <span class="hljs-string inline">&#x27;class&#x27;</span>, <span class="hljs-comment inline">// or &#x27;media&#x27;</span>
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-comment inline">// Extend default theme</span>
+      <span class="hljs-attr inline">colors</span>: {
+        <span class="hljs-comment inline">// Custom colors</span>
+      },
+      <span class="hljs-attr inline">fontFamily</span>: {
+        <span class="hljs-comment inline">// Custom fonts</span>
+      },
+      <span class="hljs-attr inline">spacing</span>: {
+        <span class="hljs-comment inline">// Custom spacing</span>
+      }
+    },
+    <span class="hljs-comment inline">// Override default theme</span>
+    <span class="hljs-attr inline">screens</span>: {
+      <span class="hljs-comment inline">// Custom breakpoints</span>
+    }
+  },
+  <span class="hljs-attr inline">plugins</span>: []
+}
+</code></pre>
+            </div>
+        
+<h3 id="color-system-configuration" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#color-system-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Color System Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Color System Configuration</strong>
+        </h3>
+<h4 id="basic-color-configuration" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#basic-color-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Basic Color Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Basic Color Configuration</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0Acolors%3A%20%7B%0A%2F%2F%20Brand%20colors%0Abrand%3A%20%7B%0A50%3A%20'%23eff6ff'%2C%0A100%3A%20'%23dbeafe'%2C%0A200%3A%20'%23bfdbfe'%2C%0A300%3A%20'%2393c5fd'%2C%0A400%3A%20'%2360a5fa'%2C%0A500%3A%20'%233b82f6'%2C%20%2F%2F%20Main%20brand%20color%0A600%3A%20'%232563eb'%2C%0A700%3A%20'%231d4ed8'%2C%0A800%3A%20'%231e40af'%2C%0A900%3A%20'%231e3a8a'%2C%0A%7D%2C%0A%2F%2F%20Functional%20colors%0Asuccess%3A%20'%2310b981'%2C%0Awarning%3A%20'%23f59e0b'%2C%0Aerror%3A%20'%23ef4444'%2C%0Ainfo%3A%20'%233b82f6'%2C%0A%2F%2F%20Neutral%20colors%0Aneutral%3A%20%7B%0Alight%3A%20'%23f8fafc'%2C%0ADEFAULT%3A%20'%2364748b'%2C%0Adark%3A%20'%231e293b'%2C%0A%7D%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">colors</span>: {
+        <span class="hljs-comment inline">// Brand colors</span>
+        <span class="hljs-attr inline">brand</span>: {
+          <span class="hljs-number inline">50</span>: <span class="hljs-string inline">&#x27;#eff6ff&#x27;</span>,
+          <span class="hljs-number inline">100</span>: <span class="hljs-string inline">&#x27;#dbeafe&#x27;</span>,
+          <span class="hljs-number inline">200</span>: <span class="hljs-string inline">&#x27;#bfdbfe&#x27;</span>,
+          <span class="hljs-number inline">300</span>: <span class="hljs-string inline">&#x27;#93c5fd&#x27;</span>,
+          <span class="hljs-number inline">400</span>: <span class="hljs-string inline">&#x27;#60a5fa&#x27;</span>,
+          <span class="hljs-number inline">500</span>: <span class="hljs-string inline">&#x27;#3b82f6&#x27;</span>, <span class="hljs-comment inline">// Main brand color</span>
+          <span class="hljs-number inline">600</span>: <span class="hljs-string inline">&#x27;#2563eb&#x27;</span>,
+          <span class="hljs-number inline">700</span>: <span class="hljs-string inline">&#x27;#1d4ed8&#x27;</span>,
+          <span class="hljs-number inline">800</span>: <span class="hljs-string inline">&#x27;#1e40af&#x27;</span>,
+          <span class="hljs-number inline">900</span>: <span class="hljs-string inline">&#x27;#1e3a8a&#x27;</span>,
+        },
+        
+        <span class="hljs-comment inline">// Functional colors</span>
+        <span class="hljs-attr inline">success</span>: <span class="hljs-string inline">&#x27;#10b981&#x27;</span>,
+        <span class="hljs-attr inline">warning</span>: <span class="hljs-string inline">&#x27;#f59e0b&#x27;</span>,
+        <span class="hljs-attr inline">error</span>: <span class="hljs-string inline">&#x27;#ef4444&#x27;</span>,
+        <span class="hljs-attr inline">info</span>: <span class="hljs-string inline">&#x27;#3b82f6&#x27;</span>,
+        
+        <span class="hljs-comment inline">// Neutral colors</span>
+        <span class="hljs-attr inline">neutral</span>: {
+          <span class="hljs-attr inline">light</span>: <span class="hljs-string inline">&#x27;#f8fafc&#x27;</span>,
+          <span class="hljs-attr inline">DEFAULT</span>: <span class="hljs-string inline">&#x27;#64748b&#x27;</span>,
+          <span class="hljs-attr inline">dark</span>: <span class="hljs-string inline">&#x27;#1e293b&#x27;</span>,
+        }
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h4 id="css-variables-for-dynamic-colors" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#css-variables-for-dynamic-colors" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to CSS Variables for Dynamic Colors">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">CSS Variables for Dynamic Colors</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%2F*%20styles%2Fglobals.css%20*%2F%0A%3Aroot%20%7B%0A--color-primary%3A%2059%20130%20246%3B%0A--color-secondary%3A%20107%20114%20128%3B%0A--color-success%3A%2016%20185%20129%3B%0A--color-warning%3A%20245%20158%2011%3B%0A--color-error%3A%20239%2068%2068%3B%0A%7D%0A%5Bdata-theme%3D%22dark%22%5D%20%7B%0A--color-primary%3A%2096%20165%20250%3B%0A--color-secondary%3A%20156%20163%20175%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-comment inline">/* styles/globals.css */</span>
+<span class="hljs-selector-pseudo inline">:root</span> {
+  <span class="hljs-attr inline">--color-primary</span>: <span class="hljs-number inline">59</span> <span class="hljs-number inline">130</span> <span class="hljs-number inline">246</span>;
+  <span class="hljs-attr inline">--color-secondary</span>: <span class="hljs-number inline">107</span> <span class="hljs-number inline">114</span> <span class="hljs-number inline">128</span>;
+  <span class="hljs-attr inline">--color-success</span>: <span class="hljs-number inline">16</span> <span class="hljs-number inline">185</span> <span class="hljs-number inline">129</span>;
+  <span class="hljs-attr inline">--color-warning</span>: <span class="hljs-number inline">245</span> <span class="hljs-number inline">158</span> <span class="hljs-number inline">11</span>;
+  <span class="hljs-attr inline">--color-error</span>: <span class="hljs-number inline">239</span> <span class="hljs-number inline">68</span> <span class="hljs-number inline">68</span>;
+}
+
+<span class="hljs-selector-attr inline">[data-theme=<span class="hljs-string inline">&quot;dark&quot;</span>]</span> {
+  <span class="hljs-attr inline">--color-primary</span>: <span class="hljs-number inline">96</span> <span class="hljs-number inline">165</span> <span class="hljs-number inline">250</span>;
+  <span class="hljs-attr inline">--color-secondary</span>: <span class="hljs-number inline">156</span> <span class="hljs-number inline">163</span> <span class="hljs-number inline">175</span>;
+}
+</code></pre>
+            </div>
+        
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0Acolors%3A%20%7B%0Aprimary%3A%20'rgb(var(--color-primary)%20%2F%20)'%2C%0Asecondary%3A%20'rgb(var(--color-secondary)%20%2F%20)'%2C%0Asuccess%3A%20'rgb(var(--color-success)%20%2F%20)'%2C%0Awarning%3A%20'rgb(var(--color-warning)%20%2F%20)'%2C%0Aerror%3A%20'rgb(var(--color-error)%20%2F%20)'%2C%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">colors</span>: {
+        <span class="hljs-attr inline">primary</span>: <span class="hljs-string inline">&#x27;rgb(var(--color-primary) / &lt;alpha-value&gt;)&#x27;</span>,
+        <span class="hljs-attr inline">secondary</span>: <span class="hljs-string inline">&#x27;rgb(var(--color-secondary) / &lt;alpha-value&gt;)&#x27;</span>,
+        <span class="hljs-attr inline">success</span>: <span class="hljs-string inline">&#x27;rgb(var(--color-success) / &lt;alpha-value&gt;)&#x27;</span>,
+        <span class="hljs-attr inline">warning</span>: <span class="hljs-string inline">&#x27;rgb(var(--color-warning) / &lt;alpha-value&gt;)&#x27;</span>,
+        <span class="hljs-attr inline">error</span>: <span class="hljs-string inline">&#x27;rgb(var(--color-error) / &lt;alpha-value&gt;)&#x27;</span>,
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="dark-mode-configuration" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#dark-mode-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Dark Mode Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Dark Mode Configuration</strong>
+        </h3>
+<h4 id="class-based-dark-mode" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#class-based-dark-mode" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Class-based Dark Mode">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Class-based Dark Mode</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0AdarkMode%3A%20'class'%2C%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0Acolors%3A%20%7B%0A%2F%2F%20Light%20mode%20colors%0Abackground%3A%20'%23ffffff'%2C%0Aforeground%3A%20'%23000000'%2C%0A%2F%2F%20Dark%20mode%20will%20use%20dark%3A%20prefix%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">darkMode</span>: <span class="hljs-string inline">&#x27;class&#x27;</span>,
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">colors</span>: {
+        <span class="hljs-comment inline">// Light mode colors</span>
+        <span class="hljs-attr inline">background</span>: <span class="hljs-string inline">&#x27;#ffffff&#x27;</span>,
+        <span class="hljs-attr inline">foreground</span>: <span class="hljs-string inline">&#x27;#000000&#x27;</span>,
+        
+        <span class="hljs-comment inline">// Dark mode will use dark: prefix</span>
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20React%20component%20example%0Afunction%20ThemeToggle()%20%7B%0Aconst%20%5BisDark%2C%20setIsDark%5D%20%3D%20useState(false)%3B%0Aconst%20toggleTheme%20%3D%20()%20%3D%3E%20%7B%0AsetIsDark(!isDark)%3B%0Adocument.documentElement.classList.toggle('dark')%3B%0A%7D%3B%0Areturn%20(%0Adiv%20className%3D%22bg-background%20text-foreground%20dark%3Abg-gray-900%20dark%3Atext-white%22%3E%0Abutton%0AonClick%3D%7BtoggleTheme%7D%0AclassName%3D%22px-4%20py-2%20bg-primary%20text-white%20rounded-lg%20dark%3Abg-primary-dark%22%0A%3E%0A%7BisDark%20%3F%20'Light%20Mode'%20%3A%20'Dark%20Mode'%7D%0Abutton%3E%0Adiv%3E%0A)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// React component example</span>
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ThemeToggle</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> [isDark, setIsDark] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-literal inline">false</span>);
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">toggleTheme</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-title function_ inline">setIsDark</span>(!isDark);
+    <span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">documentElement</span>.<span class="hljs-property inline">classList</span>.<span class="hljs-title function_ inline">toggle</span>(<span class="hljs-string inline">&#x27;dark&#x27;</span>);
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">div</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;bg-background text-foreground dark:bg-gray-900 dark:text-white&quot;</span>&gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span>
+        <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{toggleTheme}</span>
+        <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;px-4 py-2 bg-primary text-white rounded-lg dark:bg-primary-dark&quot;</span>
+      &gt;</span>
+        {isDark ? &#x27;Light Mode&#x27; : &#x27;Dark Mode&#x27;}
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">div</span>&gt;</span></span>
+  );
+}
+</code></pre>
+            </div>
+        
+<h4 id="media-query-based-dark-mode" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#media-query-based-dark-mode" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Media Query-based Dark Mode">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Media Query-based Dark Mode</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0AdarkMode%3A%20'media'%2C%20%2F%2F%20Automatically%20follows%20system%20preference%0A%2F%2F%20Configuration%20remains%20the%20same%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">darkMode</span>: <span class="hljs-string inline">&#x27;media&#x27;</span>, <span class="hljs-comment inline">// Automatically follows system preference</span>
+  <span class="hljs-comment inline">// Configuration remains the same</span>
+}
+</code></pre>
+            </div>
+        
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%2F*%20Automatically%20applies%20based%20on%20system%20preference%20*%2F%0A.card%20%7B%0A%40apply%20bg-white%20dark%3Abg-gray-800%3B%0A%40apply%20text-gray-900%20dark%3Atext-gray-100%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-comment inline">/* Automatically applies based on system preference */</span>
+<span class="hljs-selector-class inline">.card</span> {
+  <span class="hljs-keyword inline">@apply</span> bg-white <span class="hljs-attribute inline">dark</span>:bg-gray-<span class="hljs-number inline">800</span>;
+  <span class="hljs-keyword inline">@apply</span> text-gray-<span class="hljs-number inline">900</span> <span class="hljs-attribute inline">dark</span>:text-gray-<span class="hljs-number inline">100</span>;
+}
+</code></pre>
+            </div>
+        
+<h3 id="typography-system" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#typography-system" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Typography System">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Typography System</strong>
+        </h3>
+<h4 id="custom-font-configuration" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#custom-font-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Custom Font Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Custom Font Configuration</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0AfontFamily%3A%20%7B%0A%2F%2F%20Custom%20font%20families%0A'sans'%3A%20%5B'Inter'%2C%20'system-ui'%2C%20'sans-serif'%5D%2C%0A'serif'%3A%20%5B'Merriweather'%2C%20'Georgia'%2C%20'serif'%5D%2C%0A'mono'%3A%20%5B'Fira%20Code'%2C%20'Monaco'%2C%20'monospace'%5D%2C%0A%2F%2F%20Brand%20fonts%0A'brand'%3A%20%5B'Poppins'%2C%20'sans-serif'%5D%2C%0A'heading'%3A%20%5B'Playfair%20Display'%2C%20'serif'%5D%2C%0A%7D%2C%0AfontSize%3A%20%7B%0A%2F%2F%20Custom%20font%20sizes%0A'xs'%3A%20%5B'0.75rem'%2C%20%7B%20lineHeight%3A%20'1rem'%20%7D%5D%2C%0A'sm'%3A%20%5B'0.875rem'%2C%20%7B%20lineHeight%3A%20'1.25rem'%20%7D%5D%2C%0A'base'%3A%20%5B'1rem'%2C%20%7B%20lineHeight%3A%20'1.5rem'%20%7D%5D%2C%0A'lg'%3A%20%5B'1.125rem'%2C%20%7B%20lineHeight%3A%20'1.75rem'%20%7D%5D%2C%0A'xl'%3A%20%5B'1.25rem'%2C%20%7B%20lineHeight%3A%20'1.75rem'%20%7D%5D%2C%0A%2F%2F%20Display%20sizes%0A'display-sm'%3A%20%5B'2.5rem'%2C%20%7B%20lineHeight%3A%20'3rem'%2C%20fontWeight%3A%20'700'%20%7D%5D%2C%0A'display-md'%3A%20%5B'3rem'%2C%20%7B%20lineHeight%3A%20'3.5rem'%2C%20fontWeight%3A%20'700'%20%7D%5D%2C%0A'display-lg'%3A%20%5B'4rem'%2C%20%7B%20lineHeight%3A%20'4.5rem'%2C%20fontWeight%3A%20'800'%20%7D%5D%2C%0A%7D%2C%0AfontWeight%3A%20%7B%0A'light'%3A%20300%2C%0A'normal'%3A%20400%2C%0A'medium'%3A%20500%2C%0A'semibold'%3A%20600%2C%0A'bold'%3A%20700%2C%0A'extrabold'%3A%20800%2C%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">fontFamily</span>: {
+        <span class="hljs-comment inline">// Custom font families</span>
+        <span class="hljs-string inline">&#x27;sans&#x27;</span>: [<span class="hljs-string inline">&#x27;Inter&#x27;</span>, <span class="hljs-string inline">&#x27;system-ui&#x27;</span>, <span class="hljs-string inline">&#x27;sans-serif&#x27;</span>],
+        <span class="hljs-string inline">&#x27;serif&#x27;</span>: [<span class="hljs-string inline">&#x27;Merriweather&#x27;</span>, <span class="hljs-string inline">&#x27;Georgia&#x27;</span>, <span class="hljs-string inline">&#x27;serif&#x27;</span>],
+        <span class="hljs-string inline">&#x27;mono&#x27;</span>: [<span class="hljs-string inline">&#x27;Fira Code&#x27;</span>, <span class="hljs-string inline">&#x27;Monaco&#x27;</span>, <span class="hljs-string inline">&#x27;monospace&#x27;</span>],
+        
+        <span class="hljs-comment inline">// Brand fonts</span>
+        <span class="hljs-string inline">&#x27;brand&#x27;</span>: [<span class="hljs-string inline">&#x27;Poppins&#x27;</span>, <span class="hljs-string inline">&#x27;sans-serif&#x27;</span>],
+        <span class="hljs-string inline">&#x27;heading&#x27;</span>: [<span class="hljs-string inline">&#x27;Playfair Display&#x27;</span>, <span class="hljs-string inline">&#x27;serif&#x27;</span>],
+      },
+      
+      <span class="hljs-attr inline">fontSize</span>: {
+        <span class="hljs-comment inline">// Custom font sizes</span>
+        <span class="hljs-string inline">&#x27;xs&#x27;</span>: [<span class="hljs-string inline">&#x27;0.75rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;1rem&#x27;</span> }],
+        <span class="hljs-string inline">&#x27;sm&#x27;</span>: [<span class="hljs-string inline">&#x27;0.875rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;1.25rem&#x27;</span> }],
+        <span class="hljs-string inline">&#x27;base&#x27;</span>: [<span class="hljs-string inline">&#x27;1rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;1.5rem&#x27;</span> }],
+        <span class="hljs-string inline">&#x27;lg&#x27;</span>: [<span class="hljs-string inline">&#x27;1.125rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;1.75rem&#x27;</span> }],
+        <span class="hljs-string inline">&#x27;xl&#x27;</span>: [<span class="hljs-string inline">&#x27;1.25rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;1.75rem&#x27;</span> }],
+        
+        <span class="hljs-comment inline">// Display sizes</span>
+        <span class="hljs-string inline">&#x27;display-sm&#x27;</span>: [<span class="hljs-string inline">&#x27;2.5rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;3rem&#x27;</span>, <span class="hljs-attr inline">fontWeight</span>: <span class="hljs-string inline">&#x27;700&#x27;</span> }],
+        <span class="hljs-string inline">&#x27;display-md&#x27;</span>: [<span class="hljs-string inline">&#x27;3rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;3.5rem&#x27;</span>, <span class="hljs-attr inline">fontWeight</span>: <span class="hljs-string inline">&#x27;700&#x27;</span> }],
+        <span class="hljs-string inline">&#x27;display-lg&#x27;</span>: [<span class="hljs-string inline">&#x27;4rem&#x27;</span>, { <span class="hljs-attr inline">lineHeight</span>: <span class="hljs-string inline">&#x27;4.5rem&#x27;</span>, <span class="hljs-attr inline">fontWeight</span>: <span class="hljs-string inline">&#x27;800&#x27;</span> }],
+      },
+      
+      <span class="hljs-attr inline">fontWeight</span>: {
+        <span class="hljs-string inline">&#x27;light&#x27;</span>: <span class="hljs-number inline">300</span>,
+        <span class="hljs-string inline">&#x27;normal&#x27;</span>: <span class="hljs-number inline">400</span>,
+        <span class="hljs-string inline">&#x27;medium&#x27;</span>: <span class="hljs-number inline">500</span>,
+        <span class="hljs-string inline">&#x27;semibold&#x27;</span>: <span class="hljs-number inline">600</span>,
+        <span class="hljs-string inline">&#x27;bold&#x27;</span>: <span class="hljs-number inline">700</span>,
+        <span class="hljs-string inline">&#x27;extrabold&#x27;</span>: <span class="hljs-number inline">800</span>,
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h4 id="typography-component-classes" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#typography-component-classes" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Typography Component Classes">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Typography Component Classes</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%2F*%20styles%2Fcomponents.css%20*%2F%0A%40layer%20components%20%7B%0A.heading-1%20%7B%0A%40apply%20text-display-lg%20font-heading%20font-extrabold%20text-gray-900%20dark%3Atext-white%3B%0A%7D%0A.heading-2%20%7B%0A%40apply%20text-display-md%20font-heading%20font-bold%20text-gray-800%20dark%3Atext-gray-100%3B%0A%7D%0A.body-large%20%7B%0A%40apply%20text-lg%20font-sans%20text-gray-700%20dark%3Atext-gray-300%20leading-relaxed%3B%0A%7D%0A.body-small%20%7B%0A%40apply%20text-sm%20font-sans%20text-gray-600%20dark%3Atext-gray-400%3B%0A%7D%0A.caption%20%7B%0A%40apply%20text-xs%20font-medium%20text-gray-500%20dark%3Atext-gray-500%20uppercase%20tracking-wide%3B%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-comment inline">/* styles/components.css */</span>
+<span class="hljs-keyword inline">@layer</span> components {
+  <span class="hljs-selector-class inline">.heading-1</span> {
+    <span class="hljs-keyword inline">@apply</span> text-display-lg font-heading font-extrabold text-gray-<span class="hljs-number inline">900</span> <span class="hljs-attribute inline">dark</span>:text-white;
+  }
+  
+  <span class="hljs-selector-class inline">.heading-2</span> {
+    <span class="hljs-keyword inline">@apply</span> text-display-md font-heading font-bold text-gray-<span class="hljs-number inline">800</span> <span class="hljs-attribute inline">dark</span>:text-gray-<span class="hljs-number inline">100</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.body-large</span> {
+    <span class="hljs-keyword inline">@apply</span> text-lg font-sans text-gray-<span class="hljs-number inline">700</span> <span class="hljs-attribute inline">dark</span>:text-gray-<span class="hljs-number inline">300</span> leading-relaxed;
+  }
+  
+  <span class="hljs-selector-class inline">.body-small</span> {
+    <span class="hljs-keyword inline">@apply</span> text-sm font-sans text-gray-<span class="hljs-number inline">600</span> <span class="hljs-attribute inline">dark</span>:text-gray-<span class="hljs-number inline">400</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.caption</span> {
+    <span class="hljs-keyword inline">@apply</span> text-xs font-medium text-gray-<span class="hljs-number inline">500</span> <span class="hljs-attribute inline">dark</span>:text-gray-<span class="hljs-number inline">500</span> uppercase tracking-wide;
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="spacing-and-layout-system" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#spacing-and-layout-system" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Spacing and Layout System">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Spacing and Layout System</strong>
+        </h3>
+<h4 id="custom-spacing-configuration" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#custom-spacing-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Custom Spacing Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Custom Spacing Configuration</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0Aspacing%3A%20%7B%0A%2F%2F%20Custom%20spacing%20values%0A'18'%3A%20'4.5rem'%2C%0A'72'%3A%20'18rem'%2C%0A'84'%3A%20'21rem'%2C%0A'96'%3A%20'24rem'%2C%0A%2F%2F%20Design%20system%20spacing%0A'xs'%3A%20'0.5rem'%2C%20%20%20%20%2F%2F%208px%0A'sm'%3A%20'1rem'%2C%20%20%20%20%20%20%2F%2F%2016px%0A'md'%3A%20'1.5rem'%2C%20%20%20%20%2F%2F%2024px%0A'lg'%3A%20'2rem'%2C%20%20%20%20%20%20%2F%2F%2032px%0A'xl'%3A%20'3rem'%2C%20%20%20%20%20%20%2F%2F%2048px%0A'2xl'%3A%20'4rem'%2C%20%20%20%20%20%2F%2F%2064px%0A'3xl'%3A%20'6rem'%2C%20%20%20%20%20%2F%2F%2096px%0A%7D%2C%0AmaxWidth%3A%20%7B%0A'container'%3A%20'1200px'%2C%0A'content'%3A%20'800px'%2C%0A'sidebar'%3A%20'300px'%2C%0A%7D%2C%0AminHeight%3A%20%7B%0A'screen-75'%3A%20'75vh'%2C%0A'screen-50'%3A%20'50vh'%2C%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">spacing</span>: {
+        <span class="hljs-comment inline">// Custom spacing values</span>
+        <span class="hljs-string inline">&#x27;18&#x27;</span>: <span class="hljs-string inline">&#x27;4.5rem&#x27;</span>,
+        <span class="hljs-string inline">&#x27;72&#x27;</span>: <span class="hljs-string inline">&#x27;18rem&#x27;</span>,
+        <span class="hljs-string inline">&#x27;84&#x27;</span>: <span class="hljs-string inline">&#x27;21rem&#x27;</span>,
+        <span class="hljs-string inline">&#x27;96&#x27;</span>: <span class="hljs-string inline">&#x27;24rem&#x27;</span>,
+        
+        <span class="hljs-comment inline">// Design system spacing</span>
+        <span class="hljs-string inline">&#x27;xs&#x27;</span>: <span class="hljs-string inline">&#x27;0.5rem&#x27;</span>,    <span class="hljs-comment inline">// 8px</span>
+        <span class="hljs-string inline">&#x27;sm&#x27;</span>: <span class="hljs-string inline">&#x27;1rem&#x27;</span>,      <span class="hljs-comment inline">// 16px</span>
+        <span class="hljs-string inline">&#x27;md&#x27;</span>: <span class="hljs-string inline">&#x27;1.5rem&#x27;</span>,    <span class="hljs-comment inline">// 24px</span>
+        <span class="hljs-string inline">&#x27;lg&#x27;</span>: <span class="hljs-string inline">&#x27;2rem&#x27;</span>,      <span class="hljs-comment inline">// 32px</span>
+        <span class="hljs-string inline">&#x27;xl&#x27;</span>: <span class="hljs-string inline">&#x27;3rem&#x27;</span>,      <span class="hljs-comment inline">// 48px</span>
+        <span class="hljs-string inline">&#x27;2xl&#x27;</span>: <span class="hljs-string inline">&#x27;4rem&#x27;</span>,     <span class="hljs-comment inline">// 64px</span>
+        <span class="hljs-string inline">&#x27;3xl&#x27;</span>: <span class="hljs-string inline">&#x27;6rem&#x27;</span>,     <span class="hljs-comment inline">// 96px</span>
+      },
+      
+      <span class="hljs-attr inline">maxWidth</span>: {
+        <span class="hljs-string inline">&#x27;container&#x27;</span>: <span class="hljs-string inline">&#x27;1200px&#x27;</span>,
+        <span class="hljs-string inline">&#x27;content&#x27;</span>: <span class="hljs-string inline">&#x27;800px&#x27;</span>,
+        <span class="hljs-string inline">&#x27;sidebar&#x27;</span>: <span class="hljs-string inline">&#x27;300px&#x27;</span>,
+      },
+      
+      <span class="hljs-attr inline">minHeight</span>: {
+        <span class="hljs-string inline">&#x27;screen-75&#x27;</span>: <span class="hljs-string inline">&#x27;75vh&#x27;</span>,
+        <span class="hljs-string inline">&#x27;screen-50&#x27;</span>: <span class="hljs-string inline">&#x27;50vh&#x27;</span>,
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h4 id="container-configuration" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#container-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Container Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Container Configuration</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Acontainer%3A%20%7B%0Acenter%3A%20true%2C%0Apadding%3A%20%7B%0ADEFAULT%3A%20'1rem'%2C%0Asm%3A%20'2rem'%2C%0Alg%3A%20'4rem'%2C%0Axl%3A%20'5rem'%2C%0A'2xl'%3A%20'6rem'%2C%0A%7D%2C%0Ascreens%3A%20%7B%0Asm%3A%20'640px'%2C%0Amd%3A%20'768px'%2C%0Alg%3A%20'1024px'%2C%0Axl%3A%20'1280px'%2C%0A'2xl'%3A%20'1400px'%2C%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">container</span>: {
+      <span class="hljs-attr inline">center</span>: <span class="hljs-literal inline">true</span>,
+      <span class="hljs-attr inline">padding</span>: {
+        <span class="hljs-attr inline">DEFAULT</span>: <span class="hljs-string inline">&#x27;1rem&#x27;</span>,
+        <span class="hljs-attr inline">sm</span>: <span class="hljs-string inline">&#x27;2rem&#x27;</span>,
+        <span class="hljs-attr inline">lg</span>: <span class="hljs-string inline">&#x27;4rem&#x27;</span>,
+        <span class="hljs-attr inline">xl</span>: <span class="hljs-string inline">&#x27;5rem&#x27;</span>,
+        <span class="hljs-string inline">&#x27;2xl&#x27;</span>: <span class="hljs-string inline">&#x27;6rem&#x27;</span>,
+      },
+      <span class="hljs-attr inline">screens</span>: {
+        <span class="hljs-attr inline">sm</span>: <span class="hljs-string inline">&#x27;640px&#x27;</span>,
+        <span class="hljs-attr inline">md</span>: <span class="hljs-string inline">&#x27;768px&#x27;</span>,
+        <span class="hljs-attr inline">lg</span>: <span class="hljs-string inline">&#x27;1024px&#x27;</span>,
+        <span class="hljs-attr inline">xl</span>: <span class="hljs-string inline">&#x27;1280px&#x27;</span>,
+        <span class="hljs-string inline">&#x27;2xl&#x27;</span>: <span class="hljs-string inline">&#x27;1400px&#x27;</span>,
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="responsive-design-configuration" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#responsive-design-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Responsive Design Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Responsive Design Configuration</strong>
+        </h3>
+<h4 id="custom-breakpoints" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#custom-breakpoints" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Custom Breakpoints">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Custom Breakpoints</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Ascreens%3A%20%7B%0A'xs'%3A%20'475px'%2C%0A'sm'%3A%20'640px'%2C%0A'md'%3A%20'768px'%2C%0A'lg'%3A%20'1024px'%2C%0A'xl'%3A%20'1280px'%2C%0A'2xl'%3A%20'1536px'%2C%0A%2F%2F%20Custom%20breakpoints%0A'tablet'%3A%20'768px'%2C%0A'laptop'%3A%20'1024px'%2C%0A'desktop'%3A%20'1280px'%2C%0A%2F%2F%20Maximum%20width%20breakpoints%0A'max-sm'%3A%20%7B'max'%3A%20'639px'%7D%2C%0A'max-md'%3A%20%7B'max'%3A%20'767px'%7D%2C%0A'max-lg'%3A%20%7B'max'%3A%20'1023px'%7D%2C%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">screens</span>: {
+      <span class="hljs-string inline">&#x27;xs&#x27;</span>: <span class="hljs-string inline">&#x27;475px&#x27;</span>,
+      <span class="hljs-string inline">&#x27;sm&#x27;</span>: <span class="hljs-string inline">&#x27;640px&#x27;</span>,
+      <span class="hljs-string inline">&#x27;md&#x27;</span>: <span class="hljs-string inline">&#x27;768px&#x27;</span>,
+      <span class="hljs-string inline">&#x27;lg&#x27;</span>: <span class="hljs-string inline">&#x27;1024px&#x27;</span>,
+      <span class="hljs-string inline">&#x27;xl&#x27;</span>: <span class="hljs-string inline">&#x27;1280px&#x27;</span>,
+      <span class="hljs-string inline">&#x27;2xl&#x27;</span>: <span class="hljs-string inline">&#x27;1536px&#x27;</span>,
+      
+      <span class="hljs-comment inline">// Custom breakpoints</span>
+      <span class="hljs-string inline">&#x27;tablet&#x27;</span>: <span class="hljs-string inline">&#x27;768px&#x27;</span>,
+      <span class="hljs-string inline">&#x27;laptop&#x27;</span>: <span class="hljs-string inline">&#x27;1024px&#x27;</span>,
+      <span class="hljs-string inline">&#x27;desktop&#x27;</span>: <span class="hljs-string inline">&#x27;1280px&#x27;</span>,
+      
+      <span class="hljs-comment inline">// Maximum width breakpoints</span>
+      <span class="hljs-string inline">&#x27;max-sm&#x27;</span>: {<span class="hljs-string inline">&#x27;max&#x27;</span>: <span class="hljs-string inline">&#x27;639px&#x27;</span>},
+      <span class="hljs-string inline">&#x27;max-md&#x27;</span>: {<span class="hljs-string inline">&#x27;max&#x27;</span>: <span class="hljs-string inline">&#x27;767px&#x27;</span>},
+      <span class="hljs-string inline">&#x27;max-lg&#x27;</span>: {<span class="hljs-string inline">&#x27;max&#x27;</span>: <span class="hljs-string inline">&#x27;1023px&#x27;</span>},
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h4 id="responsive-typography" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#responsive-typography" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Responsive Typography">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Responsive Typography</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%2F*%20Responsive%20text%20classes%20*%2F%0A%40layer%20components%20%7B%0A.responsive-heading%20%7B%0A%40apply%20text-2xl%20md%3Atext-4xl%20lg%3Atext-6xl%3B%0A%40apply%20font-bold%20leading-tight%3B%0A%7D%0A.responsive-body%20%7B%0A%40apply%20text-sm%20md%3Atext-base%20lg%3Atext-lg%3B%0A%40apply%20leading-relaxed%3B%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-comment inline">/* Responsive text classes */</span>
+<span class="hljs-keyword inline">@layer</span> components {
+  <span class="hljs-selector-class inline">.responsive-heading</span> {
+    <span class="hljs-keyword inline">@apply</span> text-<span class="hljs-number inline">2</span>xl <span class="hljs-attribute inline">md</span>:text-<span class="hljs-number inline">4</span>xl <span class="hljs-attribute inline">lg</span>:text-<span class="hljs-number inline">6</span>xl;
+    <span class="hljs-keyword inline">@apply</span> font-bold leading-tight;
+  }
+  
+  <span class="hljs-selector-class inline">.responsive-body</span> {
+    <span class="hljs-keyword inline">@apply</span> text-sm <span class="hljs-attribute inline">md</span>:text-base <span class="hljs-attribute inline">lg</span>:text-lg;
+    <span class="hljs-keyword inline">@apply</span> leading-relaxed;
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="component-patterns" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#component-patterns" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Component Patterns">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Component Patterns</strong>
+        </h3>
+<h4 id="button-system" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#button-system" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Button System">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Button System</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%2F*%20styles%2Fcomponents.css%20*%2F%0A%40layer%20components%20%7B%0A.btn%20%7B%0A%40apply%20inline-flex%20items-center%20justify-center%3B%0A%40apply%20px-4%20py-2%20rounded-lg%20font-medium%3B%0A%40apply%20transition-all%20duration-200%3B%0A%40apply%20focus%3Aoutline-none%20focus%3Aring-2%20focus%3Aring-offset-2%3B%0A%7D%0A.btn-primary%20%7B%0A%40apply%20btn%3B%0A%40apply%20bg-primary%20text-white%3B%0A%40apply%20hover%3Abg-primary-600%20focus%3Aring-primary-500%3B%0A%40apply%20dark%3Abg-primary-400%20dark%3Ahover%3Abg-primary-500%3B%0A%7D%0A.btn-secondary%20%7B%0A%40apply%20btn%3B%0A%40apply%20bg-gray-200%20text-gray-900%3B%0A%40apply%20hover%3Abg-gray-300%20focus%3Aring-gray-500%3B%0A%40apply%20dark%3Abg-gray-700%20dark%3Atext-gray-100%20dark%3Ahover%3Abg-gray-600%3B%0A%7D%0A.btn-outline%20%7B%0A%40apply%20btn%3B%0A%40apply%20border-2%20border-primary%20text-primary%20bg-transparent%3B%0A%40apply%20hover%3Abg-primary%20hover%3Atext-white%3B%0A%40apply%20focus%3Aring-primary-500%3B%0A%7D%0A.btn-lg%20%7B%0A%40apply%20px-6%20py-3%20text-lg%3B%0A%7D%0A.btn-sm%20%7B%0A%40apply%20px-3%20py-1%20text-sm%3B%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-comment inline">/* styles/components.css */</span>
+<span class="hljs-keyword inline">@layer</span> components {
+  <span class="hljs-selector-class inline">.btn</span> {
+    <span class="hljs-keyword inline">@apply</span> inline-flex items-center justify-center;
+    <span class="hljs-keyword inline">@apply</span> px-<span class="hljs-number inline">4</span> py-<span class="hljs-number inline">2</span> rounded-lg font-medium;
+    <span class="hljs-keyword inline">@apply</span> transition-all duration-<span class="hljs-number inline">200</span>;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">focus</span>:outline-none <span class="hljs-attribute inline">focus</span>:ring-<span class="hljs-number inline">2</span> <span class="hljs-attribute inline">focus</span>:ring-offset-<span class="hljs-number inline">2</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.btn-primary</span> {
+    <span class="hljs-keyword inline">@apply</span> btn;
+    <span class="hljs-keyword inline">@apply</span> bg-primary text-white;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">hover</span>:bg-primary-<span class="hljs-number inline">600</span> <span class="hljs-attribute inline">focus</span>:ring-primary-<span class="hljs-number inline">500</span>;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">dark</span>:bg-primary-<span class="hljs-number inline">400</span> <span class="hljs-attribute inline">dark</span>:<span class="hljs-attribute inline">hover</span>:bg-primary-<span class="hljs-number inline">500</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.btn-secondary</span> {
+    <span class="hljs-keyword inline">@apply</span> btn;
+    <span class="hljs-keyword inline">@apply</span> bg-gray-<span class="hljs-number inline">200</span> text-gray-<span class="hljs-number inline">900</span>;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">hover</span>:bg-gray-<span class="hljs-number inline">300</span> <span class="hljs-attribute inline">focus</span>:ring-gray-<span class="hljs-number inline">500</span>;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">dark</span>:bg-gray-<span class="hljs-number inline">700</span> <span class="hljs-attribute inline">dark</span>:text-gray-<span class="hljs-number inline">100</span> <span class="hljs-attribute inline">dark</span>:<span class="hljs-attribute inline">hover</span>:bg-gray-<span class="hljs-number inline">600</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.btn-outline</span> {
+    <span class="hljs-keyword inline">@apply</span> btn;
+    <span class="hljs-keyword inline">@apply</span> border-<span class="hljs-number inline">2</span> border-primary text-primary bg-transparent;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">hover</span>:bg-primary <span class="hljs-attribute inline">hover</span>:text-white;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">focus</span>:ring-primary-<span class="hljs-number inline">500</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.btn-lg</span> {
+    <span class="hljs-keyword inline">@apply</span> px-<span class="hljs-number inline">6</span> py-<span class="hljs-number inline">3</span> text-lg;
+  }
+  
+  <span class="hljs-selector-class inline">.btn-sm</span> {
+    <span class="hljs-keyword inline">@apply</span> px-<span class="hljs-number inline">3</span> py-<span class="hljs-number inline">1</span> text-sm;
+  }
+}
+</code></pre>
+            </div>
+        
+<h4 id="card-components" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#card-components" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Card Components">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Card Components</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%40layer%20components%20%7B%0A.card%20%7B%0A%40apply%20bg-white%20rounded-lg%20shadow-md%3B%0A%40apply%20dark%3Abg-gray-800%20dark%3Ashadow-lg%3B%0A%40apply%20border%20border-gray-200%20dark%3Aborder-gray-700%3B%0A%7D%0A.card-header%20%7B%0A%40apply%20px-6%20py-4%20border-b%20border-gray-200%20dark%3Aborder-gray-700%3B%0A%7D%0A.card-body%20%7B%0A%40apply%20px-6%20py-4%3B%0A%7D%0A.card-footer%20%7B%0A%40apply%20px-6%20py-4%20border-t%20border-gray-200%20dark%3Aborder-gray-700%3B%0A%40apply%20bg-gray-50%20dark%3Abg-gray-750%20rounded-b-lg%3B%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-keyword inline">@layer</span> components {
+  <span class="hljs-selector-class inline">.card</span> {
+    <span class="hljs-keyword inline">@apply</span> bg-white rounded-lg shadow-md;
+    <span class="hljs-keyword inline">@apply</span> <span class="hljs-attribute inline">dark</span>:bg-gray-<span class="hljs-number inline">800</span> <span class="hljs-attribute inline">dark</span>:shadow-lg;
+    <span class="hljs-keyword inline">@apply</span> border border-gray-<span class="hljs-number inline">200</span> <span class="hljs-attribute inline">dark</span>:border-gray-<span class="hljs-number inline">700</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.card-header</span> {
+    <span class="hljs-keyword inline">@apply</span> px-<span class="hljs-number inline">6</span> py-<span class="hljs-number inline">4</span> border-b border-gray-<span class="hljs-number inline">200</span> <span class="hljs-attribute inline">dark</span>:border-gray-<span class="hljs-number inline">700</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.card-body</span> {
+    <span class="hljs-keyword inline">@apply</span> px-<span class="hljs-number inline">6</span> py-<span class="hljs-number inline">4</span>;
+  }
+  
+  <span class="hljs-selector-class inline">.card-footer</span> {
+    <span class="hljs-keyword inline">@apply</span> px-<span class="hljs-number inline">6</span> py-<span class="hljs-number inline">4</span> border-t border-gray-<span class="hljs-number inline">200</span> <span class="hljs-attribute inline">dark</span>:border-gray-<span class="hljs-number inline">700</span>;
+    <span class="hljs-keyword inline">@apply</span> bg-gray-<span class="hljs-number inline">50</span> <span class="hljs-attribute inline">dark</span>:bg-gray-<span class="hljs-number inline">750</span> rounded-b-lg;
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="advanced-theme-configuration" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#advanced-theme-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Advanced Theme Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Advanced Theme Configuration</strong>
+        </h3>
+<h4 id="animation-and-transition-system" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#animation-and-transition-system" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Animation and Transition System">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Animation and Transition System</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0Aanimation%3A%20%7B%0A%2F%2F%20Custom%20animations%0A'fade-in'%3A%20'fadeIn%200.5s%20ease-in-out'%2C%0A'slide-up'%3A%20'slideUp%200.3s%20ease-out'%2C%0A'bounce-subtle'%3A%20'bounceSubtle%202s%20infinite'%2C%0A'pulse-slow'%3A%20'pulse%203s%20infinite'%2C%0A%7D%2C%0Akeyframes%3A%20%7B%0AfadeIn%3A%20%7B%0A'0%25'%3A%20%7B%20opacity%3A%20'0'%20%7D%2C%0A'100%25'%3A%20%7B%20opacity%3A%20'1'%20%7D%2C%0A%7D%2C%0AslideUp%3A%20%7B%0A'0%25'%3A%20%7B%20transform%3A%20'translateY(20px)'%2C%20opacity%3A%20'0'%20%7D%2C%0A'100%25'%3A%20%7B%20transform%3A%20'translateY(0)'%2C%20opacity%3A%20'1'%20%7D%2C%0A%7D%2C%0AbounceSubtle%3A%20%7B%0A'0%25%2C%20100%25'%3A%20%7B%20transform%3A%20'translateY(0)'%20%7D%2C%0A'50%25'%3A%20%7B%20transform%3A%20'translateY(-5px)'%20%7D%2C%0A%7D%2C%0A%7D%2C%0AtransitionDuration%3A%20%7B%0A'400'%3A%20'400ms'%2C%0A'600'%3A%20'600ms'%2C%0A'800'%3A%20'800ms'%2C%0A'1200'%3A%20'1200ms'%2C%0A%7D%2C%0AtransitionTimingFunction%3A%20%7B%0A'in-expo'%3A%20'cubic-bezier(0.95%2C%200.05%2C%200.795%2C%200.035)'%2C%0A'out-expo'%3A%20'cubic-bezier(0.19%2C%201%2C%200.22%2C%201)'%2C%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">animation</span>: {
+        <span class="hljs-comment inline">// Custom animations</span>
+        <span class="hljs-string inline">&#x27;fade-in&#x27;</span>: <span class="hljs-string inline">&#x27;fadeIn 0.5s ease-in-out&#x27;</span>,
+        <span class="hljs-string inline">&#x27;slide-up&#x27;</span>: <span class="hljs-string inline">&#x27;slideUp 0.3s ease-out&#x27;</span>,
+        <span class="hljs-string inline">&#x27;bounce-subtle&#x27;</span>: <span class="hljs-string inline">&#x27;bounceSubtle 2s infinite&#x27;</span>,
+        <span class="hljs-string inline">&#x27;pulse-slow&#x27;</span>: <span class="hljs-string inline">&#x27;pulse 3s infinite&#x27;</span>,
+      },
+      
+      <span class="hljs-attr inline">keyframes</span>: {
+        <span class="hljs-attr inline">fadeIn</span>: {
+          <span class="hljs-string inline">&#x27;0%&#x27;</span>: { <span class="hljs-attr inline">opacity</span>: <span class="hljs-string inline">&#x27;0&#x27;</span> },
+          <span class="hljs-string inline">&#x27;100%&#x27;</span>: { <span class="hljs-attr inline">opacity</span>: <span class="hljs-string inline">&#x27;1&#x27;</span> },
+        },
+        <span class="hljs-attr inline">slideUp</span>: {
+          <span class="hljs-string inline">&#x27;0%&#x27;</span>: { <span class="hljs-attr inline">transform</span>: <span class="hljs-string inline">&#x27;translateY(20px)&#x27;</span>, <span class="hljs-attr inline">opacity</span>: <span class="hljs-string inline">&#x27;0&#x27;</span> },
+          <span class="hljs-string inline">&#x27;100%&#x27;</span>: { <span class="hljs-attr inline">transform</span>: <span class="hljs-string inline">&#x27;translateY(0)&#x27;</span>, <span class="hljs-attr inline">opacity</span>: <span class="hljs-string inline">&#x27;1&#x27;</span> },
+        },
+        <span class="hljs-attr inline">bounceSubtle</span>: {
+          <span class="hljs-string inline">&#x27;0%, 100%&#x27;</span>: { <span class="hljs-attr inline">transform</span>: <span class="hljs-string inline">&#x27;translateY(0)&#x27;</span> },
+          <span class="hljs-string inline">&#x27;50%&#x27;</span>: { <span class="hljs-attr inline">transform</span>: <span class="hljs-string inline">&#x27;translateY(-5px)&#x27;</span> },
+        },
+      },
+      
+      <span class="hljs-attr inline">transitionDuration</span>: {
+        <span class="hljs-string inline">&#x27;400&#x27;</span>: <span class="hljs-string inline">&#x27;400ms&#x27;</span>,
+        <span class="hljs-string inline">&#x27;600&#x27;</span>: <span class="hljs-string inline">&#x27;600ms&#x27;</span>,
+        <span class="hljs-string inline">&#x27;800&#x27;</span>: <span class="hljs-string inline">&#x27;800ms&#x27;</span>,
+        <span class="hljs-string inline">&#x27;1200&#x27;</span>: <span class="hljs-string inline">&#x27;1200ms&#x27;</span>,
+      },
+      
+      <span class="hljs-attr inline">transitionTimingFunction</span>: {
+        <span class="hljs-string inline">&#x27;in-expo&#x27;</span>: <span class="hljs-string inline">&#x27;cubic-bezier(0.95, 0.05, 0.795, 0.035)&#x27;</span>,
+        <span class="hljs-string inline">&#x27;out-expo&#x27;</span>: <span class="hljs-string inline">&#x27;cubic-bezier(0.19, 1, 0.22, 1)&#x27;</span>,
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h4 id="shadow-and-border-system" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#shadow-and-border-system" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Shadow and Border System">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Shadow and Border System</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0AboxShadow%3A%20%7B%0A%2F%2F%20Custom%20shadows%0A'subtle'%3A%20'0%201px%203px%20rgba(0%2C%200%2C%200%2C%200.05)'%2C%0A'card'%3A%20'0%204px%206px%20-1px%20rgba(0%2C%200%2C%200%2C%200.1)'%2C%0A'large'%3A%20'0%2010px%2025px%20-3px%20rgba(0%2C%200%2C%200%2C%200.1)'%2C%0A'inner-subtle'%3A%20'inset%200%201px%202px%20rgba(0%2C%200%2C%200%2C%200.05)'%2C%0A%2F%2F%20Colored%20shadows%0A'primary'%3A%20'0%204px%2014px%200%20rgba(59%2C%20130%2C%20246%2C%200.25)'%2C%0A'success'%3A%20'0%204px%2014px%200%20rgba(16%2C%20185%2C%20129%2C%200.25)'%2C%0A'warning'%3A%20'0%204px%2014px%200%20rgba(245%2C%20158%2C%2011%2C%200.25)'%2C%0A'danger'%3A%20'0%204px%2014px%200%20rgba(239%2C%2068%2C%2068%2C%200.25)'%2C%0A%7D%2C%0AborderRadius%3A%20%7B%0A'xl'%3A%20'1rem'%2C%0A'2xl'%3A%20'1.5rem'%2C%0A'3xl'%3A%20'2rem'%2C%0A%7D%2C%0AborderWidth%3A%20%7B%0A'3'%3A%20'3px'%2C%0A'5'%3A%20'5px'%2C%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">boxShadow</span>: {
+        <span class="hljs-comment inline">// Custom shadows</span>
+        <span class="hljs-string inline">&#x27;subtle&#x27;</span>: <span class="hljs-string inline">&#x27;0 1px 3px rgba(0, 0, 0, 0.05)&#x27;</span>,
+        <span class="hljs-string inline">&#x27;card&#x27;</span>: <span class="hljs-string inline">&#x27;0 4px 6px -1px rgba(0, 0, 0, 0.1)&#x27;</span>,
+        <span class="hljs-string inline">&#x27;large&#x27;</span>: <span class="hljs-string inline">&#x27;0 10px 25px -3px rgba(0, 0, 0, 0.1)&#x27;</span>,
+        <span class="hljs-string inline">&#x27;inner-subtle&#x27;</span>: <span class="hljs-string inline">&#x27;inset 0 1px 2px rgba(0, 0, 0, 0.05)&#x27;</span>,
+        
+        <span class="hljs-comment inline">// Colored shadows</span>
+        <span class="hljs-string inline">&#x27;primary&#x27;</span>: <span class="hljs-string inline">&#x27;0 4px 14px 0 rgba(59, 130, 246, 0.25)&#x27;</span>,
+        <span class="hljs-string inline">&#x27;success&#x27;</span>: <span class="hljs-string inline">&#x27;0 4px 14px 0 rgba(16, 185, 129, 0.25)&#x27;</span>,
+        <span class="hljs-string inline">&#x27;warning&#x27;</span>: <span class="hljs-string inline">&#x27;0 4px 14px 0 rgba(245, 158, 11, 0.25)&#x27;</span>,
+        <span class="hljs-string inline">&#x27;danger&#x27;</span>: <span class="hljs-string inline">&#x27;0 4px 14px 0 rgba(239, 68, 68, 0.25)&#x27;</span>,
+      },
+      
+      <span class="hljs-attr inline">borderRadius</span>: {
+        <span class="hljs-string inline">&#x27;xl&#x27;</span>: <span class="hljs-string inline">&#x27;1rem&#x27;</span>,
+        <span class="hljs-string inline">&#x27;2xl&#x27;</span>: <span class="hljs-string inline">&#x27;1.5rem&#x27;</span>,
+        <span class="hljs-string inline">&#x27;3xl&#x27;</span>: <span class="hljs-string inline">&#x27;2rem&#x27;</span>,
+      },
+      
+      <span class="hljs-attr inline">borderWidth</span>: {
+        <span class="hljs-string inline">&#x27;3&#x27;</span>: <span class="hljs-string inline">&#x27;3px&#x27;</span>,
+        <span class="hljs-string inline">&#x27;5&#x27;</span>: <span class="hljs-string inline">&#x27;5px&#x27;</span>,
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="theme-switching-implementation" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#theme-switching-implementation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Theme Switching Implementation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Theme Switching Implementation</strong>
+        </h3>
+<h4 id="react-theme-provider" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#react-theme-provider" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to React Theme Provider">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">React Theme Provider</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20contexts%2FThemeContext.js%0Aimport%20React%2C%20%7B%20createContext%2C%20useContext%2C%20useEffect%2C%20useState%20%7D%20from%20'react'%3B%0Aconst%20ThemeContext%20%3D%20createContext()%3B%0Aexport%20function%20ThemeProvider(%7B%20children%20%7D)%20%7B%0Aconst%20%5Btheme%2C%20setTheme%5D%20%3D%20useState('light')%3B%0AuseEffect(()%20%3D%3E%20%7B%0A%2F%2F%20Get%20theme%20from%20localStorage%20or%20system%20preference%0Aconst%20savedTheme%20%3D%20localStorage.getItem('theme')%3B%0Aconst%20systemTheme%20%3D%20window.matchMedia('(prefers-color-scheme%3A%20dark)').matches%20%3F%20'dark'%20%3A%20'light'%3B%0Aconst%20initialTheme%20%3D%20savedTheme%20%7C%7C%20systemTheme%3B%0AsetTheme(initialTheme)%3B%0Adocument.documentElement.classList.toggle('dark'%2C%20initialTheme%20%3D%3D%3D%20'dark')%3B%0A%7D%2C%20%5B%5D)%3B%0Aconst%20toggleTheme%20%3D%20()%20%3D%3E%20%7B%0Aconst%20newTheme%20%3D%20theme%20%3D%3D%3D%20'light'%20%3F%20'dark'%20%3A%20'light'%3B%0AsetTheme(newTheme)%3B%0AlocalStorage.setItem('theme'%2C%20newTheme)%3B%0Adocument.documentElement.classList.toggle('dark'%2C%20newTheme%20%3D%3D%3D%20'dark')%3B%0A%7D%3B%0Aconst%20setLightTheme%20%3D%20()%20%3D%3E%20%7B%0AsetTheme('light')%3B%0AlocalStorage.setItem('theme'%2C%20'light')%3B%0Adocument.documentElement.classList.remove('dark')%3B%0A%7D%3B%0Aconst%20setDarkTheme%20%3D%20()%20%3D%3E%20%7B%0AsetTheme('dark')%3B%0AlocalStorage.setItem('theme'%2C%20'dark')%3B%0Adocument.documentElement.classList.add('dark')%3B%0A%7D%3B%0Areturn%20(%0AThemeContext.Provider%20value%3D%7B%7B%0Atheme%2C%0AtoggleTheme%2C%0AsetLightTheme%2C%0AsetDarkTheme%2C%0AisDark%3A%20theme%20%3D%3D%3D%20'dark'%0A%7D%7D%3E%0A%7Bchildren%7D%0AThemeContext.Provider%3E%0A)%3B%0A%7D%0Aexport%20const%20useTheme%20%3D%20()%20%3D%3E%20%7B%0Aconst%20context%20%3D%20useContext(ThemeContext)%3B%0Aif%20(!context)%20%7B%0Athrow%20new%20Error('useTheme%20must%20be%20used%20within%20ThemeProvider')%3B%0A%7D%0Areturn%20context%3B%0A%7D%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// contexts/ThemeContext.js</span>
+<span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span>, { createContext, useContext, useEffect, useState } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+
+<span class="hljs-keyword inline">const</span> <span class="hljs-title class_ inline">ThemeContext</span> = <span class="hljs-title function_ inline">createContext</span>();
+
+<span class="hljs-keyword inline">export</span> <span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ThemeProvider</span>(<span class="hljs-params inline">{ children }</span>) {
+  <span class="hljs-keyword inline">const</span> [theme, setTheme] = <span class="hljs-title function_ inline">useState</span>(<span class="hljs-string inline">&#x27;light&#x27;</span>);
+
+  <span class="hljs-title function_ inline">useEffect</span>(<span class="hljs-function inline">() =&gt;</span> {
+    <span class="hljs-comment inline">// Get theme from localStorage or system preference</span>
+    <span class="hljs-keyword inline">const</span> savedTheme = <span class="hljs-variable language_ inline">localStorage</span>.<span class="hljs-title function_ inline">getItem</span>(<span class="hljs-string inline">&#x27;theme&#x27;</span>);
+    <span class="hljs-keyword inline">const</span> systemTheme = <span class="hljs-variable language_ inline">window</span>.<span class="hljs-title function_ inline">matchMedia</span>(<span class="hljs-string inline">&#x27;(prefers-color-scheme: dark)&#x27;</span>).<span class="hljs-property inline">matches</span> ? <span class="hljs-string inline">&#x27;dark&#x27;</span> : <span class="hljs-string inline">&#x27;light&#x27;</span>;
+    <span class="hljs-keyword inline">const</span> initialTheme = savedTheme || systemTheme;
+    
+    <span class="hljs-title function_ inline">setTheme</span>(initialTheme);
+    <span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">documentElement</span>.<span class="hljs-property inline">classList</span>.<span class="hljs-title function_ inline">toggle</span>(<span class="hljs-string inline">&#x27;dark&#x27;</span>, initialTheme === <span class="hljs-string inline">&#x27;dark&#x27;</span>);
+  }, []);
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">toggleTheme</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-keyword inline">const</span> newTheme = theme === <span class="hljs-string inline">&#x27;light&#x27;</span> ? <span class="hljs-string inline">&#x27;dark&#x27;</span> : <span class="hljs-string inline">&#x27;light&#x27;</span>;
+    <span class="hljs-title function_ inline">setTheme</span>(newTheme);
+    <span class="hljs-variable language_ inline">localStorage</span>.<span class="hljs-title function_ inline">setItem</span>(<span class="hljs-string inline">&#x27;theme&#x27;</span>, newTheme);
+    <span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">documentElement</span>.<span class="hljs-property inline">classList</span>.<span class="hljs-title function_ inline">toggle</span>(<span class="hljs-string inline">&#x27;dark&#x27;</span>, newTheme === <span class="hljs-string inline">&#x27;dark&#x27;</span>);
+  };
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">setLightTheme</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-title function_ inline">setTheme</span>(<span class="hljs-string inline">&#x27;light&#x27;</span>);
+    <span class="hljs-variable language_ inline">localStorage</span>.<span class="hljs-title function_ inline">setItem</span>(<span class="hljs-string inline">&#x27;theme&#x27;</span>, <span class="hljs-string inline">&#x27;light&#x27;</span>);
+    <span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">documentElement</span>.<span class="hljs-property inline">classList</span>.<span class="hljs-title function_ inline">remove</span>(<span class="hljs-string inline">&#x27;dark&#x27;</span>);
+  };
+
+  <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">setDarkTheme</span> = (<span class="hljs-params inline"></span>) =&gt; {
+    <span class="hljs-title function_ inline">setTheme</span>(<span class="hljs-string inline">&#x27;dark&#x27;</span>);
+    <span class="hljs-variable language_ inline">localStorage</span>.<span class="hljs-title function_ inline">setItem</span>(<span class="hljs-string inline">&#x27;theme&#x27;</span>, <span class="hljs-string inline">&#x27;dark&#x27;</span>);
+    <span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">documentElement</span>.<span class="hljs-property inline">classList</span>.<span class="hljs-title function_ inline">add</span>(<span class="hljs-string inline">&#x27;dark&#x27;</span>);
+  };
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">ThemeContext.Provider</span> <span class="hljs-attr inline">value</span>=<span class="hljs-string inline">{{</span>
+      <span class="hljs-attr inline">theme</span>,
+      <span class="hljs-attr inline">toggleTheme</span>,
+      <span class="hljs-attr inline">setLightTheme</span>,
+      <span class="hljs-attr inline">setDarkTheme</span>,
+      <span class="hljs-attr inline">isDark:</span> <span class="hljs-attr inline">theme</span> === <span class="hljs-string inline">&#x27;dark&#x27;</span>
+    }}&gt;</span>
+      {children}
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">ThemeContext.Provider</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">export</span> <span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">useTheme</span> = (<span class="hljs-params inline"></span>) =&gt; {
+  <span class="hljs-keyword inline">const</span> context = <span class="hljs-title function_ inline">useContext</span>(<span class="hljs-title class_ inline">ThemeContext</span>);
+  <span class="hljs-keyword inline">if</span> (!context) {
+    <span class="hljs-keyword inline">throw</span> <span class="hljs-keyword inline">new</span> <span class="hljs-title class_ inline">Error</span>(<span class="hljs-string inline">&#x27;useTheme must be used within ThemeProvider&#x27;</span>);
+  }
+  <span class="hljs-keyword inline">return</span> context;
+};
+</code></pre>
+            </div>
+        
+<h4 id="theme-toggle-component" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#theme-toggle-component" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Theme Toggle Component">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Theme Toggle Component</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20components%2FThemeToggle.jsx%0Aimport%20React%20from%20'react'%3B%0Aimport%20%7B%20useTheme%20%7D%20from%20'..%2Fcontexts%2FThemeContext'%3B%0Afunction%20ThemeToggle()%20%7B%0Aconst%20%7B%20theme%2C%20toggleTheme%2C%20isDark%20%7D%20%3D%20useTheme()%3B%0Areturn%20(%0Abutton%0AonClick%3D%7BtoggleTheme%7D%0AclassName%3D%7B%60%0Arelative%20inline-flex%20items-center%20h-6%20rounded-full%20w-11%0Atransition-colors%20duration-200%20ease-in-out%0A%24%7BisDark%20%3F%20'bg-blue-600'%20%3A%20'bg-gray-300'%7D%0Afocus%3Aoutline-none%20focus%3Aring-2%20focus%3Aring-offset-2%20focus%3Aring-blue-500%0A%60%7D%0Aaria-label%3D%22Toggle%20theme%22%0A%3E%0Aspan%0AclassName%3D%7B%60%0Ainline-block%20w-4%20h-4%20transform%20transition-transform%20duration-200%20ease-in-out%0Abg-white%20rounded-full%20shadow-lg%0A%24%7BisDark%20%3F%20'translate-x-6'%20%3A%20'translate-x-1'%7D%0A%60%7D%0A%2F%3E%0A%7B%2F*%20Icons%20*%2F%7D%0Aspan%20className%3D%22absolute%20left-1%20top-1%22%3E%0A%7BisDark%20%3F%20'%F0%9F%8C%99'%20%3A%20'%E2%98%80%EF%B8%8F'%7D%0Aspan%3E%0Abutton%3E%0A)%3B%0A%7D%0Aexport%20default%20ThemeToggle%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// components/ThemeToggle.jsx</span>
+<span class="hljs-keyword inline">import</span> <span class="hljs-title class_ inline">React</span> <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;react&#x27;</span>;
+<span class="hljs-keyword inline">import</span> { useTheme } <span class="hljs-keyword inline">from</span> <span class="hljs-string inline">&#x27;../contexts/ThemeContext&#x27;</span>;
+
+<span class="hljs-keyword inline">function</span> <span class="hljs-title function_ inline">ThemeToggle</span>(<span class="hljs-params inline"></span>) {
+  <span class="hljs-keyword inline">const</span> { theme, toggleTheme, isDark } = <span class="hljs-title function_ inline">useTheme</span>();
+
+  <span class="hljs-keyword inline">return</span> (
+    <span class="language-xml inline"><span class="hljs-tag inline">&lt;<span class="hljs-name inline">button</span>
+      <span class="hljs-attr inline">onClick</span>=<span class="hljs-string inline">{toggleTheme}</span>
+      <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">{</span>`
+        <span class="hljs-attr inline">relative</span> <span class="hljs-attr inline">inline-flex</span> <span class="hljs-attr inline">items-center</span> <span class="hljs-attr inline">h-6</span> <span class="hljs-attr inline">rounded-full</span> <span class="hljs-attr inline">w-11</span> 
+        <span class="hljs-attr inline">transition-colors</span> <span class="hljs-attr inline">duration-200</span> <span class="hljs-attr inline">ease-in-out</span>
+        ${<span class="hljs-attr inline">isDark</span> ? &#x27;<span class="hljs-attr inline">bg-blue-600</span>&#x27; <span class="hljs-attr inline">:</span> &#x27;<span class="hljs-attr inline">bg-gray-300</span>&#x27;}
+        <span class="hljs-attr inline">focus:outline-none</span> <span class="hljs-attr inline">focus:ring-2</span> <span class="hljs-attr inline">focus:ring-offset-2</span> <span class="hljs-attr inline">focus:ring-blue-500</span>
+      `}
+      <span class="hljs-attr inline">aria-label</span>=<span class="hljs-string inline">&quot;Toggle theme&quot;</span>
+    &gt;</span>
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">span</span>
+        <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">{</span>`
+          <span class="hljs-attr inline">inline-block</span> <span class="hljs-attr inline">w-4</span> <span class="hljs-attr inline">h-4</span> <span class="hljs-attr inline">transform</span> <span class="hljs-attr inline">transition-transform</span> <span class="hljs-attr inline">duration-200</span> <span class="hljs-attr inline">ease-in-out</span>
+          <span class="hljs-attr inline">bg-white</span> <span class="hljs-attr inline">rounded-full</span> <span class="hljs-attr inline">shadow-lg</span>
+          ${<span class="hljs-attr inline">isDark</span> ? &#x27;<span class="hljs-attr inline">translate-x-6</span>&#x27; <span class="hljs-attr inline">:</span> &#x27;<span class="hljs-attr inline">translate-x-1</span>&#x27;}
+        `}
+      /&gt;</span>
+      
+      {/* Icons */}
+      <span class="hljs-tag inline">&lt;<span class="hljs-name inline">span</span> <span class="hljs-attr inline">className</span>=<span class="hljs-string inline">&quot;absolute left-1 top-1&quot;</span>&gt;</span>
+        {isDark ? &#x27;🌙&#x27; : &#x27;☀️&#x27;}
+      <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">span</span>&gt;</span>
+    <span class="hljs-tag inline">&lt;/<span class="hljs-name inline">button</span>&gt;</span></span>
+  );
+}
+
+<span class="hljs-keyword inline">export</span> <span class="hljs-keyword inline">default</span> <span class="hljs-title class_ inline">ThemeToggle</span>;
+</code></pre>
+            </div>
+        
+<h3 id="multi-theme-support" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#multi-theme-support" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Multi-theme Support">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Multi-theme Support</strong>
+        </h3>
+<h4 id="multiple-theme-configuration" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#multiple-theme-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Multiple Theme Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Multiple Theme Configuration</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0Acolors%3A%20%7B%0A%2F%2F%20Theme-specific%20colors%20using%20CSS%20variables%0Aprimary%3A%20'var(--color-primary)'%2C%0Asecondary%3A%20'var(--color-secondary)'%2C%0Aaccent%3A%20'var(--color-accent)'%2C%0Abackground%3A%20'var(--color-background)'%2C%0Asurface%3A%20'var(--color-surface)'%2C%0Atext%3A%20'var(--color-text)'%2C%0A%7D%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-attr inline">colors</span>: {
+        <span class="hljs-comment inline">// Theme-specific colors using CSS variables</span>
+        <span class="hljs-attr inline">primary</span>: <span class="hljs-string inline">&#x27;var(--color-primary)&#x27;</span>,
+        <span class="hljs-attr inline">secondary</span>: <span class="hljs-string inline">&#x27;var(--color-secondary)&#x27;</span>,
+        <span class="hljs-attr inline">accent</span>: <span class="hljs-string inline">&#x27;var(--color-accent)&#x27;</span>,
+        <span class="hljs-attr inline">background</span>: <span class="hljs-string inline">&#x27;var(--color-background)&#x27;</span>,
+        <span class="hljs-attr inline">surface</span>: <span class="hljs-string inline">&#x27;var(--color-surface)&#x27;</span>,
+        <span class="hljs-attr inline">text</span>: <span class="hljs-string inline">&#x27;var(--color-text)&#x27;</span>,
+      }
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%2F*%20styles%2Fthemes.css%20*%2F%0A%3Aroot%20%7B%0A%2F*%20Default%20light%20theme%20*%2F%0A--color-primary%3A%20%233b82f6%3B%0A--color-secondary%3A%20%236b7280%3B%0A--color-accent%3A%20%2310b981%3B%0A--color-background%3A%20%23ffffff%3B%0A--color-surface%3A%20%23f8fafc%3B%0A--color-text%3A%20%231f2937%3B%0A%7D%0A%5Bdata-theme%3D%22dark%22%5D%20%7B%0A--color-primary%3A%20%2360a5fa%3B%0A--color-secondary%3A%20%239ca3af%3B%0A--color-accent%3A%20%2334d399%3B%0A--color-background%3A%20%23111827%3B%0A--color-surface%3A%20%231f2937%3B%0A--color-text%3A%20%23f9fafb%3B%0A%7D%0A%5Bdata-theme%3D%22blue%22%5D%20%7B%0A--color-primary%3A%20%231e40af%3B%0A--color-secondary%3A%20%233730a3%3B%0A--color-accent%3A%20%230ea5e9%3B%0A--color-background%3A%20%23eff6ff%3B%0A--color-surface%3A%20%23dbeafe%3B%0A--color-text%3A%20%231e3a8a%3B%0A%7D%0A%5Bdata-theme%3D%22green%22%5D%20%7B%0A--color-primary%3A%20%23059669%3B%0A--color-secondary%3A%20%23047857%3B%0A--color-accent%3A%20%2310b981%3B%0A--color-background%3A%20%23ecfdf5%3B%0A--color-surface%3A%20%23d1fae5%3B%0A--color-text%3A%20%23064e3b%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-comment inline">/* styles/themes.css */</span>
+<span class="hljs-selector-pseudo inline">:root</span> {
+  <span class="hljs-comment inline">/* Default light theme */</span>
+  <span class="hljs-attr inline">--color-primary</span>: <span class="hljs-number inline">#3b82f6</span>;
+  <span class="hljs-attr inline">--color-secondary</span>: <span class="hljs-number inline">#6b7280</span>;
+  <span class="hljs-attr inline">--color-accent</span>: <span class="hljs-number inline">#10b981</span>;
+  <span class="hljs-attr inline">--color-background</span>: <span class="hljs-number inline">#ffffff</span>;
+  <span class="hljs-attr inline">--color-surface</span>: <span class="hljs-number inline">#f8fafc</span>;
+  <span class="hljs-attr inline">--color-text</span>: <span class="hljs-number inline">#1f2937</span>;
+}
+
+<span class="hljs-selector-attr inline">[data-theme=<span class="hljs-string inline">&quot;dark&quot;</span>]</span> {
+  <span class="hljs-attr inline">--color-primary</span>: <span class="hljs-number inline">#60a5fa</span>;
+  <span class="hljs-attr inline">--color-secondary</span>: <span class="hljs-number inline">#9ca3af</span>;
+  <span class="hljs-attr inline">--color-accent</span>: <span class="hljs-number inline">#34d399</span>;
+  <span class="hljs-attr inline">--color-background</span>: <span class="hljs-number inline">#111827</span>;
+  <span class="hljs-attr inline">--color-surface</span>: <span class="hljs-number inline">#1f2937</span>;
+  <span class="hljs-attr inline">--color-text</span>: <span class="hljs-number inline">#f9fafb</span>;
+}
+
+<span class="hljs-selector-attr inline">[data-theme=<span class="hljs-string inline">&quot;blue&quot;</span>]</span> {
+  <span class="hljs-attr inline">--color-primary</span>: <span class="hljs-number inline">#1e40af</span>;
+  <span class="hljs-attr inline">--color-secondary</span>: <span class="hljs-number inline">#3730a3</span>;
+  <span class="hljs-attr inline">--color-accent</span>: <span class="hljs-number inline">#0ea5e9</span>;
+  <span class="hljs-attr inline">--color-background</span>: <span class="hljs-number inline">#eff6ff</span>;
+  <span class="hljs-attr inline">--color-surface</span>: <span class="hljs-number inline">#dbeafe</span>;
+  <span class="hljs-attr inline">--color-text</span>: <span class="hljs-number inline">#1e3a8a</span>;
+}
+
+<span class="hljs-selector-attr inline">[data-theme=<span class="hljs-string inline">&quot;green&quot;</span>]</span> {
+  <span class="hljs-attr inline">--color-primary</span>: <span class="hljs-number inline">#059669</span>;
+  <span class="hljs-attr inline">--color-secondary</span>: <span class="hljs-number inline">#047857</span>;
+  <span class="hljs-attr inline">--color-accent</span>: <span class="hljs-number inline">#10b981</span>;
+  <span class="hljs-attr inline">--color-background</span>: <span class="hljs-number inline">#ecfdf5</span>;
+  <span class="hljs-attr inline">--color-surface</span>: <span class="hljs-number inline">#d1fae5</span>;
+  <span class="hljs-attr inline">--color-text</span>: <span class="hljs-number inline">#064e3b</span>;
+}
+</code></pre>
+            </div>
+        
+<h3 id="performance-optimization" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#performance-optimization" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Performance Optimization">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Performance Optimization</strong>
+        </h3>
+<h4 id="purge-css-configuration" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#purge-css-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Purge CSS Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Purge CSS Configuration</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Acontent%3A%20%5B%0A'.%2Fsrc%2F**%2F*.%7Bjs%2Cjsx%2Cts%2Ctsx%7D'%2C%0A'.%2Fpublic%2Findex.html'%2C%0A'.%2Fcomponents%2F**%2F*.%7Bjs%2Cjsx%2Cts%2Ctsx%7D'%2C%0A%5D%2C%0A%2F%2F%20Safe%20list%20for%20dynamic%20classes%0Asafelist%3A%20%5B%0A'bg-red-500'%2C%0A'text-blue-600'%2C%0A%7B%0Apattern%3A%20%2Fbg-(red%7Cgreen%7Cblue)-(100%7C200%7C300%7C400%7C500%7C600%7C700%7C800%7C900)%2F%2C%0Avariants%3A%20%5B'hover'%2C%20'focus'%2C%20'dark'%5D%2C%0A%7D%2C%0A%5D%2C%0Atheme%3A%20%7B%0A%2F%2F%20Theme%20configuration%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">content</span>: [
+    <span class="hljs-string inline">&#x27;./src/**/*.{js,jsx,ts,tsx}&#x27;</span>,
+    <span class="hljs-string inline">&#x27;./public/index.html&#x27;</span>,
+    <span class="hljs-string inline">&#x27;./components/**/*.{js,jsx,ts,tsx}&#x27;</span>,
+  ],
+  
+  <span class="hljs-comment inline">// Safe list for dynamic classes</span>
+  <span class="hljs-attr inline">safelist</span>: [
+    <span class="hljs-string inline">&#x27;bg-red-500&#x27;</span>,
+    <span class="hljs-string inline">&#x27;text-blue-600&#x27;</span>,
+    {
+      <span class="hljs-attr inline">pattern</span>: <span class="hljs-regexp inline">/bg-(red|green|blue)-(100|200|300|400|500|600|700|800|900)/</span>,
+      <span class="hljs-attr inline">variants</span>: [<span class="hljs-string inline">&#x27;hover&#x27;</span>, <span class="hljs-string inline">&#x27;focus&#x27;</span>, <span class="hljs-string inline">&#x27;dark&#x27;</span>],
+    },
+  ],
+  
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-comment inline">// Theme configuration</span>
+  }
+}
+</code></pre>
+            </div>
+        
+<h4 id="jit-mode-configuration" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#jit-mode-configuration" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to JIT Mode Configuration">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">JIT Mode Configuration</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Amodule.exports%20%3D%20%7B%0Amode%3A%20'jit'%2C%20%2F%2F%20Just-in-Time%20mode%0Apurge%3A%20%7B%0Acontent%3A%20%5B'.%2Fsrc%2F**%2F*.%7Bhtml%2Cjs%2Cjsx%2Cts%2Ctsx%7D'%5D%2C%0Aoptions%3A%20%7B%0Asafelist%3A%20%5B'dark'%5D%2C%20%2F%2F%20Preserve%20dark%20mode%20class%0A%7D%0A%7D%2C%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0A%2F%2F%20Your%20theme%20extensions%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">mode</span>: <span class="hljs-string inline">&#x27;jit&#x27;</span>, <span class="hljs-comment inline">// Just-in-Time mode</span>
+  <span class="hljs-attr inline">purge</span>: {
+    <span class="hljs-attr inline">content</span>: [<span class="hljs-string inline">&#x27;./src/**/*.{html,js,jsx,ts,tsx}&#x27;</span>],
+    <span class="hljs-attr inline">options</span>: {
+      <span class="hljs-attr inline">safelist</span>: [<span class="hljs-string inline">&#x27;dark&#x27;</span>], <span class="hljs-comment inline">// Preserve dark mode class</span>
+    }
+  },
+  
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      <span class="hljs-comment inline">// Your theme extensions</span>
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="best-practices" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#best-practices" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Best Practices">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Best Practices</strong>
+        </h3>
+<h4 id="design-token-organization" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#design-token-organization" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Design Token Organization">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Design Token Organization</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20config%2Fdesign-tokens.js%0Aconst%20colors%20%3D%20%7B%0Abrand%3A%20%7B%0Aprimary%3A%20'%233b82f6'%2C%0Asecondary%3A%20'%236b7280'%2C%0Aaccent%3A%20'%2310b981'%2C%0A%7D%2C%0Asemantic%3A%20%7B%0Asuccess%3A%20'%2310b981'%2C%0Awarning%3A%20'%23f59e0b'%2C%0Aerror%3A%20'%23ef4444'%2C%0Ainfo%3A%20'%233b82f6'%2C%0A%7D%2C%0Aneutral%3A%20%7B%0A50%3A%20'%23f8fafc'%2C%0A100%3A%20'%23f1f5f9'%2C%0A%2F%2F%20...%20more%20neutral%20colors%0A900%3A%20'%230f172a'%2C%0A%7D%0A%7D%3B%0Aconst%20spacing%20%3D%20%7B%0Axs%3A%20'0.5rem'%2C%0Asm%3A%20'1rem'%2C%0Amd%3A%20'1.5rem'%2C%0Alg%3A%20'2rem'%2C%0Axl%3A%20'3rem'%2C%0A'2xl'%3A%20'4rem'%2C%0A%7D%3B%0Aconst%20typography%20%3D%20%7B%0AfontFamily%3A%20%7B%0Asans%3A%20%5B'Inter'%2C%20'system-ui'%2C%20'sans-serif'%5D%2C%0Aserif%3A%20%5B'Merriweather'%2C%20'Georgia'%2C%20'serif'%5D%2C%0Amono%3A%20%5B'Fira%20Code'%2C%20'monospace'%5D%2C%0A%7D%2C%0AfontSize%3A%20%7B%0A'xs'%3A%20%5B'0.75rem'%2C%20'1rem'%5D%2C%0A'sm'%3A%20%5B'0.875rem'%2C%20'1.25rem'%5D%2C%0A'base'%3A%20%5B'1rem'%2C%20'1.5rem'%5D%2C%0A'lg'%3A%20%5B'1.125rem'%2C%20'1.75rem'%5D%2C%0A'xl'%3A%20%5B'1.25rem'%2C%20'1.75rem'%5D%2C%0A%7D%0A%7D%3B%0Amodule.exports%20%3D%20%7B%20colors%2C%20spacing%2C%20typography%20%7D%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// config/design-tokens.js</span>
+<span class="hljs-keyword inline">const</span> colors = {
+  <span class="hljs-attr inline">brand</span>: {
+    <span class="hljs-attr inline">primary</span>: <span class="hljs-string inline">&#x27;#3b82f6&#x27;</span>,
+    <span class="hljs-attr inline">secondary</span>: <span class="hljs-string inline">&#x27;#6b7280&#x27;</span>,
+    <span class="hljs-attr inline">accent</span>: <span class="hljs-string inline">&#x27;#10b981&#x27;</span>,
+  },
+  <span class="hljs-attr inline">semantic</span>: {
+    <span class="hljs-attr inline">success</span>: <span class="hljs-string inline">&#x27;#10b981&#x27;</span>,
+    <span class="hljs-attr inline">warning</span>: <span class="hljs-string inline">&#x27;#f59e0b&#x27;</span>,
+    <span class="hljs-attr inline">error</span>: <span class="hljs-string inline">&#x27;#ef4444&#x27;</span>,
+    <span class="hljs-attr inline">info</span>: <span class="hljs-string inline">&#x27;#3b82f6&#x27;</span>,
+  },
+  <span class="hljs-attr inline">neutral</span>: {
+    <span class="hljs-number inline">50</span>: <span class="hljs-string inline">&#x27;#f8fafc&#x27;</span>,
+    <span class="hljs-number inline">100</span>: <span class="hljs-string inline">&#x27;#f1f5f9&#x27;</span>,
+    <span class="hljs-comment inline">// ... more neutral colors</span>
+    <span class="hljs-number inline">900</span>: <span class="hljs-string inline">&#x27;#0f172a&#x27;</span>,
+  }
+};
+
+<span class="hljs-keyword inline">const</span> spacing = {
+  <span class="hljs-attr inline">xs</span>: <span class="hljs-string inline">&#x27;0.5rem&#x27;</span>,
+  <span class="hljs-attr inline">sm</span>: <span class="hljs-string inline">&#x27;1rem&#x27;</span>,
+  <span class="hljs-attr inline">md</span>: <span class="hljs-string inline">&#x27;1.5rem&#x27;</span>,
+  <span class="hljs-attr inline">lg</span>: <span class="hljs-string inline">&#x27;2rem&#x27;</span>,
+  <span class="hljs-attr inline">xl</span>: <span class="hljs-string inline">&#x27;3rem&#x27;</span>,
+  <span class="hljs-string inline">&#x27;2xl&#x27;</span>: <span class="hljs-string inline">&#x27;4rem&#x27;</span>,
+};
+
+<span class="hljs-keyword inline">const</span> typography = {
+  <span class="hljs-attr inline">fontFamily</span>: {
+    <span class="hljs-attr inline">sans</span>: [<span class="hljs-string inline">&#x27;Inter&#x27;</span>, <span class="hljs-string inline">&#x27;system-ui&#x27;</span>, <span class="hljs-string inline">&#x27;sans-serif&#x27;</span>],
+    <span class="hljs-attr inline">serif</span>: [<span class="hljs-string inline">&#x27;Merriweather&#x27;</span>, <span class="hljs-string inline">&#x27;Georgia&#x27;</span>, <span class="hljs-string inline">&#x27;serif&#x27;</span>],
+    <span class="hljs-attr inline">mono</span>: [<span class="hljs-string inline">&#x27;Fira Code&#x27;</span>, <span class="hljs-string inline">&#x27;monospace&#x27;</span>],
+  },
+  <span class="hljs-attr inline">fontSize</span>: {
+    <span class="hljs-string inline">&#x27;xs&#x27;</span>: [<span class="hljs-string inline">&#x27;0.75rem&#x27;</span>, <span class="hljs-string inline">&#x27;1rem&#x27;</span>],
+    <span class="hljs-string inline">&#x27;sm&#x27;</span>: [<span class="hljs-string inline">&#x27;0.875rem&#x27;</span>, <span class="hljs-string inline">&#x27;1.25rem&#x27;</span>],
+    <span class="hljs-string inline">&#x27;base&#x27;</span>: [<span class="hljs-string inline">&#x27;1rem&#x27;</span>, <span class="hljs-string inline">&#x27;1.5rem&#x27;</span>],
+    <span class="hljs-string inline">&#x27;lg&#x27;</span>: [<span class="hljs-string inline">&#x27;1.125rem&#x27;</span>, <span class="hljs-string inline">&#x27;1.75rem&#x27;</span>],
+    <span class="hljs-string inline">&#x27;xl&#x27;</span>: [<span class="hljs-string inline">&#x27;1.25rem&#x27;</span>, <span class="hljs-string inline">&#x27;1.75rem&#x27;</span>],
+  }
+};
+
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = { colors, spacing, typography };
+</code></pre>
+            </div>
+        
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="javascript" data-code="%2F%2F%20tailwind.config.js%0Aconst%20%7B%20colors%2C%20spacing%2C%20typography%20%7D%20%3D%20require('.%2Fconfig%2Fdesign-tokens')%3B%0Amodule.exports%20%3D%20%7B%0Atheme%3A%20%7B%0Aextend%3A%20%7B%0Acolors%2C%0Aspacing%2C%0A...typography%2C%0A%7D%0A%7D%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">javascript</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-javascript"><span class="hljs-comment inline">// tailwind.config.js</span>
+<span class="hljs-keyword inline">const</span> { colors, spacing, typography } = <span class="hljs-built_in inline">require</span>(<span class="hljs-string inline">&#x27;./config/design-tokens&#x27;</span>);
+
+<span class="hljs-variable language_ inline">module</span>.<span class="hljs-property inline">exports</span> = {
+  <span class="hljs-attr inline">theme</span>: {
+    <span class="hljs-attr inline">extend</span>: {
+      colors,
+      spacing,
+      ...typography,
+    }
+  }
+}
+</code></pre>
+            </div>
+        
+<h3 id="common-pitfalls-and-solutions" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#common-pitfalls-and-solutions" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Common Pitfalls and Solutions">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Common Pitfalls and Solutions</strong>
+        </h3>
+<h4 id="css-variable-fallbacks" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#css-variable-fallbacks" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to CSS Variable Fallbacks">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">CSS Variable Fallbacks</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="css" data-code="%2F*%20Provide%20fallbacks%20for%20CSS%20variables%20*%2F%0A.element%20%7B%0Abackground-color%3A%20%233b82f6%3B%20%2F*%20Fallback%20*%2F%0Abackground-color%3A%20var(--color-primary%2C%20%233b82f6)%3B%0A%7D">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">css</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-css"><span class="hljs-comment inline">/* Provide fallbacks for CSS variables */</span>
+<span class="hljs-selector-class inline">.element</span> {
+  <span class="hljs-attribute inline">background-color</span>: <span class="hljs-number inline">#3b82f6</span>; <span class="hljs-comment inline">/* Fallback */</span>
+  <span class="hljs-attribute inline">background-color</span>: <span class="hljs-built_in inline">var</span>(--color-primary, <span class="hljs-number inline">#3b82f6</span>);
+}
+</code></pre>
+            </div>
+        
+<h4 id="dark-mode-flashing" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#dark-mode-flashing" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Dark Mode Flashing">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Dark Mode Flashing</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="html" data-code="script%3E%0A(function()%20%7B%0Aconst%20theme%20%3D%20localStorage.getItem('theme')%20%7C%7C%0A(window.matchMedia('(prefers-color-scheme%3A%20dark)').matches%20%3F%20'dark'%20%3A%20'light')%3B%0Aif%20(theme%20%3D%3D%3D%20'dark')%20%7B%0Adocument.documentElement.classList.add('dark')%3B%0A%7D%0A%7D)()%3B%0Ascript%3E">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">html</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-html"><span class="hljs-comment inline">&lt;!-- Prevent flash of unstyled content --&gt;</span>
+<span class="hljs-tag inline">&lt;<span class="hljs-name inline">script</span>&gt;</span><span class="language-javascript inline">
+  (<span class="hljs-keyword inline">function</span>(<span class="hljs-params inline"></span>) {
+    <span class="hljs-keyword inline">const</span> theme = <span class="hljs-variable language_ inline">localStorage</span>.<span class="hljs-title function_ inline">getItem</span>(<span class="hljs-string inline">&#x27;theme&#x27;</span>) || 
+      (<span class="hljs-variable language_ inline">window</span>.<span class="hljs-title function_ inline">matchMedia</span>(<span class="hljs-string inline">&#x27;(prefers-color-scheme: dark)&#x27;</span>).<span class="hljs-property inline">matches</span> ? <span class="hljs-string inline">&#x27;dark&#x27;</span> : <span class="hljs-string inline">&#x27;light&#x27;</span>);
+    
+    <span class="hljs-keyword inline">if</span> (theme === <span class="hljs-string inline">&#x27;dark&#x27;</span>) {
+      <span class="hljs-variable language_ inline">document</span>.<span class="hljs-property inline">documentElement</span>.<span class="hljs-property inline">classList</span>.<span class="hljs-title function_ inline">add</span>(<span class="hljs-string inline">&#x27;dark&#x27;</span>);
+    }
+  })();
+</span><span class="hljs-tag inline">&lt;/<span class="hljs-name inline">script</span>&gt;</span>
+</code></pre>
+            </div>
+        
+<h4 id="dynamic-class-generation" class="group relative text-xl font-medium mt-4 mb-2 text-foreground leading-snug">
+            <a href="#dynamic-class-generation" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Dynamic Class Generation">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Dynamic Class Generation</strong>
+        </h4>
+
+            <div class="enhanced-codeblock relative mb-6 rounded-lg border bg-background border-gray-200 dark:border-gray-700 overflow-hidden shadow-sm" data-enhanced-codeblock="true" data-language="jsx" data-code="%2F%2F%20Wrong%3A%20Dynamic%20classes%20might%20be%20purged%0Aconst%20getButtonColor%20%3D%20(color)%20%3D%3E%20%60bg-%24%7Bcolor%7D-500%60%3B%0A%2F%2F%20Right%3A%20Use%20safelist%20or%20complete%20class%20names%0Aconst%20getButtonColor%20%3D%20(color)%20%3D%3E%20%7B%0Aconst%20colors%20%3D%20%7B%0Ablue%3A%20'bg-blue-500'%2C%0Ared%3A%20'bg-red-500'%2C%0Agreen%3A%20'bg-green-500'%2C%0A%7D%3B%0Areturn%20colors%5Bcolor%5D%20%7C%7C%20'bg-gray-500'%3B%0A%7D%3B">
+                <div class="codeblock-header flex items-center justify-between px-4 py-2 bg-surface border-b border-gray-200 dark:border-gray-700">
+                    <span class="codeblock-language text-xs font-medium uppercase tracking-wide text-foreground opacity-70 inline">jsx</span>
+                    <button class="codeblock-copy-btn inline-flex items-center gap-1.5 px-2 py-1 text-xs font-medium border rounded transition-all duration-200 bg-background hover:bg-surface text-foreground hover:text-primary border-gray-300 dark:border-gray-600 hover:scale-105 active:scale-95" title="Copy code">
+                        <svg class="copy-icon w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                            <path d="M8 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" />
+                            <path d="M6 3a2 2 0 00-2 2v11a2 2 0 002 2h8a2 2 0 002-2V5a2 2 0 00-2-2 3 3 0 01-3 3H9a3 3 0 01-3-3z" />
+                        </svg>
+                        <svg class="copied-icon w-4 h-4 hidden" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                        <span class="copy-text inline">Copy</span>
+                    </button>
+                </div>
+                <pre class="codeblock-content p-4 overflow-x-auto font-mono text-sm leading-relaxed bg-surface text-foreground"><code class="language-jsx"><span class="hljs-comment inline">// Wrong: Dynamic classes might be purged</span>
+<span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">getButtonColor</span> = (<span class="hljs-params inline">color</span>) =&gt; <span class="hljs-string inline">`bg-<span class="hljs-subst inline">${color}</span>-500`</span>;
+
+<span class="hljs-comment inline">// Right: Use safelist or complete class names</span>
+<span class="hljs-keyword inline">const</span> <span class="hljs-title function_ inline">getButtonColor</span> = (<span class="hljs-params inline">color</span>) =&gt; {
+  <span class="hljs-keyword inline">const</span> colors = {
+    <span class="hljs-attr inline">blue</span>: <span class="hljs-string inline">&#x27;bg-blue-500&#x27;</span>,
+    <span class="hljs-attr inline">red</span>: <span class="hljs-string inline">&#x27;bg-red-500&#x27;</span>,
+    <span class="hljs-attr inline">green</span>: <span class="hljs-string inline">&#x27;bg-green-500&#x27;</span>,
+  };
+  <span class="hljs-keyword inline">return</span> colors[color] || <span class="hljs-string inline">&#x27;bg-gray-500&#x27;</span>;
+};
+</code></pre>
+            </div>
+        
+<h3 id="important-considerations" class="group relative text-2xl font-semibold mt-5 mb-2 text-foreground leading-snug">
+            <a href="#important-considerations" class="absolute -left-6 top-0 opacity-0 group-hover:opacity-100 transition-opacity text-primary/60 hover:text-primary" aria-label="Link to Important Considerations">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M12.586 4.586a2 2 0 112.828 2.828l-3 3a2 2 0 01-2.828 0 1 1 0 11.414-1.414 4 4 0 105.656 0l3-3a4 4 0 00-5.656-5.656l-1.5 1.5a1 1 0 101.414 1.414l1.5-1.5zm-5 5a2 2 0 012.828 0 1 1 0 101.414-1.414 4 4 0 10-5.656 0l-3 3a4 4 0 105.656 5.656l1.5-1.5a1 1 0 10-1.414-1.414l-1.5 1.5a2 2 0 11-2.828-2.828l3-3z" clip-rule="evenodd" />
+                </svg>
+            </a>
+            <strong class="font-bold text-foreground">Important Considerations</strong>
+        </h3>
+<ul class="list-disc list-inside mb-4 pl-6 space-y-2">
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Performance</strong>: Use JIT mode and proper purging to minimize CSS bundle size</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Accessibility</strong>: Ensure sufficient color contrast in all themes</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">System preferences</strong>: Respect user’s system color scheme preferences</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Progressive enhancement</strong>: Provide fallbacks for CSS variables</li>
+<li class="text-foreground leading-relaxed"><strong class="font-bold text-foreground">Consistency</strong>: Use design tokens consistently across the entire project</li>
+</ul>
+<p class="text-base leading-7 mb-4 text-foreground">Tailwind CSS theme system provides powerful tools for creating consistent, maintainable, and flexible design systems that can adapt to various requirements and user preferences.</p>
+d:["$","$L1d",null,{"htmlContent":"$1e","frontMatter":{"title":"Tailwind CSS Theme","description":"Fundamentals - Tailwind CSS Theme","date":"2025-06-22","author":"MilkWind","tags":["TailwindCSS","Fundamentals","Theme","CSS"],"references":{}},"readingTime":"11 min read","category":"basic-knowledge","tocItems":[{"id":"basic-purpose","text":"Basic Purpose","level":3},{"id":"basic-configuration-structure","text":"Basic Configuration Structure","level":3},{"id":"color-system-configuration","text":"Color System Configuration","level":3},{"id":"basic-color-configuration","text":"Basic Color Configuration","level":4},{"id":"css-variables-for-dynamic-colors","text":"CSS Variables for Dynamic Colors","level":4},{"id":"dark-mode-configuration","text":"Dark Mode Configuration","level":3},{"id":"class-based-dark-mode","text":"Class-based Dark Mode","level":4},{"id":"media-query-based-dark-mode","text":"Media Query-based Dark Mode","level":4},{"id":"typography-system","text":"Typography System","level":3},{"id":"custom-font-configuration","text":"Custom Font Configuration","level":4},{"id":"typography-component-classes","text":"Typography Component Classes","level":4},{"id":"spacing-and-layout-system","text":"Spacing and Layout System","level":3},{"id":"custom-spacing-configuration","text":"Custom Spacing Configuration","level":4},{"id":"container-configuration","text":"Container Configuration","level":4},{"id":"responsive-design-configuration","text":"Responsive Design Configuration","level":3},{"id":"custom-breakpoints","text":"Custom Breakpoints","level":4},{"id":"responsive-typography","text":"Responsive Typography","level":4},{"id":"component-patterns","text":"Component Patterns","level":3},{"id":"button-system","text":"Button System","level":4},{"id":"card-components","text":"Card Components","level":4},{"id":"advanced-theme-configuration","text":"Advanced Theme Configuration","level":3},{"id":"animation-and-transition-system","text":"Animation and Transition System","level":4},{"id":"shadow-and-border-system","text":"Shadow and Border System","level":4},{"id":"theme-switching-implementation","text":"Theme Switching Implementation","level":3},{"id":"react-theme-provider","text":"React Theme Provider","level":4},{"id":"theme-toggle-component","text":"Theme Toggle Component","level":4},{"id":"multi-theme-support","text":"Multi-theme Support","level":3},{"id":"multiple-theme-configuration","text":"Multiple Theme Configuration","level":4},{"id":"performance-optimization","text":"Performance Optimization","level":3},{"id":"purge-css-configuration","text":"Purge CSS Configuration","level":4},{"id":"jit-mode-configuration","text":"JIT Mode Configuration","level":4},{"id":"best-practices","text":"Best Practices","level":3},{"id":"design-token-organization","text":"Design Token Organization","level":4},{"id":"common-pitfalls-and-solutions","text":"Common Pitfalls and Solutions","level":3},{"id":"css-variable-fallbacks","text":"CSS Variable Fallbacks","level":4},{"id":"dark-mode-flashing","text":"Dark Mode Flashing","level":4},{"id":"dynamic-class-generation","text":"Dynamic Class Generation","level":4},{"id":"important-considerations","text":"Important Considerations","level":3}],"translations":{"common":{"welcome":"Welcome","loading":"Loading...","error":"Something went wrong","retry":"Try again","theme":"Theme","language":"Language","light":"Light","dark":"Dark"},"navigation":{"home":"Home","personal":"Personal","works":"Works","contributions":"Contributions","documents":"Documents","about":"About","contact":"Contact"},"personal":{"technicalSkills":"Technical Skills","email":"Email","github":"GitHub","resume":"Resume","codeRepository":"Code Repository","loadingPersonalInfo":"Loading personal information...","loadingResume":"Loading resume...","closeResume":"Close Resume","emailCopied":"Email copied to clipboard!","galaxyDefaultDescription":"Expert in full-stack development, cross-platform architecture, AI technology integration, and high-performance system optimization","skillGalaxy":"Skill Galaxy","stirGalaxy":"Stir Galaxy","stirring":"Stirring...","fullStackEngineer":"MilkWind - Full Stack Engineer","professionalProfile":"About Me"},"documents":{"technicalDocuments":"Technical Documents","description":"Basic principles, code splitting, and some random thoughts.","articles":"Articles","categories":"Categories","allCategories":"All Categories","noArticlesFound":"No articles found","noArticlesAvailable":"No articles available in English.","noArticlesInCategory":"No articles found in the category.","readMore":"Read more","loadingDocuments":"Loading documents...","backToDocuments":"← Back to Documents","documentNotFound":"Document Not Found","documentNotFoundDescription":"The requested document could not be found.","technicalInsights":"Insights","untitledDocument":"Untitled Document","byAuthor":"By","search":"Search articles...","searchByTags":"Filter by tags","searching":"Searching...","noSearchResults":"No articles match your search criteria","clearSearch":"Clear search","selectedTags":"Selected tags","allTags":"All tags","searchInTitle":"Search in titles, descriptions, and content","enterImmersiveMode":"Immersive Reading","exitImmersiveMode":"Exit Immersive Mode","immersiveReading":"Immersive Reading Mode","exploreContent":"Explore content by category","browseBy":"Browse by","exploreAll":"All content in one place","categoryDescription":"Articles in this category","totalArticles":"Articles","totalCategories":"Categories","foundArticles":"Found articles","categoriesWithResults":"Categories with results"},"works":{"workCases":"Work Cases","projects":"Portfolio","loadingProjects":"Loading projects...","grid":"Grid","stack":"Stack","of":"of","workCasesPageTitle":"Work Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contributions":{"contributionCases":"Open Source","contributions":"Contributions","loadingContributions":"Loading contributions...","grid":"Grid","stack":"Stack","of":"of","contributionCasesPageTitle":"Contribution Cases Page","pageWorkingCorrectly":"This page is working! The routing is correct.","try3DVersion":"Try 3D Version","dragToScroll":"Drag to scroll","dragToChange":"Drag to change","swipeCards":"Swipe cards","keyboardNav":"Keyboard navigation"},"contribution":{"contributionPreview":"Contribution Preview","accessible":"Accessible","code":"Code","maintenance":"Maintenance","enhancement":"Enhancement","documentation":"Documentation","community":"Community","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","contributionDetail":"Contribution Detail","description":"Description:","seeDetails":"See Details","github":"GitHub","viewContribution":"View Contribution","viewCode":"View Code"},"project":{"projectPreview":"Project Preview","accessible":"Accessible","tool":"Tool","plugin":"Plugin","toy":"Toy","moreItems":"more","technicalDetails":"Technical Details","technologies":"Technologies:","description":"Description:","seeDetails":"See Details","github":"GitHub","gitee":"Gitee","viewLiveDemo":"View Live Demo","viewCode":"View Code","access":"Access","videos":"Videos","watchVideo":"Watch Video","hasVideo":"Has Video"},"codeblock":{"copy":"Copy","copySuccess":"Code copied to clipboard!","copyError":"Failed to copy code","copyTooltip":"Copy code"},"toc":{"contents":"Contents","autoScroll":"Auto-scroll to section","collapse":"Collapse","expand":"Expand"},"loading":{"loading":"LOADING","preparingExperience":"Preparing experience"}},"lang":"en","theme":"dark"}]
+12:null
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:null
+1c:{"metadata":[["$","title","0",{"children":"Tailwind CSS Theme | Interactive Portfolio"}],["$","meta","1",{"name":"description","content":"Fundamentals - Tailwind CSS Theme"}],["$","meta","2",{"name":"author","content":"Developer"}],["$","meta","3",{"name":"keywords","content":"portfolio,3D,interactive,web development,Three.js,Next.js"}],["$","meta","4",{"property":"og:title","content":"Tailwind CSS Theme | Interactive Portfolio"}],["$","meta","5",{"property":"og:description","content":"Fundamentals - Tailwind CSS Theme"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"property":"article:published_time","content":"2025-06-22"}],["$","meta","8",{"property":"article:tag","content":"TailwindCSS"}],["$","meta","9",{"property":"article:tag","content":"Fundamentals"}],["$","meta","10",{"property":"article:tag","content":"Theme"}],["$","meta","11",{"property":"article:tag","content":"CSS"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Tailwind CSS Theme | Interactive Portfolio"}],["$","meta","14",{"name":"twitter:description","content":"Fundamentals - Tailwind CSS Theme"}],["$","link","15",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"32x32"}]],"error":null,"digest":"$undefined"}
+14:{"metadata":"$1c:metadata","error":null,"digest":"$undefined"}
