@@ -45,14 +45,14 @@ jobs:
           find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
           -exec sed -i 's|"/locales/|"/MilkWind-Website/locales/|g' {} +
           # Rewrite app route links to include the GitHub Pages base path
-          find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
-          -exec sed -i 's|"/personal/|"/MilkWind-Website/personal/|g' {} +
-          find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
-          -exec sed -i 's|"/works/|"/MilkWind-Website/works/|g' {} +
-          find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
-          -exec sed -i 's|"/contributions/|"/MilkWind-Website/contributions/|g' {} +
-          find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
-          -exec sed -i 's|"/documents/|"/MilkWind-Website/documents/|g' {} +
+          # find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
+          # -exec sed -i 's|"/personal/|"/MilkWind-Website/personal/|g' {} +
+          # find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
+          # -exec sed -i 's|"/works/|"/MilkWind-Website/works/|g' {} +
+          # find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
+          # -exec sed -i 's|"/contributions/|"/MilkWind-Website/contributions/|g' {} +
+          # find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
+          # -exec sed -i 's|"/documents/|"/MilkWind-Website/documents/|g' {} +
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
