@@ -33,6 +33,17 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Rewrite resource paths
+        run: |
+          # Replace paths in all HTML/CSS/JS files in the current directory
+          # Rule: Replace all absolute paths starting with / to start with /MilkWind-Website/
+          # Replace various resource paths
+          find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
+          -exec sed -i 's|"/_next/|"/MilkWind-Website/_next/|g' {} +
+          find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
+          -exec sed -i 's|"/favicon.ico|"/MilkWind-Website/favicon.ico|g' {} +
+          find . -type f \( -name "*.html" -o -name "*.css" -o -name "*.js" \) \
+          -exec sed -i 's|"/locales/|"/MilkWind-Website/locales/|g' {} +
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
