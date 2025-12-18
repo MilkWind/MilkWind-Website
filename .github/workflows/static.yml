@@ -55,7 +55,7 @@ jobs:
           # -exec sed -i 's|"/documents|"/MilkWind-Website/documents|g' {} +
           # Rewrite resource paths
           find . -type f \( -name "*.js" \) \
-          -exec sed -i 's|"/index.txt|"/|g' {} +
+          -exec sed -i 's|"index.txt|"|g' {} +
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
